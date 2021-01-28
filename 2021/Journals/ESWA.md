@@ -1,0 +1,1 @@
+* Abdoos M, Bazzan A L C. <b>Hierarchical Traffic Signal Optimization Using Reinforcement Learning and Traffic Prediction with Long-Short Term Memory[J]</b>. Expert Systems with Applications, 2021: 114580. [Link](https://www.sciencedirect.com/science/article/pii/S095741742100021X)
