@@ -1,0 +1,1 @@
+* Lu H, Ge Z, Song Y, et al. <b>A temporal-aware LSTM enhanced by loss-switch mechanism for traffic flow forecasting[J]</b>. Neurocomputing, 2021, 427: 169-178. [Link](https://www.sciencedirect.com/science/article/pii/S0925231220318130) [Code](https://github.com/illumina7e/TCC-LSTM-LSM)
