@@ -1,0 +1,1 @@
+* Wang J, Boukerche A. <b>Non-parametric models with optimized training strategy for vehicles traffic flow prediction[J]</b>. Computer Networks, 107791. [Link](https://www.sciencedirect.com/science/article/pii/S1389128620313621)
