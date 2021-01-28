@@ -1,0 +1,1 @@
+* Doğan E. <b>LSTM training set analysis and clustering model development for short-term traffic flow prediction[J]</b>. Neural Computing and Applications, 2021, 1-14. [Link](https://link.springer.com/article/10.1007/s00521-020-05564-5)
