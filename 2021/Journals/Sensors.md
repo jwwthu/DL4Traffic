@@ -1,0 +1,1 @@
+* Peppa M V, Komar T, Xiao W, et al. <b>Towards an End-to-End Framework of CCTV-Based Urban Traffic Volume Detection and Prediction[J]</b>. Sensors, 2021, 21(2): 629. [Link](https://www.mdpi.com/1424-8220/21/2/629)
