@@ -1,0 +1,1 @@
+* Shoman M, Aboah A, Adu-Gyamfi Y. <b>Deep Learning Framework for Predicting Bus Delays on Multiple Routes Using Heterogenous Datasets[J]</b>. Journal of Big Data Analytics in Transportation, 1-16. [Link](https://link.springer.com/article/10.1007/s42421-020-00031-y)
