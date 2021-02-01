@@ -1,0 +1,1 @@
+* Luo M, Du B, Klemmer K, et al. <b>D3P: Data-driven Demand Prediction for Fast Expanding Electric Vehicle Sharing Systems[J]</b>. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2020, 4(1): 1-21. [Link](https://dl.acm.org/doi/abs/10.1145/3381005)

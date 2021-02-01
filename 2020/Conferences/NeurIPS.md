@@ -1,0 +1,2 @@
+* Bai L, Yao L, Li C, et al. <b>Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting[C]</b>//Advances in Neural Information Processing Systems (NeurIPS), 2020. [Link](https://arxiv.org/abs/2007.02842) [Code](https://github.com/LeiBAI/AGCRN)
+* Cao D, Wang Y, Duan J, et al. <b>Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting[C]</b>. Advances in Neural Information Processing Systems, 2020, 33. [Link](https://proceedings.neurips.cc/paper/2020/hash/cdf6581cb7aca4b7e19ef136c6e601a5-Abstract.html)

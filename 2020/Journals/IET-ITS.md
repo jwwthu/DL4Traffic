@@ -1,0 +1,2 @@
+* Zhang J, Chen F, Guo Y. <b>Multi-Graph Convolutional Network for Short-Term Passenger Flow Forecasting in Urban Rail Transit[J]</b>. IET Intelligent Transport Systems, 2020. [Link](https://ieeexplore.ieee.org/document/9199407) [Code](https://github.com/JinleiZhangBJTU/Conv-GCN)
+* Fukuda S, Uchida H, Fujii H, et al. <b>Short-term prediction of traffic flow under incident conditions using graph convolutional recurrent neural network and traffic simulation[J]</b>. IET Intelligent Transport Systems, 2020. [Link](https://ieeexplore.ieee.org/document/9154861)

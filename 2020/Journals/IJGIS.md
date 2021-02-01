@@ -1,0 +1,1 @@
+* Zhang Y, Cheng T, Ren Y, et al. <b>A novel residual graph convolution deep learning model for short-term network-based traffic forecasting[J]</b>. International Journal of Geographical Information Science, 2020, 34(5): 969-995. [Link](https://www.tandfonline.com/doi/abs/10.1080/13658816.2019.1697879)

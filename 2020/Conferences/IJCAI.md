@@ -1,0 +1,1 @@
+* Huang R, Huang C, Liu Y, et al. <b>LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks[C]</b>//Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI. 2020. [Link](https://www.ijcai.org/Proceedings/2020/326)

@@ -1,0 +1,1 @@
+* Azzedine Boukerche, Jiahao Wang, <b>A Performance Modeling and Analysis of a Novel Vehicular Traffic Flow Prediction System Using a Hybrid Machine Learning-Based Model</b>, Ad Hoc Networks, 2020. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1570870520301803)

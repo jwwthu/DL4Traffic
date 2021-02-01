@@ -1,0 +1,2 @@
+* Lu Y, Li C. <b>AGSTN: Learning Attention-adjusted Graph Spatio-Temporal Networks for Short-term Urban Sensor Value Forecasting[C]</b>//2020 IEEE International Conference on Data Mining (ICDM). IEEE, 2020. [Link](https://arxiv.org/abs/2101.12465) [Code](https://github.com/l852888/AGSTN)
+* Chen X, Zhang Y, Du L, et al. <b>TSSRGCN: Temporal Spectral Spatial Retrieval Graph Convolutional Network for Traffic Flow Forecasting[C]</b>//2020 IEEE International Conference on Data Mining (ICDM). IEEE, 2020. [Link](https://arxiv.org/abs/2011.14638)

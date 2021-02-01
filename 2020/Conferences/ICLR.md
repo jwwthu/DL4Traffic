@@ -1,0 +1,1 @@
+* Yang F, Chen L, Zhou F, et al. <b>Relational State-Space Model for Stochastic Multi-Object Systems[C]</b>//International Conference on Learning Representations. 2020. [Link](https://openreview.net/forum?id=B1lGU64tDr) [Code](https://github.com/fanyang01/relational-ssm)

@@ -1,0 +1,1 @@
+* Xu Z, Kang Y, Cao Y, et al. <b>Spatiotemporal Graph Convolution Multifusion Network for Urban Vehicle Emission Prediction[J]</b>. IEEE Transactions on Neural Networks and Learning Systems, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9151256/)

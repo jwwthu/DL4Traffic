@@ -1,0 +1,1 @@
+* Zhang Y, Dong X, Shang L, et al. <b>A multi-modal graph neural network approach to traffic risk forecasting in smart urban sensing[C]</b>//2020 17th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON). IEEE, 2020: 1-9. [Link](https://ieeexplore.ieee.org/abstract/document/9158447/)

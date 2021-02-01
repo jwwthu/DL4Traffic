@@ -1,0 +1,1 @@
+* Bing H, Zhifeng X, Yangjie X, et al. <b>Integrating Semantic Zoning Information with the Prediction of Road Link Speed Based on Taxi GPS Data[J]</b>. Complexity, 2020, 2020. [Link](https://www.hindawi.com/journals/complexity/2020/6939328/)

@@ -1,0 +1,1 @@
+* Qin T, Liu T, Wu H, et al. <b>RESGCN: RESidual Graph Convolutional Network based Free Dock Prediction in Bike Sharing System[C]</b>//2020 21st IEEE International Conference on Mobile Data Management (MDM). IEEE, 2020: 210-217. [Link](https://ieeexplore.ieee.org/abstract/document/9162310/)

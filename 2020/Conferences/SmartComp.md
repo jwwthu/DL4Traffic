@@ -1,0 +1,1 @@
+* Yeghikyan G, Opolka F L, Nanni M, et al. <b>Learning Mobility Flows from Urban Features with Spatial Interaction Models and Neural Networks[C]</b>//2020 IEEE International Conference on Smart Computing (SMARTCOMP). IEEE, 2020. [Link](https://arxiv.org/abs/2004.11924) [Code](https://github.com/FelixOpolka/Mobility-Flows-Neural-Networks)

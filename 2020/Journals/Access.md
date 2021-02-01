@@ -1,0 +1,5 @@
+* Tang C, Sun J, Sun Y, et al. <b>A General Traffic Flow Prediction Approach Based on Spatial-Temporal Graph Attention[J]</b>. IEEE Access, 2020, 8: 153731-153741. [Link](https://ieeexplore.ieee.org/abstract/document/9173702/) [Code](https://github.com/sam101340/GAGCN-BC-20200720)
+* Feng D, Wu Z, Zhang J, et al. <b>Dynamic Global-Local Spatial-Temporal Network for Traffic Speed Prediction[J]</b>. IEEE Access, 2020, 8: 209296-209307. [Link](https://ieeexplore.ieee.org/abstract/document/9261496)
+* Chen K, Chen F, Lai B, et al. <b>Dynamic Spatio-Temporal Graph-Based CNNs for Traffic Flow Prediction[J]</b>. IEEE Access, 2020, 8: 185136-185145. [Link](https://ieeexplore.ieee.org/document/9207934)
+* Zhao B, Gao X, Liu J, et al. <b>Spatiotemporal Data Fusion in Graph Convolutional Networks for Traffic Prediction[J]</b>. IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/document/9076005)
+* Kong X, Xing W, Wei X, et al. <b>STGAT: Spatial-Temporal Graph Attention Networks for Traffic Flow Forecasting[J].</b> IEEE Access, 2020. [Link](https://ieeexplore.ieee.org/document/9146162) [Code (still empty on Aug 3, 2020)](https://github.com/xyk0058/STGAT)

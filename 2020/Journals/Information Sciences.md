@@ -1,0 +1,1 @@
+* Peng H, Wang H, Du B, et al. <b>Spatial temporal incidence dynamic graph neural networks for traffic flow forecasting[J]</b>. Information Sciences, 2020, 521: 277-290. [Link](https://www.sciencedirect.com/science/article/pii/S0020025520300451) [Code](https://github.com/RingBDStack/GCNN-In-Traffic)

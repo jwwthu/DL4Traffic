@@ -1,0 +1,1 @@
+* Lewenfus G, Martins W A, Chatzinotas S, et al. <b>Joint Forecasting and Interpolation of Time-Varying Graph Signals Using Deep Learning[J]</b>. IEEE Transactions on Signal and Information Processing over Networks, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9268114)

@@ -1,0 +1,2 @@
+* Guo K, Hu Y, Qian Z S, et al. <b>An Optimized Temporal-Spatial Gated Graph Convolution Network for Traffic Forecasting[J]</b>. IEEE Intelligent Transportation Systems Magazine, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9055022/)
+* Zhang T, Guo G. <b>Graph Attention LSTM: A Spatio-Temperal Approach for Traffic Flow Forecasting[J]</b>. IEEE Intelligent Transportation Systems Magazine, 2020. [Link](https://ieeexplore.ieee.org/document/9108267)

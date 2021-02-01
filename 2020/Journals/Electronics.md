@@ -1,0 +1,1 @@
+* Lu H, Huang D, Song Y, et al. <b>St-trafficnet: A spatial-temporal deep learning network for traffic forecasting[J]</b>. Electronics, 2020, 9(9): 1474. [Link](https://www.mdpi.com/2079-9292/9/9/1474)

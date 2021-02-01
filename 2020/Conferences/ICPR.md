@@ -1,0 +1,2 @@
+* Sun Y, Wang Y, Fu K, et al. <b>Constructing Geographic and Long-term Temporal Graph for Traffic Forecasting[C]</b>. International Conference on Pattern Recognition. Springer, 2020. [Link](https://arxiv.org/abs/2004.10958)
+* Mallick T, Balaprakash P, Rask E, et al. <b>Transfer Learning with Graph Neural Networks for Short-Term Highway Traffic Forecasting[C]</b>. International Conference on Pattern Recognition. Springer, 2020. [Link](https://arxiv.org/abs/2004.08038) [Code](https://github.com/tanwimallick/TL-DCRNN)

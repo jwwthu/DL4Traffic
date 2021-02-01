@@ -1,0 +1,1 @@
+* Zhou F, Yang Q, Zhong T, et al. <b>Variational Graph Neural Networks for Road Traffic Prediction in Intelligent Transportation Systems[J]</b>. IEEE Transactions on Industrial Informatics, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9140389/)
