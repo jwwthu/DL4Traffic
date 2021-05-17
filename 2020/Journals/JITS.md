@@ -1,0 +1,1 @@
+* Zhan X, Zhang S, Szeto W Y, et al. <b>Multi-step-ahead traffic speed forecasting using multi-output gradient boosting regression tree[J]</b>. Journal of Intelligent Transportation Systems, 2020, 24(2): 125-141. [Link](https://www.tandfonline.com/doi/abs/10.1080/15472450.2019.1582950)

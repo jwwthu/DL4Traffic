@@ -1,0 +1,3 @@
+* Wang Z, Chu R, Zhang M, et al. <b>An Improved Hybrid Highway Traffic Flow Prediction Model Based on Machine Learning[J]</b>. Sustainability, 2020, 12(20): 8298. [Link](https://www.mdpi.com/2071-1050/12/20/8298)
+* Zhou W, Wang W, Hua X, et al. <b>Real-Time Traffic Flow Forecasting via a Novel Method Combining Periodic-Trend Decomposition[J]</b>. Sustainability, 2020, 12(15): 5891. [Link](https://www.mdpi.com/2071-1050/12/15/5891) [Data](http://data.dot.state.mn.us/datatools/)
+* Tišljarić L, Carić T, Abramović B, et al. <b>Traffic State Estimation and Classification on Citywide Scale Using Speed Transition Matrices[J]</b>. Sustainability, 2020, 12(18): 7278. [Link](https://www.mdpi.com/2071-1050/12/18/7278)

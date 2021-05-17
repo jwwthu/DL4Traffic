@@ -1,0 +1,1 @@
+* Li X, Zhang Y, Du M, et al. <b>The forecasting of passenger demand under hybrid ridesharing service modes: A combined model based on WT-FCBF-LSTM[J]</b>. Sustainable Cities and Society, 2020, 62: 102419. [Link](https://www.sciencedirect.com/science/article/pii/S2210670720306405)

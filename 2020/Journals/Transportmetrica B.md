@@ -1,1 +1,2 @@
 * Zhang K, He F, Zhang Z, et al. <b>Graph attention temporal convolutional network for traffic speed forecasting on road networks[J]</b>. Transportmetrica B: Transport Dynamics, 2020: 1-19. [Link](https://www.tandfonline.com/doi/abs/10.1080/21680566.2020.1822765)
+* Wang L, Zhong H, Ma W, et al. <b>Multi-source data-driven prediction for the dynamic pickup demand of one-way carsharing systems[J]</b>. Transportmetrica B: Transport Dynamics, 2020, 8(1): 90-107. [Link](https://www.tandfonline.com/doi/abs/10.1080/21680566.2019.1695232)

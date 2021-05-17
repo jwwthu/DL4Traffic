@@ -1,0 +1,2 @@
+* Li T, Ma J, Lee C. <b>Markov-Based Time Series Modeling Framework for Traffic-Network State Prediction under Various External Conditions[J]</b>. Journal of Transportation Engineering, Part A: Systems, 2020, 146(6): 04020042. [Link](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000347)
+* Li W, Ban X J, Zheng J, et al. <b>Real-time movement-based traffic volume prediction at signalized intersections[J]</b>. Journal of Transportation Engineering, Part A: Systems, 2020, 146(8): 04020081. [Link](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000384)

@@ -1,0 +1,1 @@
+* Vijayalakshmi B, Ramar K, Jhanjhi N Z, et al. <b>An attention‐based deep learning model for traffic flow prediction using spatiotemporal features towards sustainable smart city[J]</b>. International Journal of Communication Systems, 2021, 34(3): e4609. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.4609)

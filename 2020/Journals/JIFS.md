@@ -1,0 +1,1 @@
+* Dahui L I. <b>Predicting short-term traffic flow in urban based on multivariate linear regression model[J]</b>. Journal of Intelligent & Fuzzy Systems, 2020 (Preprint): 1-11. [Link](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179916)

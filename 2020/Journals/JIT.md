@@ -1,0 +1,1 @@
+* Cho J, Yi H, Jung H, et al. <b>An image generation approach for traffic density classification at large-scale road network[J]</b>. Journal of Information and Telecommunication, 2020: 1-14. [Link](https://www.tandfonline.com/doi/abs/10.1080/24751839.2020.1847507)

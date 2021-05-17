@@ -1,0 +1,1 @@
+* Ding Z J, Dai Z, Chen X M, et al. <b>Simulating on-demand ride services in a Manhattan-like urban network considering traffic dynamics[J]</b>. Physica A: Statistical Mechanics and its Applications, 2020, 545: 123621. [Link](https://www.sciencedirect.com/science/article/pii/S0378437119320199)

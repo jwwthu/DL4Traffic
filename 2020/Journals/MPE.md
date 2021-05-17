@@ -1,0 +1,1 @@
+* Chen B, Li W. <b>Multitime Resolution Hierarchical Attention-Based Recurrent Highway Networks for Taxi Demand Prediction[J]</b>. Mathematical Problems in Engineering, 2020, 2020. [Link](https://www.hindawi.com/journals/mpe/2020/4173094/)
