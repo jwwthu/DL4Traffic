@@ -1,0 +1,1 @@
+* Vélez-Serrano D, Álvaro-Meca A, Sebastián-Huerta F, et al. <b>Spatio-Temporal Traffic Flow Prediction in Madrid: An Application of Residual Convolutional Neural Networks[J]</b>. Mathematics, 2021, 9(9): 1068. [Link](https://www.mdpi.com/1103228) [Code](https://github.com/jfvelezserrano/Trafico)

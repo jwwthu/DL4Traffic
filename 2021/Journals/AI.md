@@ -1,0 +1,1 @@
+* Tu Y, Lin S, Qiao J, et al. <b>Deep traffic congestion prediction model based on road segment grouping[J]</b>. Applied Intelligence, 2021: 1-23. [Link](https://link.springer.com/article/10.1007/s10489-020-02152-x)

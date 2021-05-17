@@ -1,0 +1,1 @@
+* Tsai C W, Fang Z Y. <b>An Effective Hyperparameter Optimization Algorithm for DNN to Predict Passengers at a Metro Station[J]</b>. ACM Transactions on Internet Technology (TOIT), 2021, 21(2): 1-24. [Link](https://dl.acm.org/doi/abs/10.1145/3410156)

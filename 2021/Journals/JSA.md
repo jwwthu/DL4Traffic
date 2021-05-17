@@ -1,0 +1,1 @@
+* Zhang K, Xie C, Wang Y, et al. <b>Hybrid short-term traffic forecasting architecture and mechanisms for reservation-based Cooperative ITS[J]</b>. Journal of Systems Architecture, 2021, 117: 102101. [Link](https://www.sciencedirect.com/science/article/pii/S1383762121000801) [Code](https://gitee.com/clementzhang/soc-itss)

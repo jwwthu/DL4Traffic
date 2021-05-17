@@ -1,0 +1,1 @@
+* Zhang L, Wu J, Shen J, et al. <b>SATP-GAN: self-attention based generative adversarial network for traffic flow prediction[J]</b>. Transportmetrica B: Transport Dynamics, 2021, 9(1): 552-568. [Link](https://www.tandfonline.com/doi/abs/10.1080/21680566.2021.1916646)

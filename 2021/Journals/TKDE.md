@@ -1,0 +1,1 @@
+* He S, Shin K G. <b>Distribution Prediction for Reconfiguring Urban Dockless E-Scooter Sharing Systems[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9363542/)

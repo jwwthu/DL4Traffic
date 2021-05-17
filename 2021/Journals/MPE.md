@@ -1,0 +1,1 @@
+* Xie Z Y, He Y R, Chen C C, et al. <b>Multistep Prediction of Bus Arrival Time with the Recurrent Neural Network[J]</b>. Mathematical Problems in Engineering, 2021, 2021. [Link](https://www.hindawi.com/journals/mpe/2021/6636367/) [Data](https://github.com/ricebow/multi-step-RNN)

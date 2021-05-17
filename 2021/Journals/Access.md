@@ -1,0 +1,5 @@
+* Li Y, Chai S, Ma Z, et al. <b>A Hybrid Deep Learning Framework for Long-Term Traffic Flow Prediction[J]</b>. IEEE Access, 2021, 9: 11264-11271. [Link](https://ieeexplore.ieee.org/abstract/document/9319663)
+* Huang H, Chen J, Huo X, et al. <b>Effect of Multi-Scale Decomposition on Performance of Neural Networks in Short-Term Traffic Flow Prediction[J]</b>. IEEE Access, 2021, 9: 50994-51004. [Link](https://ieeexplore.ieee.org/abstract/document/9386061/)
+* Chen Z, Wu B, Li B, et al. <b>Expressway Exit Traffic Flow Prediction for ETC and MTC Charging System Based on Entry Traffic Flows and LSTM Model[J]</b>. IEEE Access, 2021, 9: 54613-54624. [Link](https://ieeexplore.ieee.org/abstract/document/9393945/)
+* Awan N, Ali A, Khan F, et al. <b>Modeling Dynamic Spatio-Temporal Correlations for Urban Traffic Flows Prediction[J]</b>. IEEE Access, 2021, 9: 26502-26511. [Link](https://ieeexplore.ieee.org/abstract/document/9345698/)
+* Lee K, Eo M, Jung E, et al. <b>Short-term traffic prediction with deep neural networks: A survey[J]</b>. IEEE Access, 2021, 9: 54739-54756. [Link](https://ieeexplore.ieee.org/abstract/document/9395529/)

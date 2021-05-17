@@ -1,1 +1,2 @@
 * Shoman M, Aboah A, Adu-Gyamfi Y. <b>Deep Learning Framework for Predicting Bus Delays on Multiple Routes Using Heterogenous Datasets[J]</b>. Journal of Big Data Analytics in Transportation, 1-16. [Link](https://link.springer.com/article/10.1007/s42421-020-00031-y)
+* Chen L, Thakuriah P V, Ampountolas K. <b>Short-Term Prediction of Demand for Ride-Hailing Services: A Deep Learning Approach[J]</b>. Journal of Big Data Analytics in Transportation, 2021: 1-21. [Link](https://link.springer.com/article/10.1007/s42421-021-00041-4)

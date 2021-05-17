@@ -1,0 +1,1 @@
+* Wang F, Xu J, Liu C, et al. <b>On prediction of traffic flows in smart cities: a multitask deep learning based approach[J]</b>. World Wide Web, 2021: 1-19. [Link](https://link.springer.com/article/10.1007/s11280-021-00877-4)

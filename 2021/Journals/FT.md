@@ -1,0 +1,1 @@
+* Abduljabbar R L, Dia H, Tsai P W, et al. <b>Short-Term Traffic Forecasting: An LSTM Network for Spatial-Temporal Speed Prediction[J]</b>. Future Transportation, 2021, 1(1): 21-37. [Link](https://www.mdpi.com/1053052)

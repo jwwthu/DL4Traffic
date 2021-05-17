@@ -1,0 +1,2 @@
+* Du W, Zhang Q, Chen Y, et al. <b>An urban short-term traffic flow prediction model based on wavelet neural network with improved whale optimization algorithm[J]</b>. Sustainable Cities and Society, 2021, 69: 102858. [Link](https://www.sciencedirect.com/science/article/pii/S2210670721001487)
+* Majumdar S, Subhani M M, Roullier B, et al. <b>Congestion prediction for smart sustainable cities using IoT and machine learning approaches[J]</b>. Sustainable Cities and Society, 2021, 64: 102500. [Link](https://www.sciencedirect.com/science/article/pii/S2210670720307198)

@@ -1,0 +1,1 @@
+* Zang T, Zhu Y, Xu Y, et al. <b>Jointly Modeling Spatio–Temporal Dependencies and Daily Flow Correlations for Crowd Flow Prediction[J]</b>. ACM Transactions on Knowledge Discovery from Data (TKDD), 2021, 15(4): 1-20. [Link](https://dl.acm.org/doi/abs/10.1145/3439346)

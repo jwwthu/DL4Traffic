@@ -1,0 +1,1 @@
+* Li J, Li H, Cul G, et al. <b>GACNet: A Generative Adversarial Capsule Network for Regional Epitaxial Traffic Flow Prediction[J]</b>. CMC-COMPUTERS MATERIALS & CONTINUA, 2020, 64(2): 925-940. [Link](https://www.techscience.com/cmc/v64n2/39337)

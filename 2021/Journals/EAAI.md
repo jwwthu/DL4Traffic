@@ -1,0 +1,1 @@
+* Wang D, Ma Q, Wang N, et al. <b>AONet: Active Offset Network for crowd flow prediction[J]</b>. Engineering Applications of Artificial Intelligence, 2021, 97: 104022. [Link](https://www.sciencedirect.com/science/article/pii/S0952197620303055)
