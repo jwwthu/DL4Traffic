@@ -1,1 +1,3 @@
+* Xu T, Han G, Qi X, et al. <b>A hybrid machine learning model for demand prediction of edge-computing-based bike-sharing system using internet of things[J]</b>. IEEE Internet of Things Journal, 2020, 7(8): 7345-7356. [Link](https://ieeexplore.ieee.org/abstract/document/9046294/)
 * Zhou F, Yang Q, Zhang K, et al. <b>Reinforced Spatio-Temporal Attentive Graph Neural Networks for Traffic Forecasting[J]</b>. IEEE Internet of Things Journal, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9003261/)
+* Sutjarittham T, Gharakheili H H, Kanhere S S, et al. <b>Monetizing Parking IoT Data via Demand Prediction and Optimal Space Sharing[J]</b>. IEEE Internet of Things Journal, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9295328/)

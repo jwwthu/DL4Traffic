@@ -1,0 +1,1 @@
+* Li L, Sheng X, Du B, et al. <b>A deep fusion model based on restricted Boltzmann machines for traffic accident duration prediction[J]</b>. Engineering Applications of Artificial Intelligence, 2020, 93: 103686. [Link](https://www.sciencedirect.com/science/article/pii/S0952197620301226)

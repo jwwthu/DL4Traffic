@@ -1,0 +1,1 @@
+* George S, Santra A K. <b>An improved long short‐term memory networks with Takagi‐Sugeno fuzzy for traffic speed prediction considering abnormal traffic situation[J]</b>. Computational Intelligence, 2020, 36(3): 964-993. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/coin.12291)

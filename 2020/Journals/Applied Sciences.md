@@ -1,1 +1,2 @@
+* Ouyang Q, Lv Y, Ma J, et al. <b>An LSTM-Based Method Considering History and Real-Time Data for Passenger Flow Prediction[J]</b>. Applied Sciences, 2020, 10(11): 3788. [Link](https://www.mdpi.com/2076-3417/10/11/3788)
 * Ge L, Li S, Wang Y, et al. <b>Global Spatial-Temporal Graph Convolutional Network for Urban Traffic Speed Prediction[J]</b>. Applied Sciences, 2020, 10(4): 1509. [Link](https://www.mdpi.com/2076-3417/10/4/1509)

@@ -1,0 +1,2 @@
+* Bhatia J, Dave R, Bhayani H, et al. <b>SDN-based real-time urban traffic analysis in VANET environment[J]</b>. Computer Communications, 2020, 149: 162-175. [Link](https://www.sciencedirect.com/science/article/pii/S0140366419308916)
+* Sathishkumar V E, Park J, Cho Y. <b>Using data mining techniques for bike sharing demand prediction in metropolitan city[J]</b>. Computer Communications, 2020, 153: 353-366. [Link](https://www.sciencedirect.com/science/article/pii/S0140366419318997)

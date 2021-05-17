@@ -1,1 +1,0 @@
-* Tsai C W, Hsia C H, Yang S J, et al. <b>Optimizing hyperparameters of deep learning in predicting bus passengers based on simulated annealing[J]</b>. Applied Soft Computing, 2020, 88: 106068. [Link](https://www.sciencedirect.com/science/article/pii/S1568494620300089)

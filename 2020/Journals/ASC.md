@@ -1,0 +1,2 @@
+* Li L, Ran B, Zhu J, et al. <b>Coupled application of deep learning model and quantile regression for travel time and its interval estimation using data in different dimensions[J]</b>. Applied Soft Computing, 2020, 93: 106387. [Link](https://www.sciencedirect.com/science/article/pii/S1568494620303276)
+* Tsai C W, Hsia C H, Yang S J, et al. <b>Optimizing hyperparameters of deep learning in predicting bus passengers based on simulated annealing[J]</b>. Applied Soft Computing, 2020, 88: 106068. [Link](https://www.sciencedirect.com/science/article/pii/S1568494620300089)

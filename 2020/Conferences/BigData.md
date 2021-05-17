@@ -1,0 +1,1 @@
+* He Z, Chow C Y, Zhang J D. <b>GAMIT: A New Encoder-Decoder Framework with Graphical Space and Multi-grained Time for Traffic Predictions[C]</b>//2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020: 938-943. [Link](https://ieeexplore.ieee.org/abstract/document/9378143/)

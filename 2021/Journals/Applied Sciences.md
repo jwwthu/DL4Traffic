@@ -1,0 +1,1 @@
+* Abideen Z U, Sun H, Yang Z, et al. <b>Deep Wide Spatial-Temporal Based Transformer Networks Modeling for the Next Destination According to the Taxi Driver Behavior Prediction[J]</b>. Applied Sciences, 2021, 11(1): 17. [Link](https://www.mdpi.com/2076-3417/11/1/17)

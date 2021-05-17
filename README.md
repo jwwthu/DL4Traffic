@@ -8,8 +8,9 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 
 ## Journals
 * Ad Hoc Networks - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Ad%20Hoc%20Networks.md)
-* Applied Soft Computing - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/SC.md)
+* Applied Soft Computing - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/ASC.md)
 * Applied Sciences - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Applied%20Sciences.md)
+* Arabian Journal for Science and Engineering - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/AJSE.md)
 * Chaos: An Interdisciplinary Journal of Nonlinear Science - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Chaos.md)
 * Complexity - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Complexity.md)
 * Computer‐Aided Civil and Infrastructure Engineering - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/CACIE.md)
