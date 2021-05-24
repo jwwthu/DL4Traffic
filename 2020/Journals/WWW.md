@@ -1,1 +1,2 @@
+* Essien A, Petrounias I, Sampaio P, et al. <b>A deep-learning model for urban traffic flow prediction with traffic events mined from twitter[J]</b>. World Wide Web, 2020: 1-24. [Link](https://link.springer.com/article/10.1007/s11280-020-00800-3)
 * Pholsena K, Pan L, Zheng Z. <b>Mode decomposition based deep learning model for multi-section traffic prediction[J]</b>. World Wide Web, 2020, 23(4): 2513-2527. [Link](https://link.springer.com/article/10.1007/s11280-020-00791-1)
