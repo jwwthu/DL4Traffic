@@ -1,0 +1,1 @@
+* Doğan E. <b>Analysis of the relationship between LSTM network traffic flow prediction performance and statistical characteristics of standard and nonstandard data[J]</b>. Journal of Forecasting, 2020, 39(8): 1213-1228. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/for.2683)

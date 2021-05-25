@@ -50,6 +50,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * Journal of Advanced Transportation - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/JAT.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JAT.md)
 * Journal of Big Data Analytics in Transportation - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/JBDAT.md)
 * Journal of Computer Science and Technology - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JCST.md)
+* Journal of Forecasting - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JF.md)
 * Journal of Information and Telecommunication - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JIT.md)
 * Journal of Intelligent Transportation Systems - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JITS.md)
 * Journal of Intelligent & Fuzzy Systems - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JIFS.md)
