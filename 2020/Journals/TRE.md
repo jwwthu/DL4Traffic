@@ -1,0 +1,1 @@
+* Huang P, Wen C, Fu L, et al. <b>Modeling train operation as sequences: A study of delay prediction with operation and weather data[J]</b>. Transportation research part E: logistics and transportation review, 2020, 141: 102022. [Link](https://www.sciencedirect.com/science/article/pii/S1366554520306736)

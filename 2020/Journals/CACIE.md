@@ -1,1 +1,2 @@
 * Mo B, Li R, Dai J. <b>Estimating dynamic origin–destination demand: A hybrid framework using license plate recognition data[J]</b>. Computer‐Aided Civil and Infrastructure Engineering, 2020, 35(7): 734-752. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12526)
+* Zhang S, Zhou L, Chen X, et al. <b>Network‐wide traffic speed forecasting: 3D convolutional neural network with ensemble empirical mode decomposition[J]</b>. Computer‐Aided Civil and Infrastructure Engineering, 2020, 35(10): 1132-1147. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12575)

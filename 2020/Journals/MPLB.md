@@ -1,0 +1,1 @@
+* Qiao Y, Wang Y, Ma C, et al. <b>Short-term traffic flow prediction based on 1DCNN-LSTM neural network structure[J]</b>. Modern Physics Letters B, 2021, 35(02): 2150042. [Link](https://www.worldscientific.com/doi/abs/10.1142/S0217984921500421)

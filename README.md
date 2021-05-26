@@ -9,7 +9,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 
 ## Journals
 * ACM Transactions on Internet Technology - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/TOIT.md)
-* ACM Transactions on Knowledge Discovery from Data - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/TKDD.md)
+* ACM Transactions on Knowledge Discovery from Data - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/TKDD.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/TKDD.md)
 * Ad Hoc Networks - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Ad%20Hoc%20Networks.md)
 * Applied Intelligence - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/AI.md)
 * Applied Soft Computing - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/ASC.md)
@@ -26,6 +26,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * Electronics - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Electronics.md)
 * Engineering Applications of Artificial Intelligence - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/EAAI.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/EAAI.md)
 * Expert Systems with Applications - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/ESWA.md)
+* Forecasting - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Forecasting.md)
 * Future Generation Computer Systems - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/FGCS.md)
 * Future Transportation - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/FT.md)
 * GeoInformatica - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/GeoInformatica.md)
@@ -34,6 +35,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * IEEE Internet of Things Journal - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/IoT-Journal.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/IoT-Journal.md)
 * IEEE Signal Processing Letters - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/SPL.md)
 * IEEE Transactions on Big Data - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/TBD.md)
+* IEEE Transactions on Fuzzy Systems - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/TFS.md)
 * IEEE Transactions on Industrial Informatics - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/TII.md)
 * IEEE Transactions on Intelligent Transportation Systems - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/T-ITS.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/T-ITS.md)
 * IEEE Transactions on Knowledge and Data Engineering - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/TKDE.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/TKDE.md)
@@ -50,6 +52,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * Journal of Advanced Transportation - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/JAT.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JAT.md)
 * Journal of Big Data Analytics in Transportation - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/JBDAT.md)
 * Journal of Computer Science and Technology - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JCST.md)
+* Journal of Control Science and Engineering - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JCSE.md)
 * Journal of Forecasting - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JF.md)
 * Journal of Information and Telecommunication - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JIT.md)
 * Journal of Intelligent Transportation Systems - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JITS.md)
@@ -60,6 +63,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * KSII Transactions on Internet & Information Systems - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/ITIIS.md)
 * Mathematical Problems in Engineering - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/MPE.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/MPE.md)
 * Mathematics - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/Mathematics.md)
+* Modern Physics Letters B - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/MPLB.md)
 * Multimedia Tools and Applications - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/MTAA.md)
 * Neural Computing and Applications - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/NCA.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/NCA.md)
 * Neurocomputing - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/Neurocomputing.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Neurocomputing.md)
@@ -73,6 +77,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * Transactions in GIS - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/TGIS.md)
 * Transportmetrica B: Transport Dynamics - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/TransportmetricaB.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/TransportmetricaB.md)
 * Transportation Research Part C: Emerging Technologies - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/TRC.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/TRC.md)
+* Transportation Research Part E: Logistics and Transportation Review - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/TRE.md)
 * Transportation Research Record - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/TRR.md)
 * World Wide Web - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/WWW.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/WWW.md)
 

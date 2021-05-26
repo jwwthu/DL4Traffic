@@ -1,2 +1,3 @@
 * Mon E E, Ochiai H, Saivichit C, et al. <b>Bottleneck Based Gridlock Prediction in an Urban Road Network Using Long Short-Term Memory[J]</b>. Electronics, 2020, 9(9): 1412. [Link](https://www.mdpi.com/2079-9292/9/9/1412)
+* Yuan Y, Shao C, Cao Z, et al. <b>Bus Dynamic Travel Time Prediction: Using a Deep Feature Extraction Framework Based on RNN and DNN[J]</b>. Electronics, 2020, 9(11): 1876. [Link](https://www.mdpi.com/2079-9292/9/11/1876)
 * Lu H, Huang D, Song Y, et al. <b>St-trafficnet: A spatial-temporal deep learning network for traffic forecasting[J]</b>. Electronics, 2020, 9(9): 1474. [Link](https://www.mdpi.com/2079-9292/9/9/1474)

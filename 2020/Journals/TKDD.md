@@ -1,0 +1,1 @@
+* Chen C, Li K, Teo S G, et al. <b>Citywide Traffic Flow Prediction Based on Multiple Gated Spatio-temporal Convolutional Neural Networks[J]</b>. ACM Transactions on Knowledge Discovery from Data (TKDD), 2020, 14(4): 1-23. [Link](https://dl.acm.org/doi/abs/10.1145/3385414)
