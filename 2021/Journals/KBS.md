@@ -1,0 +1,1 @@
+* James J Q. <b>Citywide traffic speed prediction: A geometric deep learning approach[J]</b>. Knowledge-Based Systems, 2020: 106592. [Link](https://www.sciencedirect.com/science/article/pii/S0950705120307218)
