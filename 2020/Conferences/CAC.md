@@ -1,0 +1,3 @@
+* Jiao X. <b>A Dense Inception Network with Attention Mechanism for Short-term Traffic Flow Prediction[C]</b>//2020 Chinese Automation Congress (CAC). IEEE, 2020: 96-100. [Link](https://ieeexplore.ieee.org/abstract/document/9327049/)
+* Cheng Z, Li Y, Zhu H. <b>Improved Particle Swarm Optimization-based GRU Networks for Short-time Traffic Flow Prediction[C]</b>//2020 Chinese Automation Congress (CAC). IEEE, 2020: 2863-2868. [Link](https://ieeexplore.ieee.org/abstract/document/9327749/)
+* Yang G, Wen J, Yu D, et al. <b>Spatial-Temporal Dilated and Graph Convolutional Network for traffic prediction[C]</b>//2020 Chinese Automation Congress (CAC). IEEE, 2020: 802-806. [Link](https://ieeexplore.ieee.org/abstract/document/9327103/)
