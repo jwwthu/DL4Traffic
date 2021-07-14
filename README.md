@@ -29,7 +29,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * Forecasting - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Forecasting.md)
 * Future Generation Computer Systems - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/FGCS.md)
 * Future Transportation - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/FT.md)
-* GeoInformatica - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/GeoInformatica.md)
+* GeoInformatica - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Geoinformatica.md)
 * IEEE Access - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/Access.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Access.md)
 * IEEE Intelligent Transportation Systems Magazine - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/ITS-Magazine.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/ITS-Magazine.md)
 * IEEE Internet of Things Journal - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/IoT-Journal.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/IoT-Journal.md)
