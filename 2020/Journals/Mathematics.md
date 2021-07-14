@@ -1,0 +1,1 @@
+* Crivellari A, Beinat E. <b>Forecasting Spatially-Distributed Urban Traffic Volumes via Multi-Target LSTM-Based Neural Network Regressor[J]</b>. Mathematics, 2020, 8(12): 2233. [Link](https://www.mdpi.com/927104)

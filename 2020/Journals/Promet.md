@@ -1,0 +1,1 @@
+* Ma C, Tan L, Xu X. <b>Short-term traffic flow prediction based on genetic artificial neural network and exponential smoothing[J]</b>. Promet-Traffic&Transportation, 2020, 32(6): 747-760. [Link](https://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=367849)
