@@ -1,0 +1,1 @@
+* Rajendran S, Ayyasamy B. <b>Short-term traffic prediction model for urban transportation using structure pattern and regression: an Indian context[J]</b>. SN Applied Sciences, 2020, 2: 1-11. [Link](https://link.springer.com/content/pdf/10.1007/s42452-020-2946-2.pdf)

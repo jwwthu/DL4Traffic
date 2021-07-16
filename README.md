@@ -74,6 +74,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/IMWUT.md)
 * Promet-Traffic&Transportation - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Promet.md)
 * Sensors - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/Sensors.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Sensors.md)
+* SN Applied Sciences - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/SNAS.md)
 * Sustainable Cities and Society - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/SCS.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/SCS.md)
 * Sustainability - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/Sustainability.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Sustainability.md)
 * Transactions in GIS - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/TGIS.md)
