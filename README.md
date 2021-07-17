@@ -11,6 +11,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * ACM Transactions on Internet Technology - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/TOIT.md)
 * ACM Transactions on Knowledge Discovery from Data - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/TKDD.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/TKDD.md)
 * Ad Hoc Networks - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Ad%20Hoc%20Networks.md)
+* Alexandria Engineering Journal - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/AEJ.md)
 * Applied Intelligence - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/AI.md)
 * Applied Soft Computing - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/ASC.md)
 * Applied Sciences - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/Applied%20Sciences.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Applied%20Sciences.md)
