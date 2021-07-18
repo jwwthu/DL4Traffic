@@ -4,5 +4,6 @@
 * Liu Z, Chen H, Li Y, et al. <b>Taxi demand prediction based on a combination forecasting model in hotspots[J]</b>. Journal of Advanced Transportation, 2020, 2020. [Link](https://www.hindawi.com/journals/jat/2020/1302586/)
 * Qu L, Zhang M, Li Z, et al. <b>Temporal Backtracking and Multistep Delay of Traffic Speed Series Prediction[J]</b>. Journal of Advanced Transportation, 2020, 2020. [Link](https://www.hindawi.com/journals/jat/2020/8899478/)
 * Xue Y, Feng R, Cui S, et al. <b>Traffic Status Evolution Trend Prediction Based on Congestion Propagation Effects under Rainy Weather[J]</b>. Journal of Advanced Transportation, 2020, 2020. [Link](https://www.hindawi.com/journals/jat/2020/8850123/)
+* Gao Y, Zhao J, Qin Z, et al. <b>Traffic speed forecast in adjacent region between highway and urban expressway: based on MFD and GRU model[J]</b>. Journal of Advanced Transportation, 2020, 2020. [Link](https://www.hindawi.com/journals/jat/2020/8897325/)
 * Hao W, Rong D, Yi K, et al. <b>Traffic Status Prediction of Arterial Roads Based on the Deep Recurrent Q-Learning[J]</b>. Journal of Advanced Transportation, 2020, 2020. [Link](https://www.hindawi.com/journals/jat/2020/8831521/)
 * Zhang Y, Lu M, Li H. <b>Urban Traffic Flow Forecast Based on FastGCRNN[J]</b>. Journal of Advanced Transportation, 2020, 2020. [Link](https://www.hindawi.com/journals/jat/2020/8859538/)

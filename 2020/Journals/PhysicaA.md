@@ -1,1 +1,2 @@
+* Peng Y, Xiang W. <b>Short-term traffic volume prediction using GA-BP based on wavelet denoising and phase space reconstruction[J]</b>. Physica A: Statistical Mechanics and its Applications, 2020, 549: 123913. [Link](https://www.sciencedirect.com/science/article/pii/S0378437119321715)
 * Ding Z J, Dai Z, Chen X M, et al. <b>Simulating on-demand ride services in a Manhattan-like urban network considering traffic dynamics[J]</b>. Physica A: Statistical Mechanics and its Applications, 2020, 545: 123621. [Link](https://www.sciencedirect.com/science/article/pii/S0378437119320199)

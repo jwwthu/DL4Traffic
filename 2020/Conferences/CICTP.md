@@ -1,4 +1,8 @@
+* Sun C, Sun X, Yin P, et al. <b>A Short-Term Traffic Flow Combination Prediction Model with Adaptive Weights[M]</b>//CICTP 2020. 2020: 324-331. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784482933.028)
+* Wang R, Shi W, Li Z. <b>De-Noising Sequential Data Assimilation System Based on Empirical Mode Decomposition and Its Applications for Short-Term Traffic Flow Forecasting[M]</b>//CICTP 2020. 2020: 1000-1009. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483053.084)
 * Niu Y, Yu H, Ren Y. <b>Large-Scale Spatiotemporal Prediction Method of Traffic Speed Based on 3D Convolutional Neural Network[M]</b>//CICTP 2020. 2020: 163-172. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483053.014)
 * Chen D, Yan X, Li S, et al. <b>Long Short-Term Memory Neural Network for Travel Time Prediction of Expressways Using Toll Station Data[M]</b>//CICTP 2020. 2020: 73-85. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784482933.007)
 * Long Y, Zou L. <b>LSTM Based Architecture for Short-Term Metro Passenger Flow Prediction[M]</b>//CICTP 2020. 975-986. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483053.082)
 * Zhou W, Wang W. <b>Multi-Step Short-Term Traffic Flow Prediction Based on a Novel Hybrid ARIMA-LSTM Neural Network[M]</b>//CICTP 2020. 2020: 179-189. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784482933.016)
+* Chen Y. <b>Short-Term Traffic Flow Prediction Based on Multi-Model by Stacking Ensemble Learning[M]</b>//CICTP 2020. 2020: 87-99. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483053.008)
+* Huang M X, Li W T, Wang L, et al. <b>Short-Term Traffic Prediction Based on Deep Learning[M]</b>//CICTP 2020. 2020: 3492-3502. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483053.293)

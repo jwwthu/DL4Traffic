@@ -1,0 +1,1 @@
+* Meng C, Rambhatla S, Liu Y. <b>Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling[C]</b>//Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2021. [Link](https://arxiv.org/abs/2106.05223) [Dataset and Code](https://zenodo.org/record/4521262) [Code](https://github.com/mengcz13/KDD2021_CNFGNN)

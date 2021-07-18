@@ -1,2 +1,3 @@
 * Tao Y, Yue G, Wang X. <b>Dual-attention network with multitask learning for multistep short-term speed prediction on expressways[J]</b>. Neural Computing and Applications, 2020: 1-22. [Link](https://link.springer.com/article/10.1007/s00521-020-05478-2)
+* Chen Q, Song Y, Zhao J. <b>Short-term traffic flow prediction based on improved wavelet neural network[J]</b>. Neural Computing and Applications, 2020: 1-10. [Link](https://link.springer.com/article/10.1007/s00521-020-04932-5)
 * Osipov V, Nikiforov V, Zhukova N, et al. <b>Urban traffic flows forecasting by recurrent neural networks with spiral structures of layers[J]</b>. Neural Computing and Applications, 2020: 1-13. [Link](https://link.springer.com/article/10.1007/s00521-020-04843-5)
