@@ -1,0 +1,1 @@
+* Wu Q, Jiang Z, Hong K, et al. <b>Tensor-Based Recurrent Neural Network and Multi-Modal Prediction With Its Applications in Traffic Network Management[J]</b>. IEEE Transactions on Network and Service Management, 2021, 18(1): 780-792. [Link](https://ieeexplore.ieee.org/abstract/document/9345706/)

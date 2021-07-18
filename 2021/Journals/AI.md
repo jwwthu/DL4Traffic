@@ -1,1 +1,3 @@
 * Tu Y, Lin S, Qiao J, et al. <b>Deep traffic congestion prediction model based on road segment grouping[J]</b>. Applied Intelligence, 2021: 1-23. [Link](https://link.springer.com/article/10.1007/s10489-020-02152-x)
+* Zhang Y, Yang Y, Zhou W, et al. <b>Multi-city traffic flow forecasting via multi-task learning[J]</b>. Applied Intelligence, 2021: 1-19. [Link](https://link.springer.com/article/10.1007/s10489-020-02074-8)
+* Xu C, Zhang A, Xu C, et al. <b>Traffic speed prediction: spatiotemporal convolution network based on long-term, short-term and spatial features[J]</b>. Applied Intelligence, 2021: 1-19. [Link](https://link.springer.com/article/10.1007/s10489-021-02461-9) [Code](https://doi.org/10.21227/9awj-4d85)

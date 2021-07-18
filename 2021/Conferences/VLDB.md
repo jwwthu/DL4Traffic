@@ -1,0 +1,1 @@
+* Fang Z, Pan L, Chen L, et al. <b>MDTP: A Multi-source Deep Traffic Prediction Framework over Spatio-Temporal Trajectory Data[J]</b>. Proc. VLDB Endow., 2021, 14(8): 1289-1297. [Link](http://www.vldb.org/pvldb/vol14/p1289-gao.pdf)

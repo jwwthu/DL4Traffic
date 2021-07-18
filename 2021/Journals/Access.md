@@ -5,4 +5,6 @@
 * Chen Z, Wu B, Li B, et al. <b>Expressway Exit Traffic Flow Prediction for ETC and MTC Charging System Based on Entry Traffic Flows and LSTM Model[J]</b>. IEEE Access, 2021, 9: 54613-54624. [Link](https://ieeexplore.ieee.org/abstract/document/9393945/)
 * Bapaume T, Côme E, Roos J, et al. <b>Image Inpainting and deep learning to forecast short-term train loads[J]</b>. IEEE Access, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9469806/)
 * Awan N, Ali A, Khan F, et al. <b>Modeling Dynamic Spatio-Temporal Correlations for Urban Traffic Flows Prediction[J]</b>. IEEE Access, 2021, 9: 26502-26511. [Link](https://ieeexplore.ieee.org/abstract/document/9345698/)
+* Priambodo B, Ahmad A, Kadir R A. <b>Predicting Traffic Flow Propagation Based on Congestion at Neighbouring Roads Using Hidden Markov Model[J]</b>. IEEE Access, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9416489/)
+* Luo J, Zhou D, Han Z, et al. <b>Predicting Travel Demand of a Docked Bikesharing System Based on LSGC-LSTM Networks[J]</b>. IEEE Access, 2021, 9: 92189-92203. [Link](https://ieeexplore.ieee.org/abstract/document/9364977/)
 * Lee K, Eo M, Jung E, et al. <b>Short-term traffic prediction with deep neural networks: A survey[J]</b>. IEEE Access, 2021, 9: 54739-54756. [Link](https://ieeexplore.ieee.org/abstract/document/9395529/)

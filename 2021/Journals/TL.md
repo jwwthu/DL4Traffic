@@ -1,1 +1,2 @@
 * Shafiei S, Mihăiţă A S, Nguyen H, et al. <b>Integrating data-driven and simulation models to predict traffic state affected by road incidents[J]</b>. Transportation Letters, 2021: 1-11. [Link](https://www.tandfonline.com/doi/abs/10.1080/19427867.2021.1916284)
+* Martínez-Díaz M, Soriguera F. <b>Short-term prediction of freeway travel times by fusing input-output vehicle counts and GPS tracking data[J]</b>. Transportation Letters, 2021, 13(3): 193-200. [Link](https://www.tandfonline.com/doi/abs/10.1080/19427867.2020.1864134)

@@ -1,2 +1,3 @@
 * Ranjan N, Bhandari S, Khan P, et al. <b>Large-Scale Road Network Congestion Pattern Analysis and Prediction Using Deep Convolutional Autoencoder[J]</b>. Sustainability, 2021, 13(9): 5108. [Link](https://www.mdpi.com/1096140)
+* Qiu B, Fan W D. <b>Machine Learning Based Short-Term Travel Time Prediction: Numerical Results and Comparative Analyses[J]</b>. Sustainability, 2021, 13(13): 7454. [Link](https://www.mdpi.com/1175956)
 * Li X, Wang H, Sun P, et al. <b>Spatiotemporal Features—Extracted Travel Time Prediction Leveraging Deep-Learning-Enabled Graph Convolutional Neural Network Model[J]</b>. Sustainability 2021, 13, 1253. [Link](https://www.mdpi.com/2071-1050/13/3/1253)

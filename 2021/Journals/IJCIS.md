@@ -1,0 +1,1 @@
+* Zhang Y, Xu Z, Zhang J, et al. <b>Integrating Pattern Features to Sequence Model for Traffic Index Prediction[J]</b>. International Journal of Computational Intelligence Systems, 2021, 14(1): 1589-1596. [Link](https://www.atlantis-press.com/journals/ijcis/125956491/view)

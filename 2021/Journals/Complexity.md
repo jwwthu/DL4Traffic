@@ -1,1 +1,2 @@
 * Zheng S, Zhang S, Song Y, et al. <b>A Noise-Immune Boosting Framework for Short-Term Traffic Flow Forecasting[J]</b>. Complexity, 2021, 2021. [Link](https://www.hindawi.com/journals/complexity/2021/5582974/)
+* Hou Y, Deng Z, Cui H. <b>Short-term traffic flow prediction with weather conditions: based on deep learning algorithms and data fusion[J]</b>. Complexity, 2021, 2021. [Link](https://www.hindawi.com/journals/complexity/2021/6662959/)

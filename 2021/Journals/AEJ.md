@@ -1,2 +1,3 @@
 * Lu S, Zhang Q, Chen G, et al. <b>A combined method for short-term traffic flow prediction based on recurrent neural network[J]</b>. Alexandria Engineering Journal, 2021, 60(1): 87-94. [Link](https://www.sciencedirect.com/science/article/pii/S1110016820302623)
 * Bao X, Jiang D, Yang X, et al. <b>An improved deep belief network for traffic prediction considering weather factors[J]</b>. Alexandria Engineering Journal, 2021, 60(1): 413-420. [Link](https://www.sciencedirect.com/science/article/pii/S1110016820304464)
+* Hou Y, Chen J, Wen S. <b>The effect of the dataset on evaluating urban traffic prediction[J]</b>. Alexandria Engineering Journal, 2021, 60(1): 597-613. [Link](https://www.sciencedirect.com/science/article/pii/S1110016820304944)

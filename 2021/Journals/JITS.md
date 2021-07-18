@@ -1,0 +1,2 @@
+* Ashqar H I, Elhenawy M, Rakha H A, et al. <b>Network and station-level bike-sharing system prediction: a San Francisco bay area case study[J]</b>. Journal of Intelligent Transportation Systems, 2021: 1-11. [Link](https://www.tandfonline.com/doi/abs/10.1080/15472450.2021.1948412)
+* Wang B, Vu H L, Kim I, et al. <b>Short-term traffic flow prediction in bike-sharing networks[J]</b>. Journal of Intelligent Transportation Systems, 2021: 1-18. [Link](https://www.tandfonline.com/doi/abs/10.1080/15472450.2021.1904921)
