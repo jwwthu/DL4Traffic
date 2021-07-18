@@ -1,0 +1,2 @@
+* Jin C, Ruan T, Wu D, et al. <b>HetGAT: a heterogeneous graph attention network for freeway traffic speed prediction[J]</b>. Journal of Ambient Intelligence and Humanized Computing, 2021. [Link](https://link.springer.com/article/10.1007/s12652-020-02807-0)
+* Angayarkanni S A, Sivakumar R, Rao Y V R. <b>Hybrid Grey Wolf: Bald Eagle search optimized support vector regression for traffic flow forecasting[J]</b>. Journal of Ambient Intelligence and Humanized Computing, 2021, 12(1): 1293-1304. [Link](https://link.springer.com/article/10.1007/s12652-020-02182-w)

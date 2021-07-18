@@ -1,0 +1,1 @@
+* Wang X, Chai Y, Li H, et al. <b>Graph Convolutional Network-based Model for Incident-related Congestion Prediction: A Case Study of Shanghai Expressways[J]</b>. ACM Transactions on Management Information Systems (TMIS), 2021, 12(3): 1-22. [Link](https://dl.acm.org/doi/abs/10.1145/3451356)

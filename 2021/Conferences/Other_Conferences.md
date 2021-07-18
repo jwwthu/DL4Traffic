@@ -1,0 +1,1 @@
+* Miao F, Tao L, Xue J, et al. <b>A Queue Hybrid Neural Network with Weather Weighted Factor for Traffic Flow Prediction[C]</b>//2021 IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD). IEEE, 2021: 788-793. [Link](https://ieeexplore.ieee.org/abstract/document/9437626/)

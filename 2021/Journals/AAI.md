@@ -1,0 +1,1 @@
+* de Medrano R, Aznarte J L. <b>A New Spatio-Temporal Neural Network Approach for Traffic Accident Forecasting[J]</b>. Applied Artificial Intelligence, 2021: 1-20. [Link](https://www.tandfonline.com/doi/abs/10.1080/08839514.2021.1935588) [Code](https://github.com/rdemedrano/xstnn)

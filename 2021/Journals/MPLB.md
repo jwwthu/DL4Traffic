@@ -1,0 +1,2 @@
+* Li W, Chen S, Wang X, et al. <b>A hybrid approach for short-term traffic flow forecasting based on similarity identification[J]</b>. Modern Physics Letters B, 2021, 35(13): 2150212. [Link](https://www.worldscientific.com/doi/abs/10.1142/S0217984921502122)
+* Wang X, Li W, Yin C, et al. <b>A multiple-parameter approach for short-term traffic flow prediction[J]</b>. Modern Physics Letters B, 2021, 35(14): 2150245. [Link](https://www.worldscientific.com/doi/abs/10.1142/S0217984921502456)

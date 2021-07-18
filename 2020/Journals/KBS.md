@@ -1,2 +1,3 @@
+* James J Q. <b>Citywide traffic speed prediction: A geometric deep learning approach[J]</b>. Knowledge-Based Systems, 2020: 106592. [Link](https://www.sciencedirect.com/science/article/pii/S0950705120307218)
 * Zhou W, Yang Y, Zhang Y, et al. <b>Deep Flexible Structured Spatial–Temporal Model for Taxi Capacity Prediction[J]</b>. Knowledge-Based Systems, 2020, 205: 106286. [Link](https://www.sciencedirect.com/science/article/pii/S0950705120304652)
 * Liu T, Wu W, Zhu Y, et al. <b>Predicting taxi demands via an attention-based convolutional recurrent neural network[J]</b>. Knowledge-Based Systems, 2020, 206: 106294. [Link](https://www.sciencedirect.com/science/article/pii/S095070512030469X)

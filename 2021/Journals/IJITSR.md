@@ -1,0 +1,1 @@
+* Hsueh Y L, Yang Y R. <b>A Short-term Traffic Speed Prediction Model Based on LSTM Networks[J]</b>. International Journal of Intelligent Transportation Systems Research, 2021: 1-15. [Link](https://link.springer.com/article/10.1007/s13177-021-00260-7)

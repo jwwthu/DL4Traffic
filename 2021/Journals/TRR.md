@@ -1,0 +1,1 @@
+* Lee M C, Lin J C, Gran E G. <b>DistTune: Distributed Fine-Grained Adaptive Traffic Speed Prediction for Growing Transportation Networks[J]</b>. Transportation Research Record, 2021: 03611981211011170. [Link](https://journals.sagepub.com/doi/abs/10.1177/03611981211011170)

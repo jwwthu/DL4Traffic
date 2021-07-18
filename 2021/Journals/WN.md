@@ -1,0 +1,1 @@
+* Chen L, Bei L, An Y, et al. <b>A Hyperparameters automatic optimization method of time graph convolution network model for traffic prediction[J]</b>. Wireless Networks, 2021: 1-9. [Link](https://link.springer.com/article/10.1007/s11276-021-02672-5)

@@ -1,0 +1,1 @@
+* Li B, Guo T, Wang Y, et al. <b>Adaptive Graph Co-Attention Networks for Traffic Forecasting[C]</b>//PAKDD. 2021: 263-276. [Link](https://link.springer.com/chapter/10.1007/978-3-030-75762-5_22)

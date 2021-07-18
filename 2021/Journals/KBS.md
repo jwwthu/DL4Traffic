@@ -1,1 +1,1 @@
-* James J Q. <b>Citywide traffic speed prediction: A geometric deep learning approach[J]</b>. Knowledge-Based Systems, 2020: 106592. [Link](https://www.sciencedirect.com/science/article/pii/S0950705120307218)
+* Alves M A C, Cordeiro R L F. <b>Effective and unburdensome forecast of highway traffic flow with adaptive computing[J]</b>. Knowledge-Based Systems, 2021, 212: 106603. [Link](https://www.sciencedirect.com/science/article/pii/S0950705120307322)

@@ -1,0 +1,1 @@
+* Yuan H, Li G, Bao Z, et al. <b>An effective joint prediction model for travel demands and traffic flows[C]</b>//2021 IEEE 37th International Conference on Data Engineering (ICDE). IEEE, 2021: 348-359. [Link](https://ieeexplore.ieee.org/abstract/document/9458698/)

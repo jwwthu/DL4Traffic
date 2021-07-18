@@ -1,0 +1,1 @@
+* Hu C, Fan W, Zen E, et al. <b>A Digital Twin-Assisted Real-time Traffic Data Prediction Method for 5G-enabled Internet of Vehicles[J]</b>. IEEE Transactions on Industrial Informatics, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9440709/)

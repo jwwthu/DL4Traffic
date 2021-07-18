@@ -1,2 +1,3 @@
+* Ali A, Zhu Y, Zakarya M. <b>A data aggregation based approach to exploit dynamic spatio-temporal correlations for citywide crowd flows prediction in fog computing[J]</b>. Multimedia Tools and Applications, 2021: 1-33. [Link](https://link.springer.com/article/10.1007/s11042-020-10486-4)
 
 * Miao H, Fei Y, Wang S, et al. <b>Deep learning based origin-destination prediction via contextual information fusion[J]</b>. Multimedia Tools and Applications, 2021: 1-17. [Link](https://link.springer.com/article/10.1007/s11042-020-10492-6)
