@@ -1,0 +1,1 @@
+* Song J, Xu J, Ling X, et al. <b>C2TTE: Cross-city Transfer Based Model for Travel Time Estimation[C]</b>//International Conference on Database Systems for Advanced Applications. Springer, Cham, 2020: 288-295. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59410-7_19)

@@ -1,3 +1,4 @@
 * Ouyang Q, Lv Y, Ma J, et al. <b>An LSTM-Based Method Considering History and Real-Time Data for Passenger Flow Prediction[J]</b>. Applied Sciences, 2020, 10(11): 3788. [Link](https://www.mdpi.com/2076-3417/10/11/3788)
+* Liu Z, Chen H, Sun X, et al. <b>Data-driven real-time online taxi-hailing demand forecasting based on machine learning method[J]</b>. Applied Sciences, 2020, 10(19): 6681. [Link](https://www.mdpi.com/837082)
 * Ge L, Li S, Wang Y, et al. <b>Global Spatial-Temporal Graph Convolutional Network for Urban Traffic Speed Prediction[J]</b>. Applied Sciences, 2020, 10(4): 1509. [Link](https://www.mdpi.com/2076-3417/10/4/1509)
 * Ul Abideen Z, Sun H, Yang Z, et al. <b>The Deep 3D Convolutional Multi-Branching Spatial-Temporal-Based Unit Predicting Citywide Traffic Flow[J]</b>. Applied Sciences, 2020, 10(21): 7778. [Link](https://www.mdpi.com/2076-3417/10/21/7778)

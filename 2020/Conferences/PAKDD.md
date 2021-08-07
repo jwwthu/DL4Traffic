@@ -1,0 +1,1 @@
+* Wu W, Liu T, Yang J. <b>Cacrnn: a context-aware attention-based convolutional recurrent neural network for fine-grained taxi demand prediction[C]</b>. PAKDD 2020, 12084: 636. [Link](https://link.springer.com/chapter/10.1007/978-3-030-47426-3_49)
