@@ -1,0 +1,1 @@
+* Xiao X, Duan H, Wen J. <b>A novel car-following inertia gray model and its application in forecasting short-term traffic flow[J]</b>. Applied Mathematical Modelling, 2020, 87: 546-570. [Link](https://www.sciencedirect.com/science/article/pii/S0307904X20302882) [Data](http://www.openits.cn/openPaper/567.jhtml)

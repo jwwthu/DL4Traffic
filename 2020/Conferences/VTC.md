@@ -1,0 +1,1 @@
+* Cao M, Li V O K, Chan V W S. <b>A CNN-LSTM model for traffic speed prediction[C]</b>//2020 IEEE 91st Vehicular Technology Conference (VTC2020-Spring). IEEE, 2020: 1-5. [Link](https://ieeexplore.ieee.org/abstract/document/9129440/)

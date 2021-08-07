@@ -1,4 +1,5 @@
 * Luo Z, Zhang Y, Li L, et al. <b>A hybrid method for predicting traffic congestion during peak hours in the subway system of Shenzhen[J]</b>. Sensors, 2020, 20(1): 150. [Link](https://www.mdpi.com/603872)
+* Jia H, Luo H, Wang H, et al. <b>ADST: Forecasting metro flow using attention-based deep spatial-temporal networks with multi-task learning[J]</b>. Sensors, 2020, 20(16): 4574. [Link](https://www.mdpi.com/798560) [Code](https://github.com/wumingyao/ADST)
 * Culita J, Caramihai S I, Dumitrache I, et al. <b>An Hybrid Approach for Urban Traffic Prediction and Control in Smart Cities[J]</b>. Sensors, 2020, 20(24): 7209. [Link](https://www.mdpi.com/1424-8220/20/24/7209)
 * Chen Z, Zhao B, Wang Y, et al. <b>Multitask Learning and GCN-Based Taxi Demand Prediction for a Traffic Road Network[J]</b>. Sensors, 2020, 20(13): 3776. [Link](https://www.mdpi.com/1424-8220/20/13/3776)
 * Zahid M, Chen Y, Jamal A, et al. <b>Short term traffic state prediction via hyperparameter optimization based classifiers[J]</b>. Sensors, 2020, 20(3): 685. [Link](https://www.mdpi.com/1424-8220/20/3/685)
