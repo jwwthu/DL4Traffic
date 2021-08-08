@@ -1,0 +1,1 @@
+* Yuan H, Li G, Bao Z, et al. <b>Effective travel time estimation: When historical trajectories over road networks matter[C]</b>//Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data. 2020: 2135-2149. [Link](https://dl.acm.org/doi/abs/10.1145/3318464.3389771)

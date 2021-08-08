@@ -1,0 +1,1 @@
+* Wang S, Cao J, Chen H, et al. <b>SeqST-GAN: Seq2Seq generative adversarial nets for multi-step urban crowd flow prediction[J]</b>. ACM Transactions on Spatial Algorithms and Systems (TSAS), 2020, 6(4): 1-24. [Link](https://dl.acm.org/doi/abs/10.1145/3378889)

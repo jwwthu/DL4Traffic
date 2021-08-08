@@ -1,0 +1,1 @@
+* Nejadettehad A, Mahini H, Bahrak B. <b>Short-term demand forecasting for online car-hailing services using recurrent neural networks[J]</b>. Applied Artificial Intelligence, 2020, 34(9): 674-689. [Link](https://www.tandfonline.com/doi/abs/10.1080/08839514.2020.1771522)

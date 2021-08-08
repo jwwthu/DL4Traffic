@@ -1,4 +1,5 @@
 * Bratsas C, Koupidis K, Salanova J M, et al. <b>A comparison of machine learning methods for the prediction of traffic speed in urban places[J]</b>. Sustainability, 2020, 12(1): 142. [Link](https://www.mdpi.com/602412)
 * Wang Z, Chu R, Zhang M, et al. <b>An Improved Hybrid Highway Traffic Flow Prediction Model Based on Machine Learning[J]</b>. Sustainability, 2020, 12(20): 8298. [Link](https://www.mdpi.com/2071-1050/12/20/8298)
+* Zahid M, Chen Y, Jamal A, et al. <b>Freeway short-term travel speed prediction based on data collection time-horizons: A fast forest quantile regression approach[J]</b>. Sustainability, 2020, 12(2): 646. [Link](https://www.mdpi.com/618510)
 * Zhou W, Wang W, Hua X, et al. <b>Real-Time Traffic Flow Forecasting via a Novel Method Combining Periodic-Trend Decomposition[J]</b>. Sustainability, 2020, 12(15): 5891. [Link](https://www.mdpi.com/2071-1050/12/15/5891) [Data](http://data.dot.state.mn.us/datatools/)
 * Tišljarić L, Carić T, Abramović B, et al. <b>Traffic State Estimation and Classification on Citywide Scale Using Speed Transition Matrices[J]</b>. Sustainability, 2020, 12(18): 7278. [Link](https://www.mdpi.com/2071-1050/12/18/7278)

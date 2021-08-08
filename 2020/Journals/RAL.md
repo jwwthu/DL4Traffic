@@ -1,0 +1,1 @@
+* Li Z, Yan H, Zhang C, et al. <b>Long-short term spatiotemporal tensor prediction for passenger flow profile[J]</b>. IEEE Robotics and Automation Letters, 2020, 5(4): 5010-5017. [Link](https://ieeexplore.ieee.org/abstract/document/9126133/)

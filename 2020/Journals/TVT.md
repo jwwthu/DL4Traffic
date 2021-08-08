@@ -1,0 +1,1 @@
+* Yu H, Li Z, Zhang G, et al. <b>Extracting and predicting taxi hotspots in spatiotemporal dimensions using conditional generative adversarial neural networks[J]</b>. IEEE Transactions on Vehicular Technology, 2020, 69(4): 3680-3692. [Link](https://ieeexplore.ieee.org/abstract/document/9023953/)
