@@ -1,0 +1,1 @@
+* Kuang L, Hua C, Wu J, et al. <b>Traffic volume prediction based on multi-sources GPS trajectory data by temporal convolutional network[J]</b>. Mobile Networks and Applications, 2020, 25(4): 1405-1417. [Link](https://link.springer.com/article/10.1007/s11036-019-01458-6)

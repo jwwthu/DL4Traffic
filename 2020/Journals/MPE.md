@@ -1,3 +1,4 @@
 * Zhai H, Cui L, Zhang W, et al. <b>An Improved Deep Spatial-Temporal Hybrid Model for Bus Speed Prediction[J]</b>. Mathematical Problems in Engineering, 2020, 2020. [Link](https://www.hindawi.com/journals/mpe/2020/2143921/)
 * Li D D, Yu D X, Qu Z J, et al. <b>Feature Selection and Model Fusion Approach for Predicting Urban Macro Travel Time[J]</b>. Mathematical Problems in Engineering, 2020, 2020. [Link](https://www.hindawi.com/journals/mpe/2020/6897965/)
 * Chen B, Li W. <b>Multitime Resolution Hierarchical Attention-Based Recurrent Highway Networks for Taxi Demand Prediction[J]</b>. Mathematical Problems in Engineering, 2020, 2020. [Link](https://www.hindawi.com/journals/mpe/2020/4173094/)
+* Fu X, Luo W, Xu C, et al. <b>Short-term traffic speed prediction method for urban road sections based on wavelet transform and gated recurrent unit[J]</b>. Mathematical Problems in Engineering, 2020, 2020. [Link](https://www.hindawi.com/journals/mpe/2020/3697625/)

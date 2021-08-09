@@ -8,3 +8,4 @@
 * Gao Y, Zhao J, Qin Z, et al. <b>Traffic speed forecast in adjacent region between highway and urban expressway: based on MFD and GRU model[J]</b>. Journal of Advanced Transportation, 2020, 2020. [Link](https://www.hindawi.com/journals/jat/2020/8897325/)
 * Hao W, Rong D, Yi K, et al. <b>Traffic Status Prediction of Arterial Roads Based on the Deep Recurrent Q-Learning[J]</b>. Journal of Advanced Transportation, 2020, 2020. [Link](https://www.hindawi.com/journals/jat/2020/8831521/)
 * Zhang Y, Lu M, Li H. <b>Urban Traffic Flow Forecast Based on FastGCRNN[J]</b>. Journal of Advanced Transportation, 2020, 2020. [Link](https://www.hindawi.com/journals/jat/2020/8859538/)
+* Kang L, Hu G, Huang H, et al. <b>Urban Traffic Travel Time Short-Term Prediction Model Based on Spatio-Temporal Feature Extraction[J]</b>. Journal of Advanced Transportation, 2020, 2020. [Link](https://www.hindawi.com/journals/jat/2020/3247847/)

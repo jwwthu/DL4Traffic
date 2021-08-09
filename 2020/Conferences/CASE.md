@@ -1,1 +1,2 @@
 * Zhang H, Liu J, Tang Y, et al. <b>Attention based Graph Covolution Networks for Intelligent Traffic Flow Analysis[C]</b>//2020 IEEE 16th International Conference on Automation Science and Engineering (CASE). IEEE, 2020: 558-563. [Link](https://ieeexplore.ieee.org/abstract/document/9216966/)
+* Shu P, Sun Y, Zhao Y, et al. <b>Spatial-Temporal Taxi Demand Prediction Using LSTM-CNN[C]</b>//2020 IEEE 16th International Conference on Automation Science and Engineering (CASE). IEEE, 2020: 1226-1230. [Link](https://ieeexplore.ieee.org/abstract/document/9217007/)
