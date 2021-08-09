@@ -29,7 +29,6 @@
 * Ma Y, Zhang Z, Ihler A. <b>Multi-lane short-term traffic forecasting with convolutional LSTM network[J]</b>. IEEE Access, 2020, 8: 34629-34643. [Link](https://ieeexplore.ieee.org/abstract/document/9000828/)
 * Qi X, Qin X, Jia Z, et al. <b>NCAE and ELM Based Enhanced Ensemble Optimized Model for Traffic Flow Forecasting[J]</b>. IEEE Access, 2020, 8: 200486-200499. [Link](https://ieeexplore.ieee.org/abstract/document/9244097/)
 * Jing Z, Yin X. <b>Neural network-based prediction model for passenger flow in a large passenger station: an exploratory study[J]</b>. IEEE Access, 2020, 8: 36876-36884. [Link](https://ieeexplore.ieee.org/abstract/document/8985339/)
-* Son H, Jang Y. <b>Partial Convolutional LSTM for Spatiotemporal Prediction of Incomplete Data[J]</b>. IEEE Access, 2020, 8: 164762-164774. [Link](https://ieeexplore.ieee.org/abstract/document/9187792/)
 * Yao R, Zhang W, Zhang D. <b>Period Division-Based Markov Models for Short-Term Traffic Flow Prediction[J]</b>. IEEE Access, 2020, 8: 178345-178359. [Link](https://ieeexplore.ieee.org/abstract/document/9210061/)
 * Husni E, Nasution S M, Yusuf R. <b>Predicting Traffic Conditions Using Knowledge-Growing Bayes Classifier[J]</b>. IEEE Access, 2020, 8: 191510-191518. [Link](https://ieeexplore.ieee.org/abstract/document/9229400/)
 * Shin D H, Chung K, Park R C. <b>Prediction of traffic congestion based on LSTM through correction of missing temporal and spatial data[J]</b>. IEEE Access, 2020, 8: 150784-150796. [Link](https://ieeexplore.ieee.org/abstract/document/9166475/)
