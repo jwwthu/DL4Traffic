@@ -1,0 +1,1 @@
+* Liapis S, Christantonis K, Chazan-Pantzalis V, et al. <b>A methodology using classification for traffic prediction: Featuring the impact of COVID-19[J]</b>. Integrated Computer-Aided Engineering, 2021 (Preprint): 1-19. [Link](https://content.iospress.com/articles/integrated-computer-aided-engineering/ica210663)

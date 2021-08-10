@@ -1,0 +1,1 @@
+* Hanafy Y A, Mashaly M, Abd El Ghany M A. <b>An Efficient Hardware Design for a Low-Latency Traffic Flow Prediction System Using an Online Neural Network[J]</b>. Electronics, 2021, 10(16): 1875. [Link](https://www.mdpi.com/2079-9292/10/16/1875)

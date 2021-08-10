@@ -1,0 +1,1 @@
+* Wei X, Zhang Y, Wei Y, et al. <b>Metro Passenger-Flow Representation via Dynamic Mode Decomposition and Its Application[J]</b>. IEEE Transactions on Neural Networks and Learning Systems, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9488586/)

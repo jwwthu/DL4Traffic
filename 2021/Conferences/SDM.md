@@ -1,0 +1,1 @@
+* Yi P, Huang F, Peng J. <b>A Fine-grained Graph-based Spatiotemporal Network for Bike Flow Prediction in Bike-sharing Systems[C]</b>//Proceedings of the 2021 SIAM International Conference on Data Mining (SDM). Society for Industrial and Applied Mathematics, 2021: 513-521. [Link](https://epubs.siam.org/doi/abs/10.1137/1.9781611976700.58)

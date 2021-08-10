@@ -1,0 +1,1 @@
+* Nagy A M, Simon V. <b>Improving traffic prediction using congestion propagation patterns in smart cities[J]</b>. Advanced Engineering Informatics, 2021, 50: 101343. [Link](https://www.sciencedirect.com/science/article/pii/S1474034621000963)

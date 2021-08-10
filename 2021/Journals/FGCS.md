@@ -1,1 +1,2 @@
 * Qi Y, Hossain M S, Nie J, et al. <b>Privacy-preserving blockchain-based federated learning for traffic flow prediction[J]</b>. Future Generation Computer Systems, 2021, 117: 328-337. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X2033065X)
+* Jin G, Wang M, Zhang J, et al. <b>STGNN-TTE: Travel time estimation via spatial-temporal graph neural network[J]</b>. Future Generation Computer Systems, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X21002740)

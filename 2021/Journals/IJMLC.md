@@ -1,1 +1,2 @@
 * Zhai Z, Liu P, Zhao L, et al. <b>An efficiency-enhanced deep learning model for citywide crowd flows prediction[J]</b>. International Journal of Machine Learning and Cybernetics, 2021: 1-13. [Link](https://link.springer.com/article/10.1007/s13042-021-01282-z)
+* Tang J, Zuo A, Liu J, et al. <b>Seasonal decomposition and combination model for short-term forecasting of subway ridership[J]</b>. International Journal of Machine Learning and Cybernetics, 2021: 1-18. [Link](https://link.springer.com/article/10.1007/s13042-021-01377-7)

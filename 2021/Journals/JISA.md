@@ -1,0 +1,1 @@
+* Alencar V A, Pessamilio L R, Rooke F, et al. <b>Forecasting the carsharing service demand using uni and multivariable models[J]</b>. Journal of Internet Services and Applications, 2021, 12(1): 1-20. [Link](https://jisajournal.springeropen.com/articles/10.1186/s13174-021-00137-8)

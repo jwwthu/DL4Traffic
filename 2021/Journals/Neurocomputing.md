@@ -2,3 +2,4 @@
 * Lu H, Ge Z, Song Y, et al. <b>A temporal-aware LSTM enhanced by loss-switch mechanism for traffic flow forecasting[J]</b>. Neurocomputing, 2021, 427: 169-178. [Link](https://www.sciencedirect.com/science/article/pii/S0925231220318130) [Code](https://github.com/illumina7e/TCC-LSTM-LSM)
 * Tian C, Zhu X, Hu Z, et al. <b>A Transfer Approach With Attention Reptile Method and Long-term Generation Mechanism for Few-shot Traffic Prediction[J]</b>. Neurocomputing, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S0925231221004549)
 * Qu L, Lv J, Li W, et al. <b>Features Injected Recurrent Neural Networks for Short-term Traffic Speed Prediction[J]</b>. Neurocomputing, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S0925231221004380)
+* Zhang Z, Li Y, Song H, et al. <b>Multiple Dynamic Graph Based Traffic Speed Prediction Method[J]</b>. Neurocomputing, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S0925231221010973)
