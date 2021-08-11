@@ -31,7 +31,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * Computer Networks - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/Computer%20Networks.md)
 * Data Science and Engineering - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/DSE.md)
 * Electronics - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Electronics.md)
-* Engineering Applications of Artificial Intelligence - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/EAAI.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/EAAI.md)
+* Engineering Applications of Artificial Intelligence - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/EAAI.md)
 * Expert Systems with Applications - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/ESWA.md)
 * Forecasting - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Forecasting.md)
 * Future Generation Computer Systems - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/FGCS.md)

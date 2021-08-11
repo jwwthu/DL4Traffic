@@ -1,1 +1,2 @@
+* Qi T, Li G, Chen L, et al. <b>ADGCN: An Asynchronous Dilation Graph Convolutional Network for Traffic Flow Prediction[J]</b>. IEEE Internet of Things Journal, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9506840/)
 * Yang J, Guo B, Wang Z, et al. <b>Hierarchical Prediction based on Network Representation Learning enhanced Clustering for Bike-Sharing System in Smart City[J]</b>. IEEE Internet of Things Journal, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9245516/)
