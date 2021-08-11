@@ -23,7 +23,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * Applied Sciences - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/Applied%20Sciences.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Applied%20Sciences.md)
 * Arabian Journal for Science and Engineering - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/AJSE.md)
 * Chaos: An Interdisciplinary Journal of Nonlinear Science - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Chaos.md)
-* CMC-COMPUTERS MATERIALS & CONTINUA - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/CMC.md)
+* CMC-COMPUTERS MATERIALS & CONTINUA - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/CMC.md)
 * Complexity - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/Complexity.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Complexity.md)
 * Computational Intelligence - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/CI.md)
 * Computer‐Aided Civil and Infrastructure Engineering - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/CACIE.md)
