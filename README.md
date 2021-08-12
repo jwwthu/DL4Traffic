@@ -147,7 +147,6 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * SMC - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/SMC.md)
 * VLDB - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Conferences/VLDB.md)
 * VTC - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/VTC.md)
-* WCNC - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Conferences/WCNC.md)
 * WCSP - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/WCSP.md)
 * WISE - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/WISE.md)
 * WWW - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/WWW.md)

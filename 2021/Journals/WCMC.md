@@ -1,1 +1,0 @@
-* Kothai G, Poovammal E, Dhiman G, et al. <b>A New Hybrid Deep Learning Algorithm for Prediction of Wide Traffic Congestion in Smart Cities[J]</b>. Wireless Communications and Mobile Computing, 2021, 2021. [Link](https://www.hindawi.com/journals/wcmc/2021/5583874/)
