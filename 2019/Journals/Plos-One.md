@@ -1,0 +1,3 @@
+* Chen Q, Wen D, Li X, et al. <b>Empirical mode decomposition based long short-term memory neural network forecasting model for the short-term metro passenger flow</b>[J]//PloS one. 2019, 14(9): e0222365. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222365)
+
+* Song Z, Guo Y, Wu Y, et al. <b>Short-term traffic speed prediction under different data collection time intervals using a SARIMA-SDGM hybrid prediction model</b>[J]//PloS one. 2019, 14(6): e0218626. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218626) [Data](http://www.openits.cn/openData1/700.jhtml)

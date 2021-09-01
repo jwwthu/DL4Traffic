@@ -1,0 +1,1 @@
+* Essien AE, Petrounias I, Sampaio P, et al. <b>Deep-PRESIMM: Integrating deep learning with microsimulation for traffic prediction</b>[C]//2019 IEEE International Conference on Systems, Man and Cybernetics (SMC). 2019: 4257-4262. IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8914604)

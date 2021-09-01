@@ -1,0 +1,1 @@
+* Soon KL, Lim JM, Parthiban R. <b>Extended pheromone-based short-term traffic forecasting models for vehicular systems</b>[J]//Engineering Applications of Artificial Intelligence. 2019, 82: 60-75. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197619300673)

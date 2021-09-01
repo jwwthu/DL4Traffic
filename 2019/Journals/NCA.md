@@ -1,0 +1,1 @@
+* Xu H, Jiang C. <b>Deep belief network-based support vector regression method for traffic flow forecasting</b>[J]//Neural Computing and Applications. 2020, 32(7): 2027-2036. [Link](https://link.springer.com/article/10.1007/s00521-019-04339-x)

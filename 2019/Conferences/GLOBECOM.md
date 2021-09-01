@@ -1,0 +1,1 @@
+* Liu F, Wei Z, Huang Z, et al. <b>A Multi-Grouped LS-SVM Method for Short-Term Urban Traffic Flow Prediction</b>[C]//2019 IEEE Global Communications Conference (GLOBECOM). 2019: 1-6. IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/9013761)

@@ -1,0 +1,1 @@
+* Duan H, Xiao X. <b>A multimode dynamic short-term traffic flow grey prediction model of high-dimension tensors</b>[J]//Complexity. 2019. [Link](https://www.hindawi.com/journals/complexity/2019/9162163/)

@@ -1,0 +1,1 @@
+* Rodrigues F, Markou I, Pereira FC. <b>Combining time-series and textual data for taxi demand prediction in event areas: A deep learning approach</b>[J]//Information Fusion. 2019, 49: 120-129. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1566253517308175)

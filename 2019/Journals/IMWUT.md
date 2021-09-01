@@ -1,0 +1,1 @@
+* Fan Z, Song X, Jiang R, et al. <b>Decentralized attention-based personalized human mobility prediction</b>[J]//Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2019, 3(4): 1-26.  [Link](https://dl.acm.org/doi/abs/10.1145/3369830)

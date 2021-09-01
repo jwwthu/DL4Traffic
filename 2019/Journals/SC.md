@@ -1,0 +1,1 @@
+* Xiong Z, Zheng J, Song D, et al. <b>Passenger flow prediction of urban rail transit based on deep learning methods</b>[J]//Smart Cities. 2019, 2(3): 371-387. [Link](https://www.mdpi.com/2624-6511/2/3/23)

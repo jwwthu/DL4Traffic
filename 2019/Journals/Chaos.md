@@ -1,0 +1,1 @@
+* Xu D, Dai H, Wang Y, et al. <b>Road traffic state prediction based on a graph embedding recurrent neural network under the SCATS</b>[J]//Chaos: An Interdisciplinary Journal of Nonlinear Science. 2019, 29(10): 103125. [Link](https://aip.scitation.org/doi/abs/10.1063/1.5117180)

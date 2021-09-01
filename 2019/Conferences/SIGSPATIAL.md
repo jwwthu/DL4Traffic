@@ -1,0 +1,1 @@
+* Kulkarni V, Garbinato B. <b>20 Years of Mobility Modeling & Prediction: Trends, Shortcomings & Perspectives</b>[C]//Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. 2019: 492-495. [Link](https://dl.acm.org/doi/abs/10.1145/3347146.3359110)

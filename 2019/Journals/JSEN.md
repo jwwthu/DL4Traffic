@@ -1,0 +1,1 @@
+* Kim Y, Wang P, Mihaylova L. <b>Scalable learning with a structural recurrent neural network for short-term traffic prediction</b>[J]//IEEE Sensors Journal. 2019, 19(23): 11359-11366. [Link](https://ieeexplore.ieee.org/abstract/document/8792103)

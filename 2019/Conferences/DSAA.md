@@ -1,0 +1,1 @@
+* Shen Y, Hua J, Jin C, et al. <b>TCL: Tensor-CNN-LSTM for Travel Time Prediction with Sparse Trajectory Data</b>[C]//International Conference on Database Systems for Advanced Applications. 2019: 329-333. Springer, Cham. [Link](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_39)

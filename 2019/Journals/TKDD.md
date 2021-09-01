@@ -1,0 +1,1 @@
+* Wang Y, Lin X, Wei H, et al. <b>A unified framework with multi-source data for predicting passenger demands of ride services</b>[J]//ACM Transactions on Knowledge Discovery from Data (TKDD). 2019, 13(6): 1-24. [Link](https://dl.acm.org/doi/abs/10.1145/3355563)
