@@ -1,2 +1,4 @@
+* Fiorini S, Pilotti G, Ciavotta M,  et al. <b>3D-CLoST: A CNN-LSTM Approach for Mobility Dynamics Prediction in Smart Cities</b>[C]//2020 IEEE International Conference on Big Data (Big Data). 2020: 3180-3189. IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/9378429)
+
 * Harikrishnakumar R, Borujeni S E, Dand A, et al. <b>A Quantum Bayesian Approach for Bike Sharing Demand Prediction[C]</b>//2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020: 2401-2409. [Link](https://ieeexplore.ieee.org/abstract/document/9378271/)
 * He Z, Chow C Y, Zhang J D. <b>GAMIT: A New Encoder-Decoder Framework with Graphical Space and Multi-grained Time for Traffic Predictions[C]</b>//2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020: 938-943. [Link](https://ieeexplore.ieee.org/abstract/document/9378143/)
