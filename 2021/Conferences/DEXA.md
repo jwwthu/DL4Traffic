@@ -1,0 +1,1 @@
+* Xiao W, Kuang L, An Y. <b>Traffic Flow Prediction Through the Fusion of Spatial-Temporal Data and Points of Interest[C]</b>//International Conference on Database and Expert Systems Applications (DEXA). Springer, Cham, 2021: 314-327. [Link](https://link.springer.com/chapter/10.1007/978-3-030-86472-9_29) [Code](https://github.com/css518/HSTGNN)

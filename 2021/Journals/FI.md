@@ -1,0 +1,1 @@
+* Alghamdi T, Elgazzar K, Sharaf T. <b>Spatiotemporal Traffic Prediction Using Hierarchical Bayesian Modeling[J]</b>. Future Internet, 2021, 13(9): 225. [Link](https://www.mdpi.com/1999-5903/13/9/225)

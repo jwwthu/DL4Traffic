@@ -1,0 +1,1 @@
+* Liu B, Tang X, Cheng J, et al. <b>Traffic flow combination forecasting method based on improved LSTM and ARIMA[J]</b>. International Journal of Embedded Systems, 2020, 12(1): 22-30. [Link](https://www.inderscienceonline.com/doi/abs/10.1504/IJES.2020.105287)

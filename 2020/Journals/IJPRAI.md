@@ -1,0 +1,1 @@
+* Kang Y, Yang B, Li H, et al. <b>Deep Spatio-Temporal Modified-Inception with Dilated Convolution Networks for Citywide Crowd Flows Prediction[J]</b>. International Journal of Pattern Recognition and Artificial Intelligence, 2020, 34(08): 2052003. [Link](https://www.worldscientific.com/doi/abs/10.1142/S0218001420520035)

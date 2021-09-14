@@ -1,1 +1,2 @@
+* Abdi A, Amrit C. <b>A review of travel and arrival-time prediction methods on road networks: classification, challenges and opportunities[J]</b>. PeerJ Computer Science, 2021, 7: e689. [Link](https://peerj.com/articles/cs-689/)
 * Shen G, Yu K, Zhang M, et al. <b>ST-AFN: a spatial-temporal attention based fusion network for lane-level traffic flow prediction[J]</b>. PeerJ Computer Science, 2021, 7: e470. [Link](https://peerj.com/articles/cs-470/) [Link](https://github.com/MCyutou/ST-AFN)

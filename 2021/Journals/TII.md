@@ -1,1 +1,2 @@
 * Hu C, Fan W, Zen E, et al. <b>A Digital Twin-Assisted Real-time Traffic Data Prediction Method for 5G-enabled Internet of Vehicles[J]</b>. IEEE Transactions on Industrial Informatics, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9440709/)
+* Zhang C, Zhang S, James J Q, et al. <b>FASTGNN: A Topological Information Protected Federated Learning Approach For Traffic Speed Forecasting[J]</b>. IEEE Transactions on Industrial Informatics, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9340313/)

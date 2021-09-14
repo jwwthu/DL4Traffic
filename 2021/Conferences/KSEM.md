@@ -1,0 +1,1 @@
+* Liu H, Zhang F, Fan Y, et al. <b>Enhanced Self-node Weights Based Graph Convolutional Networks for Passenger Flow Prediction[C]</b>//International Conference on Knowledge Science, Engineering and Management (KSEM). Springer, Cham, 2021: 262-274. [Link](https://link.springer.com/chapter/10.1007/978-3-030-82153-1_22)

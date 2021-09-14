@@ -1,1 +1,2 @@
+* Xiao X, Jin Z, Hui Y, et al. <b>Hybrid Spatial–Temporal Graph Convolutional Networks for On-Street Parking Availability Prediction[J]</b>. Remote Sensing, 2021, 13(16): 3338. [Link](https://www.mdpi.com/2072-4292/13/16/3338) [Data](https://data.melbourne.vic.gov.au/Transport/On-street-Car-Parking-Sensor-Data-2017/u9sa-j86i)
 * Chen D, Yan X, Liu X, et al. <b>Multi-Task Fusion Deep Learning Model for Short-Term Intersection Operation Performance Forecasting[J]</b>. Remote Sensing, 2021, 13(10): 1919. [Link](https://www.mdpi.com/1109142)

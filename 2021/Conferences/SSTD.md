@@ -1,0 +1,1 @@
+* Aldwyish A, Tanin E, Xie H, et al. <b>Effective Traffic Forecasting with Multi-Resolution Learning[C]</b>//17th International Symposium on Spatial and Temporal Databases (SSTD). 2021: 44-53. [Link](https://dl.acm.org/doi/abs/10.1145/3469830.3470904)
