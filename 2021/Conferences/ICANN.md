@@ -1,0 +1,2 @@
+* Zhu M, Zhu X, Zhu C. <b>STGATP: A Spatio-Temporal Graph Attention Network for Long-Term Traffic Prediction[C]</b>//International Conference on Artificial Neural Networks. Springer, Cham, 2021: 255-266. [Link](https://link.springer.com/chapter/10.1007/978-3-030-86365-4_21)
+* Song X, Wu Y, Zhang C. <b>TSTNet: A Sequence to Sequence Transformer Network for Spatial-Temporal Traffic Prediction[C]</b>//International Conference on Artificial Neural Networks (ICANN). Springer, Cham, 2021: 343-354. [Link](https://link.springer.com/chapter/10.1007/978-3-030-86362-3_28)

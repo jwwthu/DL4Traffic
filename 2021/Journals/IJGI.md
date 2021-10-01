@@ -1,0 +1,1 @@
+* Chen K, Deng M, Shi Y. <b>A Temporal Directed Graph Convolution Network for Traffic Forecasting Using Taxi Trajectory Data[J]</b>. ISPRS International Journal of Geo-Information, 2021, 10(9): 624. [Link](https://www.mdpi.com/1274862)

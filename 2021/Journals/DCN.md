@@ -1,0 +1,1 @@
+* Ye J, Xue S. <b>Attention-based spatio-temporal graph convolutional network considering external factors for multistep traffic flow prediction[J]</b>. Digital Communications and Networks, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S2352864821000675)

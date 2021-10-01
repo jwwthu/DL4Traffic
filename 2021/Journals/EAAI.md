@@ -1,0 +1,1 @@
+* Karbovskii V, Lees M, Presbitero A, et al. <b>Ensemble learning for large-scale crowd flow prediction[J]</b>. Engineering Applications of Artificial Intelligence, 2021, 106: 104469. [Link](https://www.sciencedirect.com/science/article/pii/S0952197621003171)

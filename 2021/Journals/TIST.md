@@ -1,0 +1,1 @@
+* Zhao Q, Chen C, Liu G, et al. <b>Parallel Connected LSTM for Matrix Sequence Prediction with Elusive Correlations[J]</b>. ACM Transactions on Intelligent Systems and Technology (TIST), 2021, 12(4): 1-16. [Link](https://dl.acm.org/doi/abs/10.1145/3469437)

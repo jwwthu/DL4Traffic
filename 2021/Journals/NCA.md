@@ -1,3 +1,4 @@
+* Xia D, Yang N, Jiang S, et al. <b>A parallel NAW-DBLSTM algorithm on Spark for traffic flow forecasting[J]</b>. Neural Computing and Applications, 2021: 1-19. [Link](https://link.springer.com/article/10.1007/s00521-021-06409-5)
 * Li C, Xu P. <b>Application on traffic flow prediction of machine learning in intelligent transportation[J]</b>. Neural Computing and Applications, 2021, 33(2): 613-624. [Link](https://link.springer.com/article/10.1007/s00521-020-05002-6)
 * Yang T, Tang X, Liu R. <b>Dual temporal gated multi-graph convolution network for taxi demand prediction[J]</b>. Neural Computing and Applications, 2021: 1-16. [Link](https://link.springer.com/article/10.1007/s00521-021-06092-6)
 * Tao Y, Yue G, Wang X. <b>Dual-attention network with multitask learning for multistep short-term speed prediction on expressways[J]</b>. Neural Computing and Applications, 2021, 33(12): 7103-7124. [Link](https://link.springer.com/article/10.1007/s00521-020-05478-2)
