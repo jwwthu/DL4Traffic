@@ -1,0 +1,1 @@
+* Yang F, Zhang H, Tao S. <b>Travel order quantity prediction via attention-based bidirectional LSTM networks[J]</b>. The Journal of Supercomputing, 2021: 1-23. [Link](https://link.springer.com/article/10.1007/s11227-021-04032-8)

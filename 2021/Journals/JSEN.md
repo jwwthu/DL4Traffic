@@ -1,1 +1,1 @@
-* Awan F M, Minerva R, Crespi N. <b>Using Noise Pollution Data for Traffic Prediction in Smart Cities: Experiments Based on LSTM Recurrent Neural Networks[J]</b>. IEEE Sensors Journal, 2021.
+* Awan F M, Minerva R, Crespi N. <b>Using Noise Pollution Data for Traffic Prediction in Smart Cities: Experiments Based on LSTM Recurrent Neural Networks[J]</b>. IEEE Sensors Journal, 2021. [Link](https://ieeexplore.ieee.org/document/9496637)

@@ -2,5 +2,6 @@
 * Jia H, Luo H, Wang H, et al. <b>ADST: Forecasting metro flow using attention-based deep spatial-temporal networks with multi-task learning[J]</b>. Sensors, 2020, 20(16): 4574. [Link](https://www.mdpi.com/798560) [Code](https://github.com/wumingyao/ADST)
 * Culita J, Caramihai S I, Dumitrache I, et al. <b>An Hybrid Approach for Urban Traffic Prediction and Control in Smart Cities[J]</b>. Sensors, 2020, 20(24): 7209. [Link](https://www.mdpi.com/1424-8220/20/24/7209)
 * Sun S, Wu H, Xiang L. <b>City-wide traffic flow forecasting using a deep convolutional neural network[J]</b>. Sensors, 2020, 20(2): 421. [Link](https://www.mdpi.com/615488)
+* Asad S M, Ahmad J, Hussain S, et al. <b>Mobility prediction-based optimisation and encryption of passenger traffic-flows using machine learning[J]</b>. Sensors, 2020, 20(9): 2629. [Link](https://www.mdpi.com/708092)
 * Chen Z, Zhao B, Wang Y, et al. <b>Multitask Learning and GCN-Based Taxi Demand Prediction for a Traffic Road Network[J]</b>. Sensors, 2020, 20(13): 3776. [Link](https://www.mdpi.com/1424-8220/20/13/3776)
 * Zahid M, Chen Y, Jamal A, et al. <b>Short term traffic state prediction via hyperparameter optimization based classifiers[J]</b>. Sensors, 2020, 20(3): 685. [Link](https://www.mdpi.com/1424-8220/20/3/685)

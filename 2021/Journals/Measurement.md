@@ -1,0 +1,1 @@
+* Cao W, Sun S, Li H. <b>A new forecasting system for high-speed railway passenger demand based on residual component disposing[J]</b>. Measurement, 2021, 183: 109762. [Link](https://www.sciencedirect.com/science/article/pii/S0263224121007181)

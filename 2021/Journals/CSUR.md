@@ -1,0 +1,1 @@
+* Celes C, Boukerche A, Loureiro A A F. <b>Mobility Trace Analysis for Intelligent Vehicular Networks: Methods, Models, and Applications[J]</b>. ACM Computing Surveys (CSUR), 2021, 54(3): 1-38. [Link](https://dl.acm.org/doi/abs/10.1145/3446679)

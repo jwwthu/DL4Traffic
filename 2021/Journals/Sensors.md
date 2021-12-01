@@ -1,2 +1,5 @@
+* Hu Z, Sun R, Shao F, et al. <b>An efficient short-term traffic speed prediction model based on improved TCN and GCN[J]</b>. Sensors, 2021, 21(20): 6735. [Link](https://www.mdpi.com/1424-8220/21/20/6735) [Data](https://github.com/hzqhappy/SPTMN)
 * Jiao F, Huang L, Song R, et al. <b>An Improved STL-LSTM Model for Daily Bus Passenger Flow Prediction during the COVID-19 Pandemic[J]</b>. Sensors, 2021, 21(17): 5950. [Link](https://www.mdpi.com/1424-8220/21/17/5950)
+* Rodríguez González A B, Wilby M R, Vinagre Díaz J J, et al. <b>Characterization of COVID-19’s Impact on Mobility and Short-Term Prediction of Public Transport Demand in a Mid-Size City in Spain[J]</b>. Sensors, 2021, 21(19): 6574. [Link](https://www.mdpi.com/1295908)
+* Liu D, Xu X, Xu W, et al. <b>Graph convolutional network: traffic speed prediction fused with traffic flow data[J]</b>. Sensors, 2021, 21(19): 6402. [Link](https://www.mdpi.com/1285612)
 * Peppa M V, Komar T, Xiao W, et al. <b>Towards an End-to-End Framework of CCTV-Based Urban Traffic Volume Detection and Prediction[J]</b>. Sensors, 2021, 21(2): 629. [Link](https://www.mdpi.com/1424-8220/21/2/629)
