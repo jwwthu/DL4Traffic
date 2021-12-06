@@ -1,1 +1,2 @@
 * Tu B, Zhao Y, Yin G, et al. <b>Research on intelligent calculation method of intelligent traffic flow index based on big data mining[J]</b>. International Journal of Intelligent Systems. 2021. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22665)
+* Yang H, Ke R, Cui Z, et al. <b>Toward a real‐time Smart Parking Data Management and Prediction (SPDMP) system by attributes representation learning[J]</b>. International Journal of Intelligent Systems. 2021. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22725)

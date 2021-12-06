@@ -1,2 +1,3 @@
+* Afrin T, Yodo N. <b>A Long Short-Term Memory-based correlated traffic data prediction framework[J]</b>. Knowledge-Based Systems, 2021: 107755. [Link](https://www.sciencedirect.com/science/article/pii/S0950705121009825)
 * Alves M A C, Cordeiro R L F. <b>Effective and unburdensome forecast of highway traffic flow with adaptive computing[J]</b>. Knowledge-Based Systems, 2021, 212: 106603. [Link](https://www.sciencedirect.com/science/article/pii/S0950705120307322)
 * Zhang S, Chen Y, Zhang W. <b>Spatiotemporal fuzzy-graph convolutional network model with dynamic feature encoding for traffic forecasting[J]</b>. Knowledge-Based Systems, 2021: 107403. [Link](https://www.sciencedirect.com/science/article/pii/S0950705121006651)

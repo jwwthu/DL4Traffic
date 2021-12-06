@@ -1,1 +1,2 @@
+* Liu T, Jiang A, Miao X, et al. <b>Graph-based Dynamic Modeling and Traffic Prediction of Urban Road Network[J]</b>. IEEE Sensors Journal, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9598843/)
 * Awan F M, Minerva R, Crespi N. <b>Using Noise Pollution Data for Traffic Prediction in Smart Cities: Experiments Based on LSTM Recurrent Neural Networks[J]</b>. IEEE Sensors Journal, 2021. [Link](https://ieeexplore.ieee.org/document/9496637)

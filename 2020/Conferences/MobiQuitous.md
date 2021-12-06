@@ -1,0 +1,1 @@
+* Elmi S, Tan K L. <b>Speed Prediction on Real-life Traffic Data: Deep Stacked Residual Neural Network and Bidirectional LSTM[C]</b>//MobiQuitous 2020-17th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services. 2020: 435-443. [Link](https://dl.acm.org/doi/abs/10.1145/3448891.3448892)
