@@ -10,7 +10,7 @@
 
 * Du B, Peng H, Wang S, et al. <b>Deep irregular convolutional residual LSTM for urban traffic passenger flows prediction</b>[J]//IEEE Transactions on Intelligent Transportation Systems. 2019, 21(3): 972-985. [Link](https://ieeexplore.ieee.org/abstract/document/8664646) [Code](https://github.com/RingBDStack/Deep-Convolutional-Residual-LSTM)
 
-* Guo S, Lin Y, Li S, et al. <b>Deep spatial–temporal 3D convolutional neural networks for traffic data forecasting</b>[J]//IEEE Transactions on Intelligent Transportation Systems. 2019, 20(10): 3913-3926. [Link](https://ieeexplore.ieee.org/abstract/document/8684259)
+* Guo S, Lin Y, Li S, et al. <b>Deep spatial–temporal 3D convolutional neural networks for traffic data forecasting</b>[J]//IEEE Transactions on Intelligent Transportation Systems. 2019, 20(10): 3913-3926. [Link](https://ieeexplore.ieee.org/abstract/document/8684259) [Code](https://github.com/guoshnBJTU/ST-3DNet)
 
 * Zheng C, Fan X, Wen C, et al. <b>Deepstd: Mining spatio-temporal disturbances of multiple context factors for citywide traffic flow prediction</b>[J]//IEEE Transactions on Intelligent Transportation Systems. 2019, 21(9): 3744-3755. [Link](https://ieeexplore.ieee.org/abstract/document/8793226)
 
