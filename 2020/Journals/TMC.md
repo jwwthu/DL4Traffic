@@ -1,0 +1,2 @@
+* Chu J, Wang X, Qian K, et al. <b>Passenger demand prediction with cellular footprints[J]</b>. IEEE Transactions on Mobile Computing, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9127090/)
+* Al-Mallah R, Quintero A, Farooq B. <b>Prediction of Traffic Flow via Connected Vehicles[J]</b>. IEEE Transactions on Mobile Computing, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9132706/)

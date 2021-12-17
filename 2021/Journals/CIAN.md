@@ -1,0 +1,1 @@
+* Peng Y, Liang T, Hao X, et al. <b>CNN-GRU-AM for Shared Bicycles Demand Forecasting[J]</b>. Computational Intelligence and Neuroscience, 2021, 2021. [Link](https://www.hindawi.com/journals/cin/2021/5486328/)
