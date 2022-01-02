@@ -1,0 +1,2 @@
+* Tang G, Zhou Z, Li B. <b>STA3DCNN: Spatial-Temporal Attention 3D Convolutional Neural Network for Citywide Crowd Flow Prediction[C]</b>//International Conference on Neural Information Processing. Springer, Cham, 2021: 353-365. [Link](https://link.springer.com/chapter/10.1007/978-3-030-92273-3_29)
+* Zhou X, Zhou D, Liu L. <b>TRUFM: a Transformer-Guided Framework for Fine-Grained Urban Flow Inference[C]</b>//International Conference on Neural Information Processing. Springer, Cham, 2021: 262-273. [Link](https://link.springer.com/chapter/10.1007/978-3-030-92273-3_22)

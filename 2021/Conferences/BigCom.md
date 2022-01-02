@@ -1,0 +1,1 @@
+* Yang J, Liu T, Li C, et al. <b>MGSTCN: A Multi-Graph Spatio-Temporal Convolutional Network for Metro Passenger Flow Prediction[C]</b>//2021 7th International Conference on Big Data Computing and Communications (BigCom). IEEE, 2021: 164-171. [Link](https://ieeexplore.ieee.org/abstract/document/9546907/)

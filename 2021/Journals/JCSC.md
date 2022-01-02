@@ -1,0 +1,1 @@
+* Zhao K, Xu M, Yang Z, et al. <b>A Spatial–Temporal Similar Graph Attention Network for Cyber Physical System Perception via Traffic Forecasting[J]</b>. Journal of Circuits, Systems and Computers, 2021: 2250112. [Link](https://www.worldscientific.com/doi/abs/10.1142/S0218126622501122)
