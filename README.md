@@ -176,7 +176,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * MDM - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/MDM.md) | [2019](https://github.com/jwwthu/DL4Traffic/blob/main/2019/Conferences/MDM.md)
 * MobiQuitous - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/MobiQuitous.md)
 * NeurIPS - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/NeurIPS.md)
-* PAKDD - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/PAKDD.md) | [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Conferences/PAKDD.md)
+* PAKDD - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Conferences/PAKDD.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/PAKDD.md)
 * SDM - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Conferences/SDM.md)
 * SECON - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/SECON.md)
 * SIGMOD - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/SIGMOD.md)
