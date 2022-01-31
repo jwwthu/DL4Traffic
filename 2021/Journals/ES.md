@@ -1,0 +1,1 @@
+* Abideen Z U, Sun H, Yang Z, et al. <b>Regional‐based multi‐module spatial–temporal networks predicting city‐wide taxi pickup/dropoff demand from origin to destination[J]</b>. Expert Systems, 2021: e12883. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12883)

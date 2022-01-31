@@ -1,0 +1,1 @@
+* Ma X, Yin Y, Jin Y, et al. <b>Short-Term Prediction of Bike-Sharing Demand Using Multi-Source Data: A Spatial-Temporal Graph Attentional LSTM Approach[J]</b>. Applied Sciences, 2022, 12(3): 1161. [Link](https://www.mdpi.com/2076-3417/12/3/1161)

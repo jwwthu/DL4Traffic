@@ -1,0 +1,2 @@
+* Jiang W, Ma Z, Koutsopoulos H N. <b>Deep learning for short-term origin–destination passenger flow prediction under partial observability in urban railway systems[J]</b>. Neural Computing and Applications, 2022: 1-18. [Link](https://link.springer.com/article/10.1007/s00521-021-06669-1)
+* Li W, Wang S. <b>Federated meta-learning for spatial-temporal prediction[J]</b>. Neural Computing and Applications, 2022: 1-20. [Link](https://link.springer.com/article/10.1007/s00521-021-06861-3) [Code](https://github.com/lwz001/FML-ST.git)
