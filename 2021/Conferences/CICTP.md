@@ -1,1 +1,6 @@
+* Sun T, Ma W, Sun B, et al. <b>A Decomposition and Attention Fusion Approach for Traffic Flow Forecasting Using Multimodal Deep Learning[M]</b>//CICTP 2021. 2021: 217-227. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483565.022)
+* Luo X, Fu H, Han S. <b>Bus Arrival Time Prediction Model Based on Multi-Resource Data[M]</b>//CICTP 2021. 2021: 32-42. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483565.004)
+* Chen T, Fang J, Liu Z, et al. <b>Forecasting Bus Passenger Flow Using Bi-LSTM with Attention Mechanism[M]</b>//CICTP 2021. 2021: 54-65. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483565.006)
 * Zhang J, Geng M, Gu J, et al. <b>Short-Term Speed Forecasting of Large-Scale Urban Road Network Based on Transformer[M]</b>//CICTP 2021. 609-618. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483565.059)
+* Ou S, Li F. <b>Short-Term Traffic Flow Prediction of Highway Based on Machine Learning[M]</b>//CICTP 2021. 2021: 248-256. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483565.025)
+* Liu Z, Tan H. <b>Traffic Prediction with Graph Neural Network: A Survey[M]</b>//CICTP 2021. 2021: 467-474. [Link](https://ascelibrary.org/doi/abs/10.1061/9780784483565.046)
