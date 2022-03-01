@@ -1,0 +1,1 @@
+* Qin Y, Zhao F, Fang Y, et al. <b>Memory attention enhanced graph convolution long short‐term memory network for traffic forecasting[J]</b>. International Journal of Intelligent Systems, 2022. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22855)

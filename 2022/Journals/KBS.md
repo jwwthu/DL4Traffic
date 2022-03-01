@@ -1,0 +1,2 @@
+* Ta X, Liu Z, Hu X, et al. <b>Adaptive Spatio-temporal Graph Neural Network for traffic forecasting[J]</b>. Knowledge-Based Systems, 2022: 108199. [Link](https://www.sciencedirect.com/science/article/pii/S0950705122000508) [Code](https://github.com/LiuZH-19/Ada-STNet)
+* Ren Y, Jiang H, Ji N, et al. <b>TBSM: A traffic burst-sensitive model for short-term prediction under special events[J]</b>. Knowledge-Based Systems, 2022: 108120. [Link](https://www.sciencedirect.com/science/article/pii/S0950705122000028)

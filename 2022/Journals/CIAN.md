@@ -1,0 +1,1 @@
+* Bao Y X, Cao Y, Shen Q Q, et al. <b>Global-local spatial-temporal residual correlation network for urban traffic status prediction[J]</b>. Computational intelligence and neuroscience, 2022, 2022. [Link](https://www.hindawi.com/journals/cin/2022/7344522/)

@@ -1,0 +1,1 @@
+* Chen T, Fang J, Xu M, et al. <b>Prediction of Public Bus Passenger Flow Using Spatial–Temporal Hybrid Model of Deep Learning[J]</b>. Journal of Transportation Engineering, Part A: Systems, 2022, 148(4): 04022007. [Link](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000653)

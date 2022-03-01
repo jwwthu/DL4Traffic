@@ -1,0 +1,2 @@
+* Zhang C, Zhou H Y, Qiu Q, et al. <b>Augmented Multi-Component Recurrent Graph Convolutional Network for Traffic Flow Forecasting[J]</b>. ISPRS International Journal of Geo-Information, 2022, 11(2): 88. [Link](https://www.mdpi.com/1470086) [Code](https://github.com/ILoveStudying/AM-RGCN)
+* Wang Y, Jing C. <b>Spatiotemporal Graph Convolutional Network for Multi-Scale Traffic Forecasting[J]</b>. ISPRS International Journal of Geo-Information, 2022, 11(2): 102. [Link](https://www.mdpi.com/1481104)

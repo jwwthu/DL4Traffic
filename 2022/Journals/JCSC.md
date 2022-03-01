@@ -1,0 +1,1 @@
+* Huang W, Cao B, Li X, et al. <b>Passenger Flow Prediction for Public Transportation Stations Based on Spatio-Temporal Graph Convolutional Network with Periodic Components[J]</b>. Journal of Circuits, Systems and Computers, 2022: 2250134. [Link](https://www.worldscientific.com/doi/abs/10.1142/S0218126622501341)

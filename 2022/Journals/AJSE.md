@@ -1,0 +1,1 @@
+* Mondal M A, Rehena Z. <b>Stacked LSTM for Short-Term Traffic Flow Prediction using Multivariate Time Series Dataset[J]</b>. Arabian Journal for Science and Engineering, 2022: 1-15. [Link](https://link.springer.com/article/10.1007/s13369-022-06575-1)

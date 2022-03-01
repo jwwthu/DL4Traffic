@@ -1,0 +1,1 @@
+* Qaddoura R, Younes M B. <b>Temporal prediction of traffic characteristics on real road scenarios in Amman[J]</b>. Journal of Ambient Intelligence and Humanized Computing, 2022: 1-16. [Link](https://link.springer.com/article/10.1007/s12652-022-03708-0)

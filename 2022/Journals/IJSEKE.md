@@ -1,0 +1,1 @@
+* Ara Z, Hashemi M. <b>Predicting Ride Hailing Service Demand Using Autoencoder and Convolutional Neural Network[J]</b>. International Journal of Software Engineering and Knowledge Engineering, 2022, 32(01): 109-129. [Link](https://www.worldscientific.com/doi/abs/10.1142/S021819402250005X)

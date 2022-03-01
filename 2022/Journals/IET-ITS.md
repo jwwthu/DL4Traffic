@@ -1,0 +1,1 @@
+* Sun Z, Hu Y, Li W, et al. <b>Prediction model for short‐term traffic flow based on a K‐means‐gated recurrent unit combination[J]</b>. IET Intelligent Transport Systems, 2022. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12165)

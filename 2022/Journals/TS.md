@@ -1,0 +1,1 @@
+* Cheng Z, Trepanier M, Sun L. <b>Real-time forecasting of metro origin-destination matrices with high-order weighted dynamic mode decomposition[J]</b>. Transportation Science, 2022. [Link](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1128) [Code](https://github.com/mcgill-smart-transport/high-order-weighted-DMD)

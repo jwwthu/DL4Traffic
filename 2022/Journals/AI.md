@@ -1,1 +1,3 @@
 * Alghamdi D, Basulaiman K, Rajgopal J. <b>Multi-stage deep probabilistic prediction for travel demand[J]</b>. Applied Intelligence, 2022: 1-18. [Link](https://link.springer.com/article/10.1007/s10489-021-03047-1)
+* Xing J, Kong X, Xing W, et al. <b>STGs: construct spatial and temporal graphs for citywide crowd flow prediction[J]</b>. Applied Intelligence, 2022: 1-10. [Link](https://link.springer.com/article/10.1007/s10489-021-02939-6)
+* Liao W, Zeng B, Liu J, et al. <b>Taxi demand forecasting based on the temporal multimodal information fusion graph neural network[J]</b>. Applied Intelligence, 2022: 1-14. [Link](https://link.springer.com/article/10.1007/s10489-021-03128-1)

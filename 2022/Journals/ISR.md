@@ -1,0 +1,1 @@
+* Wang Y, Currim F, Ram S. <b>Deep Learning of Spatiotemporal Patterns for Urban Mobility Prediction Using Big Data[J]</b>. Information Systems Research, 2022. [Link](https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1072)

@@ -1,2 +1,3 @@
+* Mehdizadeh Dastjerdi A, Morency C. <b>Bike-Sharing Demand Prediction at Community Level under COVID-19 Using Deep Learning[J]</b>. Sensors, 2022, 22(3): 1060. [Link](https://www.mdpi.com/1424-8220/22/3/1060)
 * Huang L, Mao F, Zhang K, et al. <b>Spatial-Temporal Convolutional Transformer Network for Multivariate Time Series Forecasting[J]</b>. Sensors, 2022, 22(3): 841. [Link](https://www.mdpi.com/1424-8220/22/3/841)
 * Reza S, Oliveira H S, Machado J J M, et al. <b>Urban safety: an image-processing and deep-learning-based intelligent traffic management and control system[J]</b>. Sensors, 2021, 21(22): 7705. [Link](https://www.mdpi.com/1424-8220/21/22/7705)

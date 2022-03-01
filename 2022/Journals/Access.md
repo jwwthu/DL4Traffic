@@ -1,0 +1,1 @@
+* Mehdi M Z, Kamoun H M, Benayed N G, et al. <b>Entropy-based traffic flow labelling for CNN-based traffic congestion prediction from meta-parameters[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9703355/)
