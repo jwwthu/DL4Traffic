@@ -1,1 +1,2 @@
 * Nagaraj N, Gururaj H L, Swathi B H, et al. <b>Passenger flow prediction in bus transportation system using deep learning[J]</b>. Multimedia Tools and Applications, 2022: 1-24. [Link](https://link.springer.com/article/10.1007/s11042-022-12306-3)
+* Xia D, Yang N, Jian S, et al. <b>SW-BiLSTM: a Spark-based weighted BiLSTM model for traffic flow forecasting[J]</b>. Multimedia Tools and Applications, 2022: 1-26. [Link](https://link.springer.com/article/10.1007/s11042-022-12039-3)

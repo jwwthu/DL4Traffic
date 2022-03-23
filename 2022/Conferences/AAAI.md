@@ -1,1 +1,2 @@
+* Wang Z, Jiang R, Xue H, et al. <b>Event-Aware Multimodal Mobility Nowcasting[C]</b>. AAAI, 2022. [Link](https://arxiv.org/abs/2112.08443) [Code](https://github.com/underdoc-wang/EAST-Net)
 * Choi J, Choi H, Hwang J, et al. <b>Graph Neural Controlled Differential Equations for Traffic Forecasting[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2022. [Link](https://arxiv.org/abs/2112.03558) [Code](https://github.com/jeongwhanchoi/STG-NCDE)

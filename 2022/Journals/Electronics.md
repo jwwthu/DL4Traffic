@@ -1,2 +1,3 @@
 * Han S Y, Sun Q W, Yang X H, et al. <b>Adaptation Scheduling for Urban Traffic Lights via FNT-Based Prediction of Traffic Flow[J]</b>. Electronics, 2022, 11(4): 658. [Link](https://www.mdpi.com/2079-9292/11/4/658)
+* Han S Y, Sun Q W, Zhao Q, et al. <b>Traffic Forecasting Based on Integration of Adaptive Subgraph Reformulation and Spatio-Temporal Deep Learning Model[J]</b>. Electronics, 2022, 11(6): 861. [Link](https://www.mdpi.com/1534518)
 * Ahmed I, Kumara I, Reshadat V, et al. <b>Travel Time Prediction and Explanation with Spatio-Temporal Features: A Comparative Study[J]</b>. Electronics, 2022, 11(1): 106. [Link](https://www.mdpi.com/2079-9292/11/1/106) [Data](https://zenodo.org/record/5806069#.YcmpQmjMJPZ)

@@ -1,0 +1,1 @@
+* Liu X, Zhang Z, Lyu L, et al. <b>Traffic Anomaly Prediction Based on Joint Static-Dynamic Spatio-Temporal Evolutionary Learning[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9711930/) [Code](https://github.com/zwzhangzzz/SNIPER)
