@@ -1,0 +1,1 @@
+* Nie X, Peng J, Wu Y, et al. <b>Real-Time Traffic Speed Estimation for Smart Cities with Spatial Temporal Data: A Gated Graph Attention Network Approach[J]</b>. Big Data Research, 2022: 100313. [Link](https://www.sciencedirect.com/science/article/pii/S2214579622000077)
