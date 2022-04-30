@@ -1,1 +1,2 @@
 * Xu X, Liu C, Zhao Y, et al. <b>Short‐term traffic flow prediction based on whale optimization algorithm optimized BiLSTM_Attention[J]</b>. Concurrency and Computation: Practice and Experience, 2022: e6782. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6782)
+* Suvitha D, Vijayalakshmi M. <b>Traffic prediction using MSSBiLS with self-attention model[J]</b>. Concurrency Computat Pract Exper. 2022;e6952. [Link](https://onlinelibrary.wiley.com/doi/10.1002/cpe.6952)

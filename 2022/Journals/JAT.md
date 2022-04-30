@@ -1,1 +1,3 @@
+* Zhao S, Li X. <b>An Attention Encoder-Decoder Dual Graph Convolutional Network with Time Series Correlation for Multi-Step Traffic Flow Prediction[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/7682274/)
 * Jiang W, Xiao Y, Liu Y, et al. <b>Bi-GRCN: A Spatio-Temporal Traffic Flow Prediction Model Based on Graph Neural Network[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/5221362/)
+* Jian Y, Li J, Wei L, et al. <b>Spatiotemporal DeepWalk Gated Recurrent Neural Network: A Deep Learning Framework for Traffic Learning and Forecasting[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/4260244/)

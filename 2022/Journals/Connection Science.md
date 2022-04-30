@@ -1,0 +1,1 @@
+* Zhao C, Li X, Shao Z, et al. <b>Multi-featured spatial-temporal and dynamic multi-graph convolutional network for metro passenger flow prediction[J]</b>. Connection Science, 2022, 34(1): 1252-1272. [Link](https://www.tandfonline.com/doi/full/10.1080/09540091.2022.2061915)

@@ -1,0 +1,1 @@
+* Ali M, Yusof K M, Wilson B, et al. <b>Traffic speed prediction of high‐frequency time series using additively decomposed components as features[J]</b>. IET Smart Cities, 2022. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/smc2.12027)

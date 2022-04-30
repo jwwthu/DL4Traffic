@@ -1,0 +1,1 @@
+* Yin D, Jiang R, Deng J, et al. <b>MTMGNN: Multi-time multi-graph neural network for metro passenger flow prediction[J]</b>. GeoInformatica, 2022: 1-29. [Link](https://link.springer.com/article/10.1007/s10707-022-00466-1) [Code](https://github.com/lixus7/MTMGNN)
