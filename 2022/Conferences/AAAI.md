@@ -1,2 +1,4 @@
+* He H, Zhang Q, Bai S, et al. <b>CATN: Cross Attentive Tree-aware Network for Multivariate Time Series Forecasting[J]</b>. AAAI, 2022. [Link](https://www.aaai.org/AAAI22Papers/AAAI-7403.HeH.pdf)
 * Wang Z, Jiang R, Xue H, et al. <b>Event-Aware Multimodal Mobility Nowcasting[C]</b>. AAAI, 2022. [Link](https://arxiv.org/abs/2112.08443) [Code](https://github.com/underdoc-wang/EAST-Net)
 * Choi J, Choi H, Hwang J, et al. <b>Graph Neural Controlled Differential Equations for Traffic Forecasting[C]</b>. Proceedings of the AAAI Conference on Artificial Intelligence. 2022. [Link](https://arxiv.org/abs/2112.03558) [Code](https://github.com/jeongwhanchoi/STG-NCDE)
+* Ji J, Wang J, Jiang Z, et al. <b>STDEN: Towards Physics-guided Neural Networks for Traffic Flow Prediction[J]</b>. AAAI, 2022. [Link](https://www.aaai.org/AAAI22Papers/AAAI-211.JiJ.pdf)

@@ -1,0 +1,1 @@
+* Feng Y, Xu Y, Hu Q, et al. <b>Predicting vacant parking space availability zone-wisely: a hybrid deep learning approach[J]</b>. Complex & Intelligent Systems, 2022: 1-17. [Link](https://link.springer.com/article/10.1007/s40747-022-00700-1)

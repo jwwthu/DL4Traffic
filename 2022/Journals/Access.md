@@ -1,1 +1,3 @@
 * Mehdi M Z, Kamoun H M, Benayed N G, et al. <b>Entropy-based traffic flow labelling for CNN-based traffic congestion prediction from meta-parameters[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9703355/)
+* Huang X, Ye Y, Yang X, et al. <b>Multi-step Coupled Graph Convolution with Temporal-Attention for Traffic Flow Prediction[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9766337/)
+* Zeng C, Ma C, Wang K, et al. <b>Parking Occupancy Prediction Method Based on Multi Factors and Stacked GRU-LSTM[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9765513/)

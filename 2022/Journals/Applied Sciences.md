@@ -1,7 +1,9 @@
+* Marcillo P, Valdivieso Caraguay Á L, Hernández-Álvarez M. <b>A Systematic Literature Review of Learning-Based Traffic Accident Prediction Models Based on Heterogeneous Sources[J]</b>. Applied Sciences, 2022, 12(9): 4529. [Link](https://www.mdpi.com/2076-3417/12/9/4529)
+* Cheng C H, Tsai M C, Cheng Y C. <b>An Intelligent Time-Series Model for Forecasting Bus Passengers Based on Smartcard Data[J]</b>. Applied Sciences, 2022, 12(9): 4763. [Link](https://www.mdpi.com/article/10.3390/app12094763)
 * Han S Y, Zhao Q, Sun Q W, et al. <b>EnGS-DGR: Traffic Flow Forecasting with Indefinite Forecasting Interval by Ensemble GCN, Seq2Seq, and Dynamic Graph Reconfiguration[J]</b>. Applied Sciences, 2022, 12(6): 2890. [Link](https://www.mdpi.com/2076-3417/12/6/2890)
 * Ma J, Zeng X, Xue X, et al. <b>Metro Emergency Passenger Flow Prediction on Transfer Learning and LSTM Model[J]</b>. Applied Sciences, 2022, 12(3): 1644. [Link](https://www.mdpi.com/1484518)
 * Cui Z, Zhang J, Noh G, et al. <b>MFDGCN: Multi-Stage Spatio-Temporal Fusion Diffusion Graph Convolutional Network for Traffic Prediction[J]</b>. Applied Sciences, 2022, 12(5): 2688. [Link](https://www.mdpi.com/2076-3417/12/5/2688)
 * Ma X, Yin Y, Jin Y, et al. <b>Short-Term Prediction of Bike-Sharing Demand Using Multi-Source Data: A Spatial-Temporal Graph Attentional LSTM Approach[J]</b>. Applied Sciences, 2022, 12(3): 1161. [Link](https://www.mdpi.com/2076-3417/12/3/1161)
 * Mai W, Chen J, Chen X. <b>Time-Evolving Graph Convolutional Recurrent Network for Traffic Prediction[J]</b>. Applied Sciences, 2022, 12(6): 2842. [Link](https://www.mdpi.com/2076-3417/12/6/2842)
 * Wang Y, Jia R, Dai F, et al. <b>Traffic Flow Prediction Method Based on Seasonal Characteristics and SARIMA-NAR Model[J]</b>. Applied Sciences, 2022, 12(4): 2190. [Link](https://www.mdpi.com/1507412)
-
+* Reza S, Ferreira M C, Machado J J M, et al. <b>Traffic State Prediction Using One-Dimensional Convolution Neural Networks and Long Short-Term Memory[J]</b>. Applied Sciences, 2022, 12(10): 5149. [Link](https://www.mdpi.com/2076-3417/12/10/5149)

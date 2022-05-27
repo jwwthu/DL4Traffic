@@ -1,0 +1,2 @@
+* He Q, Dong Z, Chen F, et al. <b>Pyramid: Enabling hierarchical neural networks with edge computing[C]</b>//Proceedings of the ACM Web Conference 2022. 2022: 1860-1870. [Link](https://dl.acm.org/doi/abs/10.1145/3485447.3511990)
+* He S, Shin K G. <b>Socially-Equitable Interactive Graph Information Fusion-based Prediction for Urban Dockless E-Scooter Sharing[C]</b>//Proceedings of the ACM Web Conference 2022. 2022: 3269-3279. [Link](https://dl.acm.org/doi/abs/10.1145/3485447.3512145)

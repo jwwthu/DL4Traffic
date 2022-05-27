@@ -1,0 +1,1 @@
+* Shao W, Jin Z, Wang S, et al. <b>Long-term Spatio-temporal Forecasting via Dynamic Multiple-Graph Attention[C]</b>. The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI 2022), 2022. [Link](https://arxiv.org/abs/2204.11008)
