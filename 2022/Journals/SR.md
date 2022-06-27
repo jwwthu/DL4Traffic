@@ -1,0 +1,1 @@
+* Liao L, Wang Y, Zou F, et al. <b>A multi-sensory stimulating attention model for cities’ taxi service demand prediction[J]</b>. Scientific reports, 2022, 12(1): 1-13. [Link](https://www.nature.com/articles/s41598-022-07072-z)

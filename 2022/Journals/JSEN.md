@@ -1,0 +1,1 @@
+* Hu J, Lin X, Wang C. <b>DSTGCN: Dynamic Spatial-Temporal Graph Convolutional Network for traffic prediction[J]</b>. IEEE Sensors Journal, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9777905/)

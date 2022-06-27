@@ -1,0 +1,1 @@
+* Duan Y, Chen N, Shen S, et al. <b>Fdsa-STG: Fully Dynamic Self-Attention Spatio-Temporal Graph Networks for Intelligent Traffic Flow Prediction[J]</b>. IEEE Transactions on Vehicular Technology, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9782553/)
