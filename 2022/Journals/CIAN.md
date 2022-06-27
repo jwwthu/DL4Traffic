@@ -1,2 +1,3 @@
 * Bao Y X, Cao Y, Shen Q Q, et al. <b>Global-local spatial-temporal residual correlation network for urban traffic status prediction[J]</b>. Computational intelligence and neuroscience, 2022, 2022. [Link](https://www.hindawi.com/journals/cin/2022/7344522/)
+* Liu B, Zhang T, Hu W. <b>Intelligent Traffic Flow Prediction and Analysis Based on Internet of Things and Big Data[J]</b>. Computational Intelligence and Neuroscience, 2022, 2022. [Link](https://www.hindawi.com/journals/cin/2022/6420799/)
 * Yang L, Jiang S, Zhang F. <b>Multitask Learning with Graph Neural Network for Travel Time Estimation[J]</b>. Computational Intelligence and Neuroscience, 2022, 2022. [Link](https://www.hindawi.com/journals/cin/2022/6622734/)

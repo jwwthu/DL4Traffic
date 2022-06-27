@@ -1,0 +1,1 @@
+* Liu Z, Zhang R, Wang C, et al. <b>Spatial-Temporal Conv-Sequence Learning With Accident Encoding for Traffic Flow Prediction[J]</b>. IEEE Transactions on Network Science and Engineering, 2022, 9(3): 1765-1775. [Link](https://ieeexplore.ieee.org/abstract/document/9721541/)

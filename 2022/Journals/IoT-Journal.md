@@ -1,1 +1,2 @@
 * Jiang M, Li C, Li K, et al. <b>Inter-Block Flow Prediction with Relation Graph Network for Cold-start on Bike-Sharing System[J]</b>. IEEE Internet of Things Journal, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9677025/)
+* Zhou J, Han T, Xiao F, et al. <b>Multi-Scale Network Traffic Prediction Method Based on Deep Echo State Network for Internet of Things[J]</b>. IEEE Internet of Things Journal, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9792271/)

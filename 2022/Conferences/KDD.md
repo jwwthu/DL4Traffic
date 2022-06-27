@@ -1,0 +1,1 @@
+* Lu B, Gan X, Zhang W, et al. <b>Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer[C]</b>. KDD, 2022. [Link](https://arxiv.org/abs/2205.13947) [Code](https://github.com/RobinLu1209/ST-GFSL)

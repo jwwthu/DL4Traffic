@@ -1,1 +1,2 @@
 * Zheng Q, Zhang Y. <b>DSTAGCN: Dynamic Spatial-Temporal Adjacent Graph Convolutional Network for Traffic Forecasting[J]</b>. IEEE Transactions on Big Data, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9729487/)
+* Zhang Y, Wei X, Zhang X, et al. <b>Self-Attention Graph Convolution Residual Network for Traffic Data Completion[J]</b>. IEEE Transactions on Big Data, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9794444/)
