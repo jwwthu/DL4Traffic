@@ -1,0 +1,1 @@
+* Lan S, Ma Y, Huang W, et al. <b>DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting[C]</b>//International Conference on Machine Learning, PMLR, 2022: 11906-11917. [Link](https://proceedings.mlr.press/v162/lan22a.html) [Code](https://github.com/SYLan2019/DSTAGNN)

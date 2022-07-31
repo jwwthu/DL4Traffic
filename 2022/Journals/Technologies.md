@@ -1,0 +1,1 @@
+* Navarro-Espinoza A, López-Bonilla O R, García-Guerrero E E, et al. <b>Traffic Flow Prediction for Smart Traffic Lights Using Machine Learning Algorithms[J]</b>. Technologies, 2022, 10(1): 5. [Link](https://www.mdpi.com/2227-7080/10/1/5) [Data](https://zenodo.org/record/3653880#.YZbTcE6ZND9)

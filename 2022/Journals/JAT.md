@@ -6,3 +6,4 @@
 * Tag Elsir A M, Khaled A, Wang P, et al. <b>JSTC: Travel Time Prediction with a Joint Spatial-Temporal Correlation Mechanism[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/1213221/)
 * Cao Y, Liu D, Yin Q, et al. <b>MSASGCN: Multi-Head Self-Attention Spatiotemporal Graph Convolutional Network for Traffic Flow Forecasting[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/2811961/)
 * Jian Y, Li J, Wei L, et al. <b>Spatiotemporal DeepWalk Gated Recurrent Neural Network: A Deep Learning Framework for Traffic Learning and Forecasting[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/4260244/)
+* Wang L, Wang X, Wang J. <b>Rail Transit Prediction Based on Multi-View Graph Attention Networks[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/4672617/)

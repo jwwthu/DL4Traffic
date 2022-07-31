@@ -1,0 +1,1 @@
+* Zhang C, Zhang S, Yu S, et al. <b>Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning[C]</b>//2022 IEEE Wireless Communications and Networking Conference (WCNC), IEEE, 2022: 2041-2046. [Link](https://ieeexplore.ieee.org/abstract/document/9771883/)

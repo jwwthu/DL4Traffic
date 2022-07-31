@@ -1,0 +1,1 @@
+* Zhang J, Qu S, Zhang Z, et al. <b>Improved genetic algorithm optimized LSTM model and its application in short-term traffic flow prediction[J]</b>. PeerJ Computer Science, 2022, 8: e1048. [Link](https://peerj.com/articles/cs-1048/) [Code](http://dx.doi.org/10.7717/peerj-cs.1048#supplemental-information)

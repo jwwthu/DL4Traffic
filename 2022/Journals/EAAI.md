@@ -1,0 +1,1 @@
+* Zhang Q, Yin C, Chen Y, et al. <b>IGCRRN: Improved Graph Convolution Res-Recurrent Network for spatio-temporal dependence capturing and traffic flow prediction[J]</b>. Engineering Applications of Artificial Intelligence, 2022, 114: 105179. [Link](https://www.sciencedirect.com/science/article/pii/S0952197622002822)

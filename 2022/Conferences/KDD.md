@@ -1,1 +1,2 @@
+* Shao Z, Zhang Z, Wang F, et al. <b>Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting[C]</b>. KDD, 2022. [Link](https://arxiv.org/abs/2206.09113) [Code](https://github.com/zezhishao/STEP)
 * Lu B, Gan X, Zhang W, et al. <b>Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer[C]</b>. KDD, 2022. [Link](https://arxiv.org/abs/2205.13947) [Code](https://github.com/RobinLu1209/ST-GFSL)

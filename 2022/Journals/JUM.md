@@ -1,0 +1,1 @@
+* Liyanage S, Abduljabbar R, Dia H, et al. <b>AI-based neural network models for bus passenger demand forecasting using smart card data[J]</b>. Journal of Urban Management, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S2226585622000280)

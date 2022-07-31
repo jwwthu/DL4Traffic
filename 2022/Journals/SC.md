@@ -1,0 +1,1 @@
+* Kuo R J, Kunarsito D A. <b>Residual stacked gated recurrent unit with encoder–decoder architecture and an attention mechanism for temporal traffic prediction[J]</b>. Soft Computing, 2022: 1-17. [Link](https://link.springer.com/article/10.1007/s00500-022-07230-5)

@@ -3,3 +3,4 @@
 * Braz F J, Ferreira J, Gonçalves F, et al. <b>Road Traffic Forecast Based on Meteorological Information through Deep Learning Methods[J]</b>. Sensors, 2022, 22(12): 4485. [Link](https://www.mdpi.com/1424-8220/22/12/4485) [Data](https://figshare.com/s/d324f5be912e7f7a0d21)
 * Huang L, Mao F, Zhang K, et al. <b>Spatial-Temporal Convolutional Transformer Network for Multivariate Time Series Forecasting[J]</b>. Sensors, 2022, 22(3): 841. [Link](https://www.mdpi.com/1424-8220/22/3/841)
 * Reza S, Oliveira H S, Machado J J M, et al. <b>Urban safety: an image-processing and deep-learning-based intelligent traffic management and control system[J]</b>. Sensors, 2021, 21(22): 7705. [Link](https://www.mdpi.com/1424-8220/21/22/7705)
+* Chen Y, Wang W, Hua X, et al. <b>Survey of Decomposition-Reconstruction-Based Hybrid Approaches for Short-Term Traffic State Forecasting[J]</b>. Sensors, 2022, 22(14): 5263. [Link](https://www.mdpi.com/article/10.3390/s22145263)

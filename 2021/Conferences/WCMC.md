@@ -1,1 +1,0 @@
-* Huang Q, Yang Y, Xu Y, et al. <b>Human Origin-Destination Flow Prediction Based on Large Scale Mobile Signal Data[J]</b>. Wireless Communications and Mobile Computing, 2021, 2021. [Link](https://www.hindawi.com/journals/wcmc/2021/1604268/)

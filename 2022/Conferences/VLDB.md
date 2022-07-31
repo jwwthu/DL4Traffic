@@ -1,0 +1,1 @@
+* Shao Z, Zhang Z, Wei W, et al. <b>Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting[J]</b>. International Conference on Very Large Databases (VLDB), 2022. [Link](https://arxiv.org/abs/2206.09112v2) [Code](https://github.com/zezhishao/D2STGNN)
