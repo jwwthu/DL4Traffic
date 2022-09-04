@@ -1,0 +1,1 @@
+* Zhang S, Liu Y, Xiao Y, et al. <b>Spatial-Temporal Upsampling Graph Convolutional Network for daily long-term traffic speed prediction[J]</b>. Journal of King Saud University-Computer and Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1319157822002993) [Code](https://github.com/zsongsong/stugcn)

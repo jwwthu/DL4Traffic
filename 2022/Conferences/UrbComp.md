@@ -1,0 +1,1 @@
+* Tabatabaie M, Maniscalco J, Lynch C, et al. <b>Towards Spatio-Temporal Cross-Platform Graph Embedding Fusion for Urban Traffic Flow Prediction[C]</b>. UrbComp, 2022. [Link](https://arxiv.org/abs/2208.06947)

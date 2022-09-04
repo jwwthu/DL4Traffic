@@ -1,3 +1,4 @@
+* Cao S, Wu L, Wu J, et al. <b>A Spatio-Temporal Sequence-to-Sequence Network for Traffic Flow Prediction[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522008234)
 * Huang F, Yi P, Wang J, et al. <b>A Dynamical Spatial-Temporal Graph Neural Network for Traffic Demand Prediction[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522001669)
 * Wang Y, Jing C, Xu S, et al. <b>Attention Based Spatiotemporal Graph Attention Networks for Traffic Flow Forecasting[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522005679)
 * Geng X, He X, Xu L, et al. <b>Graph Correlated Attention Recurrent Neural Network for Multivariate Time Series Forecasting[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522003978)

@@ -1,1 +1,2 @@
+* Li C, Zheng L, Jia N. <b>Network-wide ride-sourcing passenger demand origin-destination matrix prediction with a generative adversarial network[J]</b>. Transportmetrica A: Transport Science, 2022: 1-28. [Link](https://www.tandfonline.com/doi/abs/10.1080/23249935.2022.2109774)
 * He Y, Zhao Y, Tsui K L. <b>Short-term forecasting of origin-destination matrix in transit system via a deep learning approach[J]</b>. Transportmetrica A: Transport Science, 2022: 1-28. [Link](https://www.tandfonline.com/doi/abs/10.1080/23249935.2022.2033348)

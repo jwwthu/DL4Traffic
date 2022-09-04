@@ -1,1 +1,2 @@
+* Wang T, Ni S, Qin T, et al. <b>TransGAT: A Dynamic Graph Attention Residual Networks for Traffic Flow Forecasting[J]</b>. Sustainable Computing: Informatics and Systems, 2022: 100779. [Link](https://www.sciencedirect.com/science/article/pii/S221053792200110X)
 * Medina-Salgado B, Sánchez-DelaCruz E, Pozos-Parra P, et al. <b>Urban traffic flow prediction techniques: A review[J]</b>. Sustainable Computing: Informatics and Systems, 2022: 100739. [Link](https://www.sciencedirect.com/science/article/pii/S2210537922000725)

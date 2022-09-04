@@ -1,3 +1,5 @@
+* Hu Z, Shao F, Sun R. <b>A New Perspective on Traffic Flow Prediction: A Graph Spatial-Temporal Network with Complex Network Information[J]</b>. Electronics, 2022, 11(15): 2432. [Link](https://www.mdpi.com/2079-9292/11/15/2432)
+* Liu Z, Bian J, Zhang D, et al. <b>Dynamic Multi-View Coupled Graph Convolution Network for Urban Travel Demand Forecasting[J]</b>. Electronics, 2022, 11(16): 2620. [Link](https://www.mdpi.com/2079-9292/11/16/2620)
 * Han S Y, Sun Q W, Yang X H, et al. <b>Adaptation Scheduling for Urban Traffic Lights via FNT-Based Prediction of Traffic Flow[J]</b>. Electronics, 2022, 11(4): 658. [Link](https://www.mdpi.com/2079-9292/11/4/658)
 * Zou F, Ren Q, Tian J, et al. <b>Expressway Speed Prediction Based on Electronic Toll Collection Data[J]</b>. Electronics, 2022, 11(10): 1613. [Link](https://www.mdpi.com/2079-9292/11/10/1613)
 * Han X, Gong S. <b>LST-GCN: Long Short-Term Memory Embedded Graph Convolution Network for Traffic Flow Forecasting[J]</b>. Electronics, 2022, 11(14): 2230. [Link](https://www.mdpi.com/2079-9292/11/14/2230)

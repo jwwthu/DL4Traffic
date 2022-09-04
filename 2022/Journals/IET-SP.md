@@ -1,0 +1,1 @@
+* Ding X, Zheng H, Wang Y, et al. <b>An Energy Harvesting Roadside Unit communication load prediction and energy scheduling based on graph convolutional neural networks for spatial‐temporal vehicle data[J]</b>. IET Signal Processing, 2022. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/sil2.12149)

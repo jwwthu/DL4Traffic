@@ -1,0 +1,1 @@
+* Wang Z, Sun P, Boukerche A. <b>A Novel Time Efficient Machine Learning-based Traffic Flow Prediction Method for Large Scale Road Network[C]</b>//ICC 2022-IEEE International Conference on Communications. IEEE, 2022: 3532-3537. [Link](https://ieeexplore.ieee.org/abstract/document/9838799/)

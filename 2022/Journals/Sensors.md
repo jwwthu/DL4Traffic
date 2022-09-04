@@ -1,3 +1,4 @@
+* Li J, Wu P, Li R, et al. <b>ST-CRMF: Compensated Residual Matrix Factorization with Spatial-Temporal Regularization for Graph-Based Time Series Forecasting[J]</b>. Sensors, 2022, 22(15): 5877. [Link](https://www.mdpi.com/1424-8220/22/15/5877)
 * Zafar N, Haq I U, Chughtai J R, et al. <b>Applying Hybrid Lstm-Gru Model Based on Heterogeneous Data Sources for Traffic Speed Prediction in Urban Areas[J]</b>. Sensors, 2022, 22(9): 3348. [Link](https://www.mdpi.com/1424-8220/22/9/3348)
 * Mehdizadeh Dastjerdi A, Morency C. <b>Bike-Sharing Demand Prediction at Community Level under COVID-19 Using Deep Learning[J]</b>. Sensors, 2022, 22(3): 1060. [Link](https://www.mdpi.com/1424-8220/22/3/1060)
 * Braz F J, Ferreira J, Gonçalves F, et al. <b>Road Traffic Forecast Based on Meteorological Information through Deep Learning Methods[J]</b>. Sensors, 2022, 22(12): 4485. [Link](https://www.mdpi.com/1424-8220/22/12/4485) [Data](https://figshare.com/s/d324f5be912e7f7a0d21)

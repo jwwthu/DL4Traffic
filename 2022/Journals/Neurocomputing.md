@@ -1,2 +1,3 @@
+* Yan X, Gan X, Wang R, et al. <b>Self-Attention Eidetic 3D-LSTM: Video Prediction Models for Traffic Flow Forecasting[J]</b>. Neurocomputing, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0925231222010542)
 * Liu Y, Wu C, Wen J, et al. <b>A Grey Convolutional Neural Network Model for Traffic Flow Prediction under Traffic Accidents[J]</b>. Neurocomputing, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0925231222006567)
 * Zhang H, Zou Y, Yang X, et al. <b>A Temporal Fusion Transformer for Short-term Freeway Traffic Speed Multistep Prediction[J]</b>. Neurocomputing, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S092523122200666X)

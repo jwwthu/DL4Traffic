@@ -1,0 +1,1 @@
+* Bui K H N, Nguyen N D, Yi H. <b>Dynamic Spatial Transformer WaveNet Network for Traffic Forecasting[J]</b>. Vietnam Journal of Computer Science, 2022: 1-14. [Link](https://www.worldscientific.com/doi/abs/10.1142/S2196888822500324) [Code and Data](https://github.com/BuiKhacHoaiNam/UVDS-Tra±cDataset)

@@ -1,0 +1,1 @@
+* Chen L, Shi P, Li G, et al. <b>Traffic flow prediction using multi-view graph convolution and masked attention mechanism[J]</b>. Computer Communications, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0140366422003164)

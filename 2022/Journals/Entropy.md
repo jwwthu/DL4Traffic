@@ -1,0 +1,1 @@
+* Zhou S, Song C, Wang T, et al. <b>A Short-Term Hybrid TCN-GRU Prediction Model of Bike-Sharing Demand Based on Travel Characteristics Mining[J]</b>. Entropy, 2022, 24(9): 1193. [Link](https://www.mdpi.com/1797080) [Data](https://www.kaggle.com/hmavrodiev/london‐bike‐sharing‐dataset)

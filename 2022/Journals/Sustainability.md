@@ -1,3 +1,4 @@
+* Cao Y, Wang Y. <b>Shared Cycling Demand Prediction during COVID-19 Combined with Urban Computing and Spatiotemporal Residual Network[J]</b>. Sustainability, 2022, 14(16): 9888. [Link](https://www.mdpi.com/article/10.3390/su14169888)
 * Lee G, Choo S, Choi S, et al. <b>Does the Inclusion of Spatio-Temporal Features Improve Bus Travel Time Predictions? A Deep Learning-Based Modelling Approach[J]</b>. Sustainability, 2022, 14(12): 7431. [Link](https://www.mdpi.com/2071-1050/14/12/7431)
 * Hungness D, Bridgelall R. <b>Exploratory spatial data analysis of traffic forecasting: a case study[J]</b>. Sustainability, 2022, 14(2): 964. [Link](https://www.mdpi.com/2071-1050/14/2/964)
 * Xu Z, Hou L, Zhang Y, et al. <b>Passenger Flow Prediction of Scenic Spot Using a GCN–RNN Model[J]</b>. Sustainability, 2022, 14(6): 3295. [Link](https://www.mdpi.com/2071-1050/14/6/3295)
