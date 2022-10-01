@@ -1,3 +1,4 @@
+* Zhou Q, Chen N, Lin S. <b>FASTNN: A Deep Learning Approach for Traffic Flow Prediction Considering Spatiotemporal Features[J]</b>. Sensors, 2022, 22(18): 6921. [Link](https://www.mdpi.com/1827728)
 * Li J, Wu P, Li R, et al. <b>ST-CRMF: Compensated Residual Matrix Factorization with Spatial-Temporal Regularization for Graph-Based Time Series Forecasting[J]</b>. Sensors, 2022, 22(15): 5877. [Link](https://www.mdpi.com/1424-8220/22/15/5877)
 * Zafar N, Haq I U, Chughtai J R, et al. <b>Applying Hybrid Lstm-Gru Model Based on Heterogeneous Data Sources for Traffic Speed Prediction in Urban Areas[J]</b>. Sensors, 2022, 22(9): 3348. [Link](https://www.mdpi.com/1424-8220/22/9/3348)
 * Mehdizadeh Dastjerdi A, Morency C. <b>Bike-Sharing Demand Prediction at Community Level under COVID-19 Using Deep Learning[J]</b>. Sensors, 2022, 22(3): 1060. [Link](https://www.mdpi.com/1424-8220/22/3/1060)

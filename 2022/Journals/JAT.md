@@ -1,3 +1,5 @@
+* Li H, Zhao Y, Ma C, et al. <b>Short-Term Passenger Flow Prediction of Urban Rail Transit Based on SDS-SSA-LSTM[J]</b>. Journal of Advanced Transportation, 2022. [Link](https://www.hindawi.com/journals/jat/2022/2589681/)
+* Ge Y, Zhai J F, Su P C. <b>Traffic Flow Prediction Based on Multi-Spatiotemporal Attention Gated Graph Convolution Network[J]</b>. Journal of Advanced Transportation, 2022. [Link](https://www.hindawi.com/journals/jat/2022/2723101/)
 * Chai C, Ren C, Yin C, et al. <b>A Multifeature Fusion Short-Term Traffic Flow Prediction Model Based on Deep Learnings[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/1702766/)
 * Feng J, Yu L, Ma R. <b>AGCN-T: A Traffic Flow Prediction Model for Spatial-Temporal Network Dynamics[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/1217588/)
 * Zhao S, Li X. <b>An Attention Encoder-Decoder Dual Graph Convolutional Network with Time Series Correlation for Multi-Step Traffic Flow Prediction[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/7682274/)

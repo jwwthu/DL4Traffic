@@ -1,1 +1,2 @@
+* Djenouri Y, Belhadi A, Srivastava G, et al. <b>Hybrid graph convolution neural network and branch and bound optimization for traffic flow forecasting[J]</b>. Future Generation Computer Systems, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X22003028)
 * Yan H, Fu L, Qi Y, et al. <b>Robust ensemble method for short-term traffic flow prediction[J]</b>. Future Generation Computer Systems, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X22001157)

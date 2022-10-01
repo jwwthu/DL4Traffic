@@ -1,3 +1,4 @@
+* Huang X, Lan Y, Ye Y, et al. <b>Traffic Flow Prediction Based on Multi-Mode Spatial-Temporal Convolution of Mixed Hop Diffuse ODE[J]</b>. Electronics, 2022, 11(19): 3012. [Link](https://www.mdpi.com/1844588)
 * Hu Z, Shao F, Sun R. <b>A New Perspective on Traffic Flow Prediction: A Graph Spatial-Temporal Network with Complex Network Information[J]</b>. Electronics, 2022, 11(15): 2432. [Link](https://www.mdpi.com/2079-9292/11/15/2432)
 * Liu Z, Bian J, Zhang D, et al. <b>Dynamic Multi-View Coupled Graph Convolution Network for Urban Travel Demand Forecasting[J]</b>. Electronics, 2022, 11(16): 2620. [Link](https://www.mdpi.com/2079-9292/11/16/2620)
 * Han S Y, Sun Q W, Yang X H, et al. <b>Adaptation Scheduling for Urban Traffic Lights via FNT-Based Prediction of Traffic Flow[J]</b>. Electronics, 2022, 11(4): 658. [Link](https://www.mdpi.com/2079-9292/11/4/658)

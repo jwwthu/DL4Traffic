@@ -1,1 +1,2 @@
+* Xu G, Hu X. <b>Multi-Dimensional Attention Based Spatial-Temporal Networks for Traffic Forecasting[J]</b>. Wireless Communications and Mobile Computing, 2022, 2022. [Link](https://www.hindawi.com/journals/wcmc/2022/1358535/)
 * Li C, Zhang H, Wang Z, et al. <b>Multigraph Aggregation Spatiotemporal Graph Convolution Network for Ride-Hailing Pick-Up Region Prediction[J]</b>. Wireless Communications and Mobile Computing, 2022, 2022. [Link](https://www.hindawi.com/journals/wcmc/2022/9815133/)

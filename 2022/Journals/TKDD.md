@@ -1,0 +1,1 @@
+* Dai S, Wang J, Huang C, et al. <b>Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference[J]</b>. ACM Transactions on Knowledge Discovery from Data (TKDD), 2022. [Link](https://dl.acm.org/doi/abs/10.1145/3564754) [Code](https://github.com/dsj96/TKDD)
