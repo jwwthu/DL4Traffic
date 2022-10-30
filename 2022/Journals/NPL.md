@@ -1,0 +1,1 @@
+* Wang Y, Zhao A, Li J, et al. <b>Multi-attribute Graph Convolution Network for Regional Traffic Flow Prediction[J]</b>. Neural Processing Letters, 2022: 1-27. [Link](https://link.springer.com/article/10.1007/s11063-022-11036-9)

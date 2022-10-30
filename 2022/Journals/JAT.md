@@ -1,3 +1,5 @@
+* Wang S, Lv Y, Peng Y, et al. <b>Metro Traffic Flow Prediction via Knowledge Graph and Spatiotemporal Graph Neural Network[J]</b>. Journal of Advanced Transportation, 2022. [Link](https://www.hindawi.com/journals/jat/2022/2348375/)
+* Yang J, Li J, Wei L, et al. <b>ST-AGRNN: A Spatio-Temporal Attention-Gated Recurrent Neural Network for Traffic State Forecasting[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/2806183/)
 * Li H, Zhao Y, Ma C, et al. <b>Short-Term Passenger Flow Prediction of Urban Rail Transit Based on SDS-SSA-LSTM[J]</b>. Journal of Advanced Transportation, 2022. [Link](https://www.hindawi.com/journals/jat/2022/2589681/)
 * Ge Y, Zhai J F, Su P C. <b>Traffic Flow Prediction Based on Multi-Spatiotemporal Attention Gated Graph Convolution Network[J]</b>. Journal of Advanced Transportation, 2022. [Link](https://www.hindawi.com/journals/jat/2022/2723101/)
 * Chai C, Ren C, Yin C, et al. <b>A Multifeature Fusion Short-Term Traffic Flow Prediction Model Based on Deep Learnings[J]</b>. Journal of Advanced Transportation, 2022, 2022. [Link](https://www.hindawi.com/journals/jat/2022/1702766/)

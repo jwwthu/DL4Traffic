@@ -1,0 +1,1 @@
+* Xia J, Wang S, Wang X, et al. <b>Multi-view Bayesian spatio-temporal graph neural networks for reliable traffic flow prediction[J]</b>. International Journal of Machine Learning and Cybernetics, 2022: 1-14. [Link](https://link.springer.com/article/10.1007/s13042-022-01689-2)

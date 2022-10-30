@@ -1,0 +1,1 @@
+* Li Z, Ren Q, Chen L, et al. <b>Multi-Scale Convolutional Networks for Traffic Forecasting with Spatial-Temporal Attention[J]</b>. Pattern Recognition Letters, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0167865522003051)

@@ -1,0 +1,1 @@
+* Swaminatha Rao L P, Jaganathan S. <b>Intelligent short term traffic forecasting using deep learning models with Bayesian contextual hyperband tuning[J]</b>. Computational Intelligence, 2022. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/coin.12554)

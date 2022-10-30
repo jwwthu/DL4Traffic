@@ -1,1 +1,3 @@
+* Li H, Lv Z, Li J, et al. <b>Traffic Flow Forecasting in the COVID-19: A Deep Spatial-Temporal Model Based on Discrete Wavelet Transformation[J]</b>. ACM Transactions on Knowledge Discovery from Data, 2022. [Link](https://dl.acm.org/doi/abs/10.1145/3564753)
+* Ling S, Yu Z, Cao S, et al. <b>STHAN: Transportation Demand Forecasting with Compound Spatio-Temporal Relationships[J]</b>. ACM Transactions on Knowledge Discovery from Data (TKDD), 2022. [Link](https://dl.acm.org/doi/abs/10.1145/3565578)
 * Dai S, Wang J, Huang C, et al. <b>Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference[J]</b>. ACM Transactions on Knowledge Discovery from Data (TKDD), 2022. [Link](https://dl.acm.org/doi/abs/10.1145/3564754) [Code](https://github.com/dsj96/TKDD)
