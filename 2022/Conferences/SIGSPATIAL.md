@@ -1,0 +1,1 @@
+* Xue H, Voutharoj B P, Salim F D. <b>Leveraging Language Foundation Models for Human Mobility Forecasting[C]</b>. ACM SIGSPATIAL 2022. [Link](https://arxiv.org/abs/2209.05479) [Code](https://github.com/cruiseresearchgroup/AuxMobLCast)

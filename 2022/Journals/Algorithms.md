@@ -1,0 +1,1 @@
+* Fiorini S, Ciavotta M, Maurino A. <b>Listening to the City, Attentively: A Spatio-Temporal Attention-Boosted Autoencoder for the Short-Term Flow Prediction Problem[J]</b>. Algorithms, 2022, 15(10): 376. [Link](https://www.mdpi.com/1999-4893/15/10/376) [Code](https://github.com/UNIMIBInside/Smart-Mobility-Prediction)
