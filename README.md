@@ -36,7 +36,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * Applied Soft Computing - [2022](https://github.com/jwwthu/DL4Traffic/blob/main/2022/Journals/ASC.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/ASC.md) | [2019](https://github.com/jwwthu/DL4Traffic/blob/main/2019/Journals/ASC.md)
 * Applied Sciences - [2022](https://github.com/jwwthu/DL4Traffic/blob/main/2022/Journals/Applied%20Sciences.md) | [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/Applied%20Sciences.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Applied%20Sciences.md) | [2019](https://github.com/jwwthu/DL4Traffic/blob/main/2019/Journals/Applied%20Sciences.md)
 * Arabian Journal for Science and Engineering - [2022](https://github.com/jwwthu/DL4Traffic/blob/main/2022/Journals/AJSE.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/AJSE.md) | [2019](https://github.com/jwwthu/DL4Traffic/blob/main/2019/Journals/AJSE.md)
-* Big Data - [2022](https://github.com/jwwthu/DL4Traffic/blob/main/2022/Journals/BigData.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/BigData.md) | [2019](https://github.com/jwwthu/DL4Traffic/blob/main/2019/Journals/BigData.md)
+* Big Data - [2022](https://github.com/jwwthu/DL4Traffic/blob/main/2022/Journals/BigData.md)
 * Big Data Research - [2022](https://github.com/jwwthu/DL4Traffic/blob/main/2022/Journals/BDR.md)
 * Chaos: An Interdisciplinary Journal of Nonlinear Science - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/Chaos.md) | [2019](https://github.com/jwwthu/DL4Traffic/blob/main/2019/Journals/Chaos.md)
 * Cluster Computing - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/Cluster.md)
@@ -182,6 +182,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 
 ## Conferences
 * AAAI - [2022](https://github.com/jwwthu/DL4Traffic/blob/main/2022/Conferences/AAAI.md) | [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Conferences/AAAI.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/AAAI.md) | [2019](https://github.com/jwwthu/DL4Traffic/blob/main/2019/Conferences/AAAI.md)
+* Big Data - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/BigData.md) | [2019](https://github.com/jwwthu/DL4Traffic/blob/main/2019/Conferences/BigData.md)
 * CAC - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/CAC.md) | [2019](https://github.com/jwwthu/DL4Traffic/blob/main/2019/Conferences/CAC.md)
 * CASE - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/CASE.md)
 * CICTP - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Conferences/CICTP.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Conferences/CICTP.md)
