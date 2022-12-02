@@ -1,1 +1,2 @@
+* Ning T, Wang J, Duan X. <b>Research on expressway traffic flow prediction model based on MSTA-GCN[J]</b>. Journal of Ambient Intelligence and Humanized Computing, 2022: 1-12. [Link](https://link.springer.com/article/10.1007/s12652-022-04431-6)
 * Qaddoura R, Younes M B. <b>Temporal prediction of traffic characteristics on real road scenarios in Amman[J]</b>. Journal of Ambient Intelligence and Humanized Computing, 2022: 1-16. [Link](https://link.springer.com/article/10.1007/s12652-022-03708-0)

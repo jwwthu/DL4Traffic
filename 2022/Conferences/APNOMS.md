@@ -1,0 +1,1 @@
+* Mehmood A, Khan T A, Muhammad A, et al. <b>Multi-Class Traffic Density Forecasting in IoV using Spatio-Temporal Graph Neural Networks[C]</b>//2022 23rd Asia-Pacific Network Operations and Management Symposium (APNOMS). IEEE, 2022: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9919973/)

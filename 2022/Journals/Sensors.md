@@ -1,3 +1,5 @@
+* Cai B, Wang Y, Huang C, et al. <b>GLSNN Network: A Multi-Scale Spatiotemporal Prediction Model for Urban Traffic Flow[J]</b>. Sensors, 2022, 22(22): 8880. [Link](https://www.mdpi.com/1424-8220/22/22/8880)
+* Pu S, Chu L, Hu J, et al. <b>SGGformer: Shifted Graph Convolutional Graph-Transformer for Traffic Prediction[J]</b>. Sensors, 2022, 22(22): 9024. [Link](https://www.mdpi.com/1959578)
 * Rad A C, Lemnaru C, Munteanu A. <b>A Comparative Analysis between Efficient Attention Mechanisms for Traffic Forecasting without Structural Priors[J]</b>. Sensors, 2022, 22(19): 7457. [Link](https://www.mdpi.com/1424-8220/22/19/7457) [Code](https://github.com/radandreicristian/adn)
 * Wei Y, Liu H. <b>Convolutional Long-Short Term Memory Network with Multi-Head Attention Mechanism for Traffic Flow Prediction[J]</b>. Sensors, 2022, 22(20): 7994. [Link](https://www.mdpi.com/1895550)
 * Shi R, Du L. <b>Multi-Section Traffic Flow Prediction Based on MLR-LSTM Neural Network[J]</b>. Sensors, 2022, 22(19): 7517. [Link](https://www.mdpi.com/1866032)

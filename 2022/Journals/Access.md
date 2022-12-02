@@ -1,3 +1,5 @@
+* Dai J, Huang J, Shen Q, et al. <b>SDSCNN: A Hybrid Model Integrating Static and Dynamic Spatial Correlation Neural Network for Traffic Prediction[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9953093/)
+* Bilotta S, Collini E, Nesi P, et al. <b>Short-Term Prediction of City Vehicle Flow via Convolutional Deep Learning[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9930774/)
 * Lei B, Zhang P, Suo Y, et al. <b>SAX-STGCN: Dynamic Spatio-temporal Graph Convolutional Networks for Traffic Flow Prediction[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9908544/)
 * Zheng H, Li X, Li Y, et al. <b>GCN-GAN: Integrating Graph Convolutional Network and Generative Adversarial Network for Traffic Flow Prediction[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9875268/)
 * Gao Y, Zhou C, Rong J, et al. <b>Short-Term Traffic Speed Forecasting Using a Deep Learning Method Based on Multitemporal Traffic Flow Volume[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9845396/) [Data](https://github.com/gao0628/Dataset)

@@ -1,0 +1,1 @@
+* Liu J, Zheng F, Liu X, et al. <b>Dynamic Traffic Flow Prediction Based on Long-Short Term Memory Framework With Feature Organization[J]</b>. IEEE Intelligent Transportation Systems Magazine, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9610174/)

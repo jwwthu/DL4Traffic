@@ -1,3 +1,4 @@
+* Zhang C, Zhang S, Zou X, et al. <b>Towards Large-Scale Graph-Based Traffic Forecasting: A Data-Driven Network Partitioning Approach[J]</b>. IEEE Internet of Things Journal, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9935122/)
 * Sun J, Peng M, Jiang H, et al. <b>HMIAN: a Hierarchical Mapping and Interactive Attention Data Fusion Network for Traffic Forecasting[J]</b>. IEEE Internet of Things Journal, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9863648/)
 * Jiang M, Li C, Li K, et al. <b>Inter-Block Flow Prediction with Relation Graph Network for Cold-start on Bike-Sharing System[J]</b>. IEEE Internet of Things Journal, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9677025/)
 * Zhou J, Han T, Xiao F, et al. <b>Multi-Scale Network Traffic Prediction Method Based on Deep Echo State Network for Internet of Things[J]</b>. IEEE Internet of Things Journal, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9792271/)

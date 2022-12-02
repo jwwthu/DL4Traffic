@@ -1,0 +1,1 @@
+* Hu N, Zhang D, Xie K, et al. <b>Multi-range bidirectional mask graph convolution based GRU networks for traffic prediction[J]</b>. Journal of Systems Architecture, 2022: 102775. [Link](https://www.sciencedirect.com/science/article/pii/S1383762122002600)

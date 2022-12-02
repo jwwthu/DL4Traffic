@@ -1,0 +1,1 @@
+* Aljuaydi F, Wiwatanapataphee B, Wu Y H. <b>Multivariate machine learning-based prediction models of freeway traffic flow under non-recurrent events[J]</b>. Alexandria engineering journal, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1110016822006640)

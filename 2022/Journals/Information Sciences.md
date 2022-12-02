@@ -1,3 +1,4 @@
+* Xu Y, Cai X, Wang E, et al. <b>Dynamic Traffic Correlations based Spatio-Temporal Graph Convolutional Network for Urban Traffic Prediction[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522013779)
 * Tang G, Li B, Dai H N, et al. <b>SPRNN: A Spatial-Temporal Recurrent Neural Network for Crowd Flow Prediction[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522011057) [Code](https://github.com/CVisionProcessing/SPRNN)
 * Cao S, Wu L, Wu J, et al. <b>A Spatio-Temporal Sequence-to-Sequence Network for Traffic Flow Prediction[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522008234)
 * Huang F, Yi P, Wang J, et al. <b>A Dynamical Spatial-Temporal Graph Neural Network for Traffic Demand Prediction[J]</b>. Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522001669)

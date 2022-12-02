@@ -1,1 +1,2 @@
+* Cirstea R G, Yang B, Guo C, et al. <b>Towards spatio-temporal aware traffic time series forecasting[C]</b>//2022 IEEE 38th International Conference on Data Engineering (ICDE). IEEE, 2022: 2900-2913. [Link](https://ieeexplore.ieee.org/abstract/document/9835586/) [Code](https://github.com/razvanc92/ST-WA)
 * Li G, Wang X, Njoo G S, et al. <b>A Data-Driven Spatial-Temporal Graph Neural Network for Docked Bike Prediction[C]</b>. IEEE International Conference on Data Engineering (ICDE), 2022. [Link](https://guanyaoli.github.io/files/STGNN-DJD-0110.pdf)

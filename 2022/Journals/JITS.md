@@ -1,0 +1,1 @@
+* Li Z, Xu H, Gao X, et al. <b>Fusion attention mechanism bidirectional LSTM for short-term traffic flow prediction[J]</b>. Journal of Intelligent Transportation Systems, 2022: 1-14. [Link](https://www.tandfonline.com/doi/abs/10.1080/15472450.2022.2142049)

@@ -1,1 +1,2 @@
+* Liu X, Liang Y, Huang C, et al. <b>When do contrastive learning signals help spatio-temporal graph forecasting?[C]</b>//Proceedings of the 30th International Conference on Advances in Geographic Information Systems. 2022: 1-12. [Link](https://dl.acm.org/doi/abs/10.1145/3557915.3560939) [Code](https://github.com/liuxu77/STGCL)
 * Xue H, Voutharoj B P, Salim F D. <b>Leveraging Language Foundation Models for Human Mobility Forecasting[C]</b>. ACM SIGSPATIAL 2022. [Link](https://arxiv.org/abs/2209.05479) [Code](https://github.com/cruiseresearchgroup/AuxMobLCast)

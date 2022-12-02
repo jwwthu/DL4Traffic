@@ -1,1 +1,2 @@
+* Zheng G, Chai W K, Duanmu J L, et al. <b>Hybrid deep learning models for traffic prediction in large-scale road networks[J]</b>. Information Fusion, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1566253522002299)
 * Prado-Rujas I I, Serrano E, García-Dopico A, et al. <b>Combining heterogeneous data sources for spatio-temporal mobility demand forecasting[J]</b>. Information Fusion, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S156625352200166X) [Code](https://github.com/iipr/mobility-demand)
