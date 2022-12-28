@@ -1,0 +1,1 @@
+* Ding F, Zhu Y, Yin Q, et al. <b>MS-ResCnet: A combined spatiotemporal modeling and multi-scale fusion network for taxi demand prediction[J]</b>. Computers and Electrical Engineering, 2023, 105: 108558. [Link](https://www.sciencedirect.com/science/article/pii/S004579062200773X)

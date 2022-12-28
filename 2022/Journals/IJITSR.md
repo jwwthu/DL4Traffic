@@ -1,0 +1,1 @@
+* Deva Hema D, Kumar K A. <b>Optimized Deep Neural Network Based Intelligent Decision Support System for Traffic State Prediction[J]</b>. International Journal of Intelligent Transportation Systems Research, 2022: 1-10. [Link](https://link.springer.com/article/10.1007/s13177-022-00332-2)

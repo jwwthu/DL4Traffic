@@ -1,2 +1,3 @@
+* Zhang X, Wen S, Yan L, et al. <b>A Hybrid-Convolution Spatial–Temporal Recurrent Network For Traffic Flow Prediction[J]</b>. The Computer Journal, 2022. [Link](https://academic.oup.com/comjnl/advance-article/doi/10.1093/comjnl/bxac171/6855103) [Data](https://github.com/CQRhinoZ/TaxiCQ)
 * Li H, Jin D, Li X J, et al. <b>A Dynamic Heterogeneous Graph Convolution Network For Traffic Flow Prediction[J]</b>. The Computer Journal, 2022. [Link](https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxac156/6832431)
 * Li H, Jin D, Li X J, et al. <b>Multi-View Spatial–Temporal Graph Neural Network for Traffic Prediction[J]</b>. The Computer Journal, 2022. [Link](https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxac086/6631438)

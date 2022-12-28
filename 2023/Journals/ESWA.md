@@ -1,0 +1,1 @@
+* Wang Z, Ding D, Liang X. <b>TYRE: A dynamic graph model for traffic prediction[J]</b>. Expert Systems with Applications, 2023, 215: 119311. [Link](https://www.sciencedirect.com/science/article/pii/S0957417422023296) [Code](https://github.com/wzhtxy/Traffic-dYnamic-gRaph-modEl)

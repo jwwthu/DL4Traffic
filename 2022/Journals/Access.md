@@ -1,3 +1,4 @@
+* Zafar N, Haq I U, Sohail H, et al. <b>Traffic Prediction in Smart Cities based on Hybrid Feature Space[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9996405/)
 * Dai J, Huang J, Shen Q, et al. <b>SDSCNN: A Hybrid Model Integrating Static and Dynamic Spatial Correlation Neural Network for Traffic Prediction[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9953093/)
 * Bilotta S, Collini E, Nesi P, et al. <b>Short-Term Prediction of City Vehicle Flow via Convolutional Deep Learning[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9930774/)
 * Lei B, Zhang P, Suo Y, et al. <b>SAX-STGCN: Dynamic Spatio-temporal Graph Convolutional Networks for Traffic Flow Prediction[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9908544/)
