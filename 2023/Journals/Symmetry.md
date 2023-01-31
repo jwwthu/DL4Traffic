@@ -1,0 +1,1 @@
+* Zhang J, Liu Y, Gui Y, et al. <b>An Improved Model Combining Outlook Attention and Graph Embedding for Traffic Forecasting[J]</b>. Symmetry, 2023, 15(2): 312. [Link](https://www.mdpi.com/2073-8994/15/2/312)

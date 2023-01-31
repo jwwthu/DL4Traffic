@@ -1,0 +1,1 @@
+* Jiang J, Han C, Zhao W X, et al. <b>PDFormer: Propagation Delay-aware Dynamic Long-range Transformer for Traffic Flow Prediction[C]</b>. AAAI, 2023. [Link](https://arxiv.org/abs/2301.07945) [Code](https://github.com/BUAABIGSCity/PDFormer)

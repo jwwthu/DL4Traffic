@@ -1,0 +1,1 @@
+* Rajeh T M, Li T, Li C, et al. <b>Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction[J]</b>. Knowledge-Based Systems, 2023, 262: 110237. [Link](https://www.sciencedirect.com/science/article/pii/S0950705122013338) [Code](https://github.com/TMRajeh/MRC-MLRU.git)

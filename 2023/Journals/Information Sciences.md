@@ -1,0 +1,1 @@
+* He R, Xiao Y, Lu X, et al. <b>ST-3DGMR: Spatio-temporal 3D grouped multiscale ResNet network for region-based urban traffic flow prediction[J]</b>. Information Sciences, 2023, 624: 68-93. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522015614) [Code](https://github.com/346644054/ST-3DGMR)

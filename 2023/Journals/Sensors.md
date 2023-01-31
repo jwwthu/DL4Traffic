@@ -1,0 +1,1 @@
+* Huang X, Wang J, Lan Y, et al. <b>MD-GCN: A Multi-Scale Temporal Dual Graph Convolution Network for Traffic Flow Prediction[J]</b>. Sensors, 2023, 23(2): 841. [Link](https://www.mdpi.com/article/10.3390/s23020841)

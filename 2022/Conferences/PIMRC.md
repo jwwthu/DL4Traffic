@@ -1,0 +1,1 @@
+* Zhao Y, Xu Y, He X, et al. <b>Spatiotemporal Graph Attention Networks for Urban Traffic Flow Prediction[C]</b>//2022 IEEE 33rd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC). IEEE, 2022: 340-345. [Link](https://ieeexplore.ieee.org/abstract/document/9977794/)

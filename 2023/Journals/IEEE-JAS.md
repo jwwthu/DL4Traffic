@@ -1,0 +1,1 @@
+* Wei Z, Zhao H, Li Z, et al. <b>STGSA: A Novel Spatial-Temporal Graph Synchronous Aggregation Model for Traffic Prediction[J]</b>. IEEE/CAA Journal of Automatica Sinica, 2023, 10(1): 226-238. [Link](https://ieeexplore.ieee.org/abstract/document/10007913/)

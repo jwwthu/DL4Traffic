@@ -1,0 +1,1 @@
+* Huang X, Zhang B, Feng S, et al. <b>Interpretable local flow attention for multi-step traffic flow prediction[J]</b>. Neural Networks, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0893608023000230) [Code](https://github.com/hub5/LFAConvLSTM)

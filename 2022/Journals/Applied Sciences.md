@@ -1,3 +1,4 @@
+* Wu X, Fu S, He Z. <b>Research on Short-Term Traffic Flow Combination Prediction Based on CEEMDAN and Machine Learning[J]</b>. Applied Sciences, 2022, 13(1): 308. [Link](https://www.mdpi.com/2076-3417/13/1/308)
 * He Z, Zhao C, Huang Y. <b>Multivariate Time Series Deep Spatiotemporal Forecasting with Graph Neural Network[J]</b>. Applied Sciences, 2022, 12(11): 5731. [Link](https://www.mdpi.com/1663940) [Code](https://github.com/yiminghzc/MDST-GNN)
 * Mohammed G P, Alasmari N, Alsolai H, et al. <b>Autonomous Short-Term Traffic Flow Prediction Using Pelican Optimization with Hybrid Deep Belief Network in Smart Cities[J]</b>. Applied Sciences, 2022, 12(21): 10828. [Link](https://www.mdpi.com/1906076)
 * Wang S, Zhang Y, Fu E, et al. <b>Multiscale Backcast Convolution Neural Network for Traffic Flow Prediction in The Frequency Domain[J]</b>. Applied Sciences, 2022, 12(23): 11912. [Link](https://www.mdpi.com/2076-3417/12/23/11912)

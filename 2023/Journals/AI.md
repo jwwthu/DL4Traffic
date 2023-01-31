@@ -1,0 +1,1 @@
+* Han Y, Zhao S, Deng H, et al. <b>Principal graph embedding convolutional recurrent network for traffic flow prediction[J]</b>. Applied Intelligence, 2023: 1-15. [Link](https://link.springer.com/article/10.1007/s10489-022-04211-x) [Code](https://github.com/hanyang-sh/PGECRN)

@@ -1,0 +1,1 @@
+* Huang R, Chen Z, Zhai G, et al. <b>Spatial‐temporal correlation graph convolutional networks for traffic forecasting[J]</b>. IET Intelligent Transport Systems, 2023. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12330)

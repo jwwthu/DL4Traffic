@@ -1,0 +1,1 @@
+* Yang H, Du L, Zhang G, et al. <b>A traffic flow dependency and dynamics based deep learning aided approach for network-wide traffic speed propagation prediction[J]</b>. Transportation research part B: methodological, 2023, 167: 99-117. [Link](https://www.sciencedirect.com/science/article/pii/S0191261522001904)

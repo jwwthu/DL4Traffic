@@ -1,0 +1,1 @@
+* Li X, Wu J, He D, et al. <b>Learning Spatial-Temporal Dynamics for Short-Term Passenger Flow Prediction in Urban Rail Transit[J]</b>. Transportation Research Record, 2023: 03611981221143109. [Link](https://journals.sagepub.com/doi/abs/10.1177/03611981221143109)
