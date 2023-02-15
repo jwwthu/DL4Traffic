@@ -7,7 +7,7 @@
 
 **Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Graph Neural Network for Traffic Forecasting" for Algorithms (EI and ESCI-indexed, ISSN 1999-4893).
 * Special issue website: [https://www.mdpi.com/journal/algorithms/special_issues/Traffic_Forecasting](https://www.mdpi.com/journal/algorithms/special_issues/Traffic_Forecasting)
-* Deadline for manuscript submissions: **1 December 2022**.
+* Deadline for manuscript submissions: **31 May 2023**.
 
 This is the repository for the collection of Deep Learning for Traffic Prediction Problems.
 
