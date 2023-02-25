@@ -1,1 +1,2 @@
+* Wen Y, Xu P, Li Z, et al. <b>RPConvformer: A novel Transformer-based deep neural networks for traffic flow prediction[J]</b>. Expert Systems with Applications, 2023: 119587. [Link](https://www.sciencedirect.com/science/article/pii/S095741742300088X) [Code](https://github.com/YanJieWen/RPConvformer)
 * Wang Z, Ding D, Liang X. <b>TYRE: A dynamic graph model for traffic prediction[J]</b>. Expert Systems with Applications, 2023, 215: 119311. [Link](https://www.sciencedirect.com/science/article/pii/S0957417422023296) [Code](https://github.com/wzhtxy/Traffic-dYnamic-gRaph-modEl)

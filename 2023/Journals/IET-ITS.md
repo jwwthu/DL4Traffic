@@ -1,1 +1,3 @@
+* Chang L, Ma C, Sun K, et al. <b>Enhanced road information representation in graph recurrent network for traffic speed prediction[J]</b>. IET Intelligent Transport Systems, 2023. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12334)
+* Jia X, Zhou W, Yang H, et al. <b>Short‐term traffic travel time forecasting using ensemble approach based on long short‐term memory networks[J]</b>. IET Intelligent Transport Systems, 2023. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12331)
 * Huang R, Chen Z, Zhai G, et al. <b>Spatial‐temporal correlation graph convolutional networks for traffic forecasting[J]</b>. IET Intelligent Transport Systems, 2023. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/itr2.12330)

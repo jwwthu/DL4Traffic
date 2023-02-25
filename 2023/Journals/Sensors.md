@@ -1,1 +1,2 @@
+* Luo R, Song Y, Huang L, et al. <b>AST-GIN: Attribute-Augmented Spatiotemporal Graph Informer Network for Electric Vehicle Charging Station Availability Forecasting[J]</b>. Sensors, 2023, 23(4): 1975. [Link](https://www.mdpi.com/2127854) [Data](https://data.dundeecity.gov.uk/dataset/ev-charging-data)
 * Huang X, Wang J, Lan Y, et al. <b>MD-GCN: A Multi-Scale Temporal Dual Graph Convolution Network for Traffic Flow Prediction[J]</b>. Sensors, 2023, 23(2): 841. [Link](https://www.mdpi.com/article/10.3390/s23020841)

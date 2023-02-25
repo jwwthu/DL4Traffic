@@ -1,0 +1,1 @@
+* Fu T, Yu Q, Lao H, et al. <b>Traffic Safety Oriented Multi-Intersection Flow Prediction Based on Transformer and CNN[J]</b>. Security and Communication Networks, 2023, 2023. [Link](https://www.hindawi.com/journals/scn/2023/1363639/)

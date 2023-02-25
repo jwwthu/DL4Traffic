@@ -1,0 +1,1 @@
+* Tao S, Zhang H, Yang F, et al. <b>Multiple Information Spatial-Temporal Attention Based Graph Convolution Network for traffic prediction[J]</b>. Applied Soft Computing, 2023: 110052. [Link](https://www.sciencedirect.com/science/article/pii/S1568494623000704) [Code](https://codeocean.com/capsule/0428516/tree/v1)

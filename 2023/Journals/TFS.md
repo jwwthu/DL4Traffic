@@ -1,0 +1,1 @@
+* Tu Q, Zhang Q, ji Zhang Z, et al. <b>A Deep Spatio-Temporal Fuzzy Neural Network for Subway Passenger Flow Prediction with COVID-19 Search Engine Data[J]</b>. IEEE Transactions on Fuzzy Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9786769/)

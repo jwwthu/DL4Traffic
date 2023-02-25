@@ -1,0 +1,1 @@
+* Li S, Yang H, Cheng R, et al. <b>Hybrid deep learning models for short-term demand forecasting of online car-hailing considering multiple factors[J]</b>. Transportation Letters, 2023: 1-16. [Link](https://www.tandfonline.com/doi/abs/10.1080/19427867.2023.2175420)

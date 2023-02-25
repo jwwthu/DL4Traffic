@@ -1,0 +1,1 @@
+* Liu S, Feng X, Ren Y, et al. <b>DCENet: A dynamic correlation evolve network for short-term traffic prediction[J]</b>. Physica A: Statistical Mechanics and its Applications, 2023: 128525. [Link](https://www.sciencedirect.com/science/article/pii/S0378437123000808)
