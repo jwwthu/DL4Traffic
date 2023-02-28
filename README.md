@@ -14,6 +14,8 @@ This is the repository for the collection of Deep Learning for Traffic Predictio
 If you find this repository helpful, you may consider cite our relevant work:
 * Jiang W, Luo J. <b>Graph Neural Network for Traffic Forecasting: A Survey[J]</b>. Expert Systems with Applications, 2022. [Link](https://arxiv.org/abs/2101.11174)
 * Jiang W, Luo J. <b>Big Data for Traffic Estimation and Prediction: A Survey of Data and Tools[J]</b>. Applied System Innovation. 2022; 5(1):23. [Link](https://www.mdpi.com/2571-5577/5/1/23)
+* Jiang W. <b>Bike sharing usage prediction with deep learning: a survey[J]</b>. Neural Computing and Applications, 2022, 34(18): 15369-15385. [Link](https://link.springer.com/article/10.1007/s00521-022-07380-5)
+* Jiang W, Luo J, He M, Gu W. <b>Graph Neural Network for Traffic Forecasting: The Research Progress[J]</b>. ISPRS International Journal of Geo-Information, 2023. [Link](https://www.mdpi.com/2220-9964/12/3/100)
 
 For a narrow collection of graph neural network for traffic forecasting, you may check: [GNN4Traffic](https://github.com/jwwthu/GNN4Traffic)
 
