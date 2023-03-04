@@ -127,7 +127,7 @@ For a narrow collection of graph neural network for traffic forecasting, you may
 * Journal of Forecasting - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JF.md)
 * Journal of Information and Telecommunication - [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JIT.md)
 * Journal of Intelligent Transportation Systems - [2022](https://github.com/jwwthu/DL4Traffic/blob/main/2022/Journals/JITS.md) | [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/JITS.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JITS.md)
-* Journal of Intelligent & Fuzzy Systems - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/JIFS.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JIFS.md)
+* Journal of Intelligent & Fuzzy Systems - [2023](https://github.com/jwwthu/DL4Traffic/blob/main/2023/Journals/JIFS.md) | [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/JIFS.md) | [2020](https://github.com/jwwthu/DL4Traffic/blob/main/2020/Journals/JIFS.md)
 * Journal of Internet Services and Applications - [2021](https://github.com/jwwthu/DL4Traffic/blob/main/2021/Journals/JISA.md)
 * Journal of King Saud University-Computer and Information Sciences - [2022](https://github.com/jwwthu/DL4Traffic/blob/main/2022/Journals/JKSU-CIS.md)
 * Journal of Sensors - [2019](https://github.com/jwwthu/DL4Traffic/blob/main/2019/Journals/JS.md)

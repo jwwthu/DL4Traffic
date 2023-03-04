@@ -1,0 +1,1 @@
+* Ge L, Jia Y, Li Q, et al. <b>Dynamic multi-graph convolution recurrent neural network for traffic speed prediction[J]</b>. Journal of Intelligent & Fuzzy Systems (Preprint): 1-14, 2023. [Link](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs222857)
