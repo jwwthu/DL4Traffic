@@ -1,2 +1,3 @@
+* Xu Y, Lu Y, Ji C, et al. <b>Adaptive Graph Fusion Convolutional Recurrent Network for Traffic Forecasting[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10042970/)
 * Zhang Q, Li C, Su F, et al. <b>Spatio-Temporal Residual Graph Attention Network for Traffic Flow Forecasting[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10040629/)
 * Zhang C, Zhang S, Zou X, et al. <b>Towards Large-Scale Graph-Based Traffic Forecasting: A Data-Driven Network Partitioning Approach[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9935122/)

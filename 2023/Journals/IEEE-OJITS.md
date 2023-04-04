@@ -1,0 +1,1 @@
+* Hoppe J, Schwinger F, Haeger H, et al. <b>Improving the Prediction of Passenger Numbers in Public Transit Networks by Combining Short-term Forecasts with Real-time Occupancy Data[J]</b>. IEEE Open Journal of Intelligent Transportation Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10057448/)

@@ -1,0 +1,1 @@
+* Xu Z, Kang Y, Cao Y. <b>High-Resolution Urban Flows Forecasting with Coarse-Grained Spatiotemporal Data[J]</b>. IEEE Transactions on Artificial Intelligence, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9721618/)

@@ -1,0 +1,1 @@
+* Luo G, Zhang H, Yuan Q, et al. <b>One Size Fits All: A Unified Traffic Predictor for Capturing the Essential Spatial–Temporal Dependency[J]</b>. IEEE Transactions on Neural Networks and Learning Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10086556/)

@@ -1,0 +1,1 @@
+* Cheng X, He Y, Zhang P, et al. <b>Traffic flow prediction based on information aggregation and comprehensive temporal-spatial synchronous graph neural network[J]</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10068539/)

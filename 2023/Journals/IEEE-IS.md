@@ -1,0 +1,1 @@
+* Liao L, Li B, Zou F, et al. <b>MFGCN: A Multimodal Fusion Graph Convolutional Network for Online Car-hailing Demand Prediction[J]</b>. IEEE Intelligent Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10058089/)

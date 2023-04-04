@@ -1,0 +1,1 @@
+* Li Z, Wang X, Yang K. <b>An Effective Self-Attention-Based Hybrid Model for Short-Term Traffic Flow Prediction[J]</b>. Advances in Civil Engineering, 2023, 2023. [Link](https://www.hindawi.com/journals/ace/2023/9308576/)
