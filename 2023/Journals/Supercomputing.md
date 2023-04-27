@@ -1,0 +1,1 @@
+* Liu T, Zhang J. <b>An adaptive traffic flow prediction model based on spatiotemporal graph neural network[J]</b>. The Journal of Supercomputing, 2023: 1-25. [Link](https://link.springer.com/article/10.1007/s11227-023-05261-9)

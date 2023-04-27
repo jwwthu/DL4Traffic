@@ -1,3 +1,4 @@
+* Oluwasanmi A, Aftab M U, Qin Z, et al. <b>Multi-Head Spatiotemporal Attention Graph Convolutional Network for Traffic Prediction[J]</b>. Sensors, 2023, 23(8): 3836. [Link](https://www.mdpi.com/1424-8220/23/8/3836)
 * Gu J, Jia Z, Cai T, et al. <b>Dynamic Correlation Adjacency-Matrix-Based Graph Neural Networks for Traffic Flow Prediction[J]</b>. Sensors, 2023, 23(6): 2897. [Link](https://www.mdpi.com/1424-8220/23/6/2897)
 * Li B, Xiong J, Wan F, et al. <b>Incorporating Multivariate Auxiliary Information for Traffic Prediction on Highways[J]</b>. Sensors, 2023, 23(7): 3631. [Link](https://www.mdpi.com/1424-8220/23/7/3631)
 * Luo R, Song Y, Huang L, et al. <b>AST-GIN: Attribute-Augmented Spatiotemporal Graph Informer Network for Electric Vehicle Charging Station Availability Forecasting[J]</b>. Sensors, 2023, 23(4): 1975. [Link](https://www.mdpi.com/2127854) [Data](https://data.dundeecity.gov.uk/dataset/ev-charging-data)

@@ -1,2 +1,3 @@
+* Zhai X, Shen Y. <b>Short-Term Bus Passenger Flow Prediction Based on Graph Diffusion Convolutional Recurrent Neural Network[J]</b>. Applied Sciences, 2023, 13(8): 4910. [Link](https://www.mdpi.com/2076-3417/13/8/4910)
 * Liu L, Wu M, Chen R C, et al. <b>A Hybrid Deep Learning Model for Multi-Station Classification and Passenger Flow Prediction[J]</b>. Applied Sciences, 2023, 13(5): 2899. [Link](https://www.mdpi.com/2076-3417/13/5/2899)
 * Wu F, Zheng C, Zhang C, et al. <b>Multi-View Multi-Attention Graph Neural Network for Traffic Flow Forecasting[J]</b>. Applied Sciences, 2023, 13(2): 711. [Link](https://www.mdpi.com/2050188)

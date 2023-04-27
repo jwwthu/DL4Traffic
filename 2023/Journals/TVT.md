@@ -1,1 +1,2 @@
 * Liang G, Kintak U, Ning X, et al. <b>Semantics-aware Dynamic Graph Convolutional Network for Traffic Flow Forecasting[J]</b>. IEEE Transactions on Vehicular Technology, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10032116/)
+* Chen J, Wang W, Yu K, et al. <b>Node Connection Strength Matrix-Based Graph Convolution Network for Traffic Flow Prediction[J]</b>. IEEE Transactions on Vehicular Technology, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10093942/)
