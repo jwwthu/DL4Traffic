@@ -1,0 +1,1 @@
+* Djenouri Y, Michalak T P, Lin J C W. <b>Federated deep learning for smart city edge-based applications[J]</b>. Future Generation Computer Systems, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X23001747)

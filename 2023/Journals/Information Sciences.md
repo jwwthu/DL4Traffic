@@ -1,3 +1,4 @@
+* Yin X, Zhang W, Zhang S. <b>Spatiotemporal dynamic graph convolutional network for traffic speed forecasting[J]</b>. Information Sciences, 2023: 119056. [Link](https://www.sciencedirect.com/science/article/pii/S0020025523006412)
 * Bao Y, Liu J, Shen Q, et al. <b>PKET-GCN: Prior Knowledge Enhanced Time-Varying Graph Convolution Network for Traffic Flow Prediction[J]</b>. Information Sciences, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0020025523004188)
 * Liu M, Liu G, Sun L. <b>Spatial-Temporal Dependence and Similarity Aware Traffic Flow Forecasting[J]</b>. Information Sciences, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0020025522016024)
 * Qin Y, Luo H, Zhao F, et al. <b>Spatio-temporal hierarchical MLP network for traffic forecasting[J]</b>. Information Sciences, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0020025523003584)

@@ -1,3 +1,4 @@
+* Corrias R, Gjoreski M, Langheinrich M. <b>Exploring Transformer and Graph Convolutional Networks for Human Mobility Modeling[J]</b>. Sensors, 2023, 23(10): 4803. [Link](https://www.mdpi.com/1424-8220/23/10/4803) [Code](https://github.com/corrir/Transformers-and-Graph-Convolutional-Networks-for-Human-Mobility-Modeling)
 * Oluwasanmi A, Aftab M U, Qin Z, et al. <b>Multi-Head Spatiotemporal Attention Graph Convolutional Network for Traffic Prediction[J]</b>. Sensors, 2023, 23(8): 3836. [Link](https://www.mdpi.com/1424-8220/23/8/3836)
 * Gu J, Jia Z, Cai T, et al. <b>Dynamic Correlation Adjacency-Matrix-Based Graph Neural Networks for Traffic Flow Prediction[J]</b>. Sensors, 2023, 23(6): 2897. [Link](https://www.mdpi.com/1424-8220/23/6/2897)
 * Li B, Xiong J, Wan F, et al. <b>Incorporating Multivariate Auxiliary Information for Traffic Prediction on Highways[J]</b>. Sensors, 2023, 23(7): 3631. [Link](https://www.mdpi.com/1424-8220/23/7/3631)

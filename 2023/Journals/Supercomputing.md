@@ -1,1 +1,2 @@
+* Su Z, Liu T, Hao X, et al. <b>Spatial-temporal graph convolutional networks for traffic flow prediction considering multiple traffic parameters[J]</b>. The Journal of Supercomputing, 2023: 1-20. [Link](https://link.springer.com/article/10.1007/s11227-023-05383-0)
 * Liu T, Zhang J. <b>An adaptive traffic flow prediction model based on spatiotemporal graph neural network[J]</b>. The Journal of Supercomputing, 2023: 1-25. [Link](https://link.springer.com/article/10.1007/s11227-023-05261-9)

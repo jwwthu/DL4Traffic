@@ -1,0 +1,1 @@
+* Zhao T, Huang Z, Tu W, et al. <b>Developing a multiview spatiotemporal model based on deep graph neural networks to predict the travel demand by bus[J]</b>. International Journal of Geographical Information Science, 2023: 1-27. [Link](https://www.tandfonline.com/doi/abs/10.1080/13658816.2023.2203218)

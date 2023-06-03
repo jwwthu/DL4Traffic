@@ -1,0 +1,1 @@
+* Dai G, Tang J, Luo W. <b>Short-term traffic flow prediction: An ensemble machine learning approach[J]</b>. Alexandria Engineering Journal, 2023, 74: 467-480. [Link](https://www.sciencedirect.com/science/article/pii/S1110016823003605)

@@ -1,0 +1,1 @@
+* Zhao J, Zhang R, Sun Q, et al. <b>Adaptive graph convolutional network-based short-term passenger flow prediction for metro[J]</b>. Journal of Intelligent Transportation Systems, 2023: 1-10. [Link](https://www.tandfonline.com/doi/abs/10.1080/15472450.2023.2209913)

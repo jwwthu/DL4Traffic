@@ -1,1 +1,2 @@
+* Han X, Zhu G, Zhao L, et al. <b>Ollivier–Ricci Curvature Based Spatio-Temporal Graph Neural Networks for Traffic Flow Forecasting[J]</b>. Symmetry, 2023, 15(5): 995. [Link](https://www.mdpi.com/2073-8994/15/5/995)
 * Zhang J, Liu Y, Gui Y, et al. <b>An Improved Model Combining Outlook Attention and Graph Embedding for Traffic Forecasting[J]</b>. Symmetry, 2023, 15(2): 312. [Link](https://www.mdpi.com/2073-8994/15/2/312)

@@ -1,0 +1,1 @@
+* Weng W, Fan J, Wu H, et al. <b>A Decomposition Dynamic Graph Convolutional Recurrent Network for Traffic Forecasting[J]</b>. Pattern Recognition, 2023: 109670. [Link](https://www.sciencedirect.com/science/article/pii/S0031320323003710) [Code](https://github.com/wengwenchao123/DDGCRN)

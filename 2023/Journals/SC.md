@@ -1,0 +1,1 @@
+* Li Z, Cao J, Shi X, et al. <b>QPSO-AHES-RC: a hybrid learning model for short-term traffic flow prediction[J]</b>. Soft Computing, 2023: 1-20. [Link](https://link.springer.com/article/10.1007/s00500-023-08291-w)
