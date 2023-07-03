@@ -1,0 +1,1 @@
+* Lin J, Lin C, Ye Q. <b>Attention based convolutional networks for traffic flow prediction[J]</b>. Multimedia Tools and Applications, 2023: 1-16. [Link](https://link.springer.com/article/10.1007/s11042-023-15395-w)

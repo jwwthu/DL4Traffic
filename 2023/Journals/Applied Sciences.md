@@ -1,3 +1,5 @@
+* Chang Z, Liu C, Jia J. <b>STA-GCN: Spatial-Temporal Self-Attention Graph Convolutional Networks for Traffic-Flow Prediction[J]</b>. Applied Sciences, 2023, 13(11): 6796. [Link](https://www.mdpi.com/2076-3417/13/11/6796)
+* Hu C, Liu X, Wu S, et al. <b>Dynamic Graph Convolutional Crowd Flow Prediction Model Based on Residual Network Structure[J]</b>. Applied Sciences, 2023, 13(12): 7271. [Link](https://www.mdpi.com/2076-3417/13/12/7271)
 * Ranjan S, Kim Y C, Ranjan N, et al. <b>Large-Scale Road Network Traffic Congestion Prediction Based on Recurrent High-Resolution Network[J]</b>. Applied Sciences, 2023, 13(9): 5512. [Link](https://www.mdpi.com/2076-3417/13/9/5512)
 * Li J, Wu P, Guo H, et al. <b>Multivariate Transfer Passenger Flow Forecasting with Data Imputation by Joint Deep Learning and Matrix Factorization[J]</b>. Applied Sciences, 2023, 13(9): 5625. [Link](https://www.mdpi.com/2076-3417/13/9/5625)
 * Zhai X, Shen Y. <b>Short-Term Bus Passenger Flow Prediction Based on Graph Diffusion Convolutional Recurrent Neural Network[J]</b>. Applied Sciences, 2023, 13(8): 4910. [Link](https://www.mdpi.com/2076-3417/13/8/4910)

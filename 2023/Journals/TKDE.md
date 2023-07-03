@@ -1,0 +1,2 @@
+* Ouyang X, Yang Y, Zhou W, et al. <b>CityTrans: Domain-Adversarial Training with Knowledge Transfer for Spatio-Temporal Prediction across Cities[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10145833/)
+* Wang H, Chen J, Fan Z, et al. <b>ST-ExpertNet: A Deep Expert Framework for Traffic Prediction[J]</b>. IEEE Transactions on Knowledge and Data Engineering, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9851916/)

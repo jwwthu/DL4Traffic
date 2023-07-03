@@ -1,0 +1,1 @@
+* Xie Y, Xiong Y, Zhang J, et al. <b>Temporal super-resolution traffic flow forecasting via continuous-time network dynamics[J]</b>. Knowledge and Information Systems, 2023: 1-26. [Link](https://link.springer.com/article/10.1007/s10115-023-01887-6) [Code](https://github.com/Xieyyyy/STCDN)

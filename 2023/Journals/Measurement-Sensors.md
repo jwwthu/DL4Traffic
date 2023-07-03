@@ -1,0 +1,1 @@
+* Lu J. <b>An efficient and intelligent traffic flow prediction method based on LSTM and variational modal decomposition[J]</b>. Measurement: Sensors, 2023: 100843. [Link](https://www.sciencedirect.com/science/article/pii/S2665917423001794)

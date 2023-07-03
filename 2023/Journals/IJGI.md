@@ -1,1 +1,2 @@
+* Li Z, Han Y, Xu Z, et al. <b>PMGCN: Progressive Multi-Graph Convolutional Network for Traffic Forecasting[J]</b>. ISPRS International Journal of Geo-Information, 2023, 12(6): 241. [Link](https://www.mdpi.com/2220-9964/12/6/241)
 * Liao Z, Huang H, Zhao Y, et al. <b>Analysis and Forecast of Traffic Flow between Urban Functional Areas Based on Ride-Hailing Trajectories[J]</b>. ISPRS International Journal of Geo-Information, 2023, 12(4): 144. [Link](https://www.mdpi.com/2220-9964/12/4/144)

@@ -1,3 +1,5 @@
+* Zhang Q, Li C, Su F, et al. <b>Spatio-Temporal Residual Graph Attention Network for Traffic Flow Forecasting[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10040629/)
+* Miao Y, Bai X, Cao Y, et al. <b>A Novel Short-Term Traffic Prediction Model based on SVD and ARIMA with Blockchain in Industrial Internet of Things[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10145923/)
 * Luo C, Cai R, Guo H, et al. <b>MG-ASTN: Multi-Graph Framework with Attentive Spatial-Temporal Networks for Crowd Mobility Prediction[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10139798/)
 * Xu Y, Lu Y, Ji C, et al. <b>Adaptive Graph Fusion Convolutional Recurrent Network for Traffic Forecasting[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10042970/)
 * Zhang Q, Li C, Su F, et al. <b>Spatio-Temporal Residual Graph Attention Network for Traffic Flow Forecasting[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10040629/)
