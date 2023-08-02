@@ -1,1 +1,2 @@
+* Zhou J, Qin X, Ding Y, et al. <b>Spatial–Temporal Dynamic Graph Differential Equation Network for Traffic Flow Forecasting[J]</b>. Mathematics, 2023, 11(13): 2867. [Link](https://www.mdpi.com/2227-7390/11/13/2867)
 * Liao L, Hu Z, Hsu C Y, et al. <b>Fourier Graph Convolution Network for Time Series Prediction[J]</b>. Mathematics, 2023, 11(7): 1649. [Link](https://www.mdpi.com/2227-7390/11/7/1649)

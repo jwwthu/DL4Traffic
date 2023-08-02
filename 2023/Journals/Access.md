@@ -1,3 +1,5 @@
+* Geng Q, Liu Z, Li B, et al. <b>Long-Short Term Memory-based Heuristic adaptive time-span strategy for Vehicle speed prediction[J]</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10162191/)
+* Cheng X, He Y, Zhang P, et al. <b>Traffic flow prediction based on information aggregation and comprehensive temporal-spatial synchronous graph neural network[J]</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10068539/)
 * Yin L, Liu P, Wu Y, et al. <b>ST-VGBiGRU: A Hybrid Model for Traffic Flow Prediction With Spatio-temporal Multimodality[J]</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10143176/)
 * Qin X. <b>Traffic Flow Prediction Based on Two-channel Multi-modal Fusion of MCB and Attention[J]</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10135078/)
 * Cheng X, He Y, Zhang P, et al. <b>Traffic flow prediction based on information aggregation and comprehensive temporal-spatial synchronous graph neural network[J]</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10068539/)

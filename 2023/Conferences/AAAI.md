@@ -1,1 +1,2 @@
+* Pan Z, Sharma A, Hu J Y C, et al. <b>Ising-traffic: Using ising machine learning to predict traffic congestion under uncertainty[C]</b>//Proceedings of the AAAI Conference on Artificial Intelligence. 2023, 37(8): 9354-9363. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26121)
 * Jiang J, Han C, Zhao W X, et al. <b>PDFormer: Propagation Delay-aware Dynamic Long-range Transformer for Traffic Flow Prediction[C]</b>. AAAI, 2023. [Link](https://arxiv.org/abs/2301.07945) [Code](https://github.com/BUAABIGSCity/PDFormer)

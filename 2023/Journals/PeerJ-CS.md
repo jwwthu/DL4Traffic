@@ -1,0 +1,1 @@
+* Zhao Z, Shen G, Zhou J, et al. <b>Spatial-temporal hypergraph convolutional network for traffic forecasting[J]</b>. PeerJ Computer Science, 2023, 9: e1450. [Link](https://peerj.com/articles/cs-1450/) [Code](http://dx.doi.org/10.7717/peerj-cs.1450#supplemental-information)

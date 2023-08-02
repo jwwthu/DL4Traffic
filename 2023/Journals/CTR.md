@@ -1,0 +1,1 @@
+* Xu M, Di Y, Ding H, et al. <b>AGNP: Network-wide short-term probabilistic traffic speed prediction and imputation[J]</b>. Communications in Transportation Research, 2023, 3: 100099. [Link](https://www.sciencedirect.com/science/article/pii/S2772424723000100) [Code](https://github.com/xm123155/AGNP_submission_commtr)

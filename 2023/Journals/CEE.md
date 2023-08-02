@@ -1,1 +1,2 @@
+* Wu L, Wang Y, Liu J, et al. <b>Developing a time-series speed prediction model using Transformer networks for freeway interchange areas[J]</b>. Computers and Electrical Engineering, 2023, 110: 108860. [Link](https://www.sciencedirect.com/science/article/pii/S0045790623002847)
 * Ding F, Zhu Y, Yin Q, et al. <b>MS-ResCnet: A combined spatiotemporal modeling and multi-scale fusion network for taxi demand prediction[J]</b>. Computers and Electrical Engineering, 2023, 105: 108558. [Link](https://www.sciencedirect.com/science/article/pii/S004579062200773X)

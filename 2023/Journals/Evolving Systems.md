@@ -1,0 +1,1 @@
+* Raut A, Maurya M K, Chaurasiya V K, et al. <b>Adaptive hyperparameter optimization for short term traffic flow prediction with spatial temporal correlated raster data[J]</b>. Evolving Systems, 2023: 1-20. [Link](https://link.springer.com/article/10.1007/s12530-023-09513-0) [Code](https://github.com/rautashwin/AdaptiveGPSO-LSTM)
